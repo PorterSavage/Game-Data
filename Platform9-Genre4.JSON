@@ -1,0 +1,1821 @@
+[
+    {
+      "description": "A sequel to Worms 2, <i>Worms Armageddon</i> expands upon its predecessor by enhancing a few facets of gameplay and including play over the Internet through Team 17's WormNet. \n\nLike the previous <i>Worms</i> installments, the game is an artillery variant. The player give an artillery piece a shot angle and shot power, and try to hit the opponent, taking into account wind effects. The player and the opponent exchange these shots in a turn-based fashion. The game puts the player in command of a team of up to eight worms, which can move around the landscape (one at a time), using many types of weapons to try to dispatch the enemy, from bazookas to mini-guns to exploding sheep. In some situations, the worms can also jump, swing by rope, and descend with a parachute.\n\nThe game includes an expansive editor that allows players to customize nearly every aspect of the game. Custom teams can be created, and players are able to edit their special weapons, grave markers, flags, victory fanfares, and voice sets, which can be imported into the game from outer sources. A random terrain generator and a terrain-import system are provided as well. The latter makes it possible to import into the game files in image formats, which the game converts into playable terrains.\n", 
+      "game_id": 633, 
+      "genres": [
+        {
+          "genre_category": "Basic Genres", 
+          "genre_category_id": 1, 
+          "genre_id": 4, 
+          "genre_name": "Strategy/Tactics"
+        }, 
+        {
+          "genre_category": "Perspective", 
+          "genre_category_id": 2, 
+          "genre_id": 17, 
+          "genre_name": "Side view"
+        }, 
+        {
+          "genre_category": "Gameplay", 
+          "genre_category_id": 4, 
+          "genre_id": 143, 
+          "genre_name": "Artillery"
+        }, 
+        {
+          "genre_category": "Interface/Control", 
+          "genre_category_id": 7, 
+          "genre_id": 173, 
+          "genre_name": "Multiple Units/Characters Control"
+        }, 
+        {
+          "genre_category": "Interface/Control", 
+          "genre_category_id": 7, 
+          "genre_id": 168, 
+          "genre_name": "Direct Control"
+        }, 
+        {
+          "genre_category": "Narrative Theme/Topic", 
+          "genre_category_id": 8, 
+          "genre_id": 124, 
+          "genre_name": "War"
+        }, 
+        {
+          "genre_category": "Narrative Theme/Topic", 
+          "genre_category_id": 8, 
+          "genre_id": 120, 
+          "genre_name": "Comedy"
+        }, 
+        {
+          "genre_category": "Pacing", 
+          "genre_category_id": 9, 
+          "genre_id": 106, 
+          "genre_name": "Turn-based"
+        }, 
+        {
+          "genre_category": "Visual Presentation", 
+          "genre_category_id": 12, 
+          "genre_id": 131, 
+          "genre_name": "2D scrolling"
+        }
+      ], 
+      "moby_score": 3.8, 
+      "moby_url": "http://www.mobygames.com/game/worms-armageddon", 
+      "num_votes": 141, 
+      "official_url": "http://wormsarmageddon.team17.com/", 
+      "platforms": [
+        {
+          "first_release_date": "1999", 
+          "platform_id": 3, 
+          "platform_name": "Windows"
+        }, 
+        {
+          "first_release_date": "1999", 
+          "platform_id": 8, 
+          "platform_name": "Dreamcast"
+        }, 
+        {
+          "first_release_date": "1999-10-29", 
+          "platform_id": 6, 
+          "platform_name": "PlayStation"
+        }, 
+        {
+          "first_release_date": "2000-01-19", 
+          "platform_id": 11, 
+          "platform_name": "Game Boy Color"
+        }, 
+        {
+          "first_release_date": "2000-03-30", 
+          "platform_id": 9, 
+          "platform_name": "Nintendo 64"
+        }
+      ], 
+      "sample_cover": {
+        "height": 500, 
+        "image": "http://www.mobygames.com/images/covers/l/4224-worms-armageddon-windows-front-cover.jpg", 
+        "platforms": [
+          "Windows"
+        ], 
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/4224-worms-armageddon-windows-front-cover.jpg", 
+        "width": 388
+      }, 
+      "sample_screenshots": [
+        {
+          "caption": "title screen", 
+          "height": 480, 
+          "image": "http://www.mobygames.com/images/shots/l/7668-worms-armageddon-windows-screenshot-title-screen.gif", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/7668-worms-armageddon-windows-screenshot-title-screen.gif", 
+          "width": 640
+        }, 
+        {
+          "caption": "main menu (there are plenty of sub-menus though)", 
+          "height": 480, 
+          "image": "http://www.mobygames.com/images/shots/l/7669-worms-armageddon-windows-screenshot-main-menu-there-are-plenty.gif", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/7669-worms-armageddon-windows-screenshot-main-menu-there-are-plenty.gif", 
+          "width": 640
+        }, 
+        {
+          "caption": "explosions are more cartoon alike now", 
+          "height": 600, 
+          "image": "http://www.mobygames.com/images/shots/l/7670-worms-armageddon-windows-screenshot-explosions-are-more-cartoon.gif", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/7670-worms-armageddon-windows-screenshot-explosions-are-more-cartoon.gif", 
+          "width": 800
+        }, 
+        {
+          "caption": "and there's even more equipping arsenal", 
+          "height": 600, 
+          "image": "http://www.mobygames.com/images/shots/l/7671-worms-armageddon-windows-screenshot-and-there-s-even-more-equipping.gif", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/7671-worms-armageddon-windows-screenshot-and-there-s-even-more-equipping.gif", 
+          "width": 800
+        }
+      ], 
+      "title": "Worms: Armageddon"
+    }, 
+    {
+      "description": "<i>SimCity 2000</i> is the successor to the city simulation game Sim City. You are once again the mayor, but this time you can fully customize the terrain before building your city. The graphics are isometric, whereas the original had graphics displayed in a top-down fashion.\n\nThis title adds numerous features over the original such as the ability of building \"light\" zones, subways, hospitals, colleges, zoos, and arcos which are actually cities in cities. You can now give names to places, and your city is surrounded by neighboring towns with which you can make trade. Finally, instead of the poll in the first game you now have the option of reading several newspapers to get an idea of your progress.", 
+      "game_id": 657, 
+      "genres": [
+        {
+          "genre_category": "Basic Genres", 
+          "genre_category_id": 1, 
+          "genre_id": 4, 
+          "genre_name": "Strategy/Tactics"
+        }, 
+        {
+          "genre_category": "Basic Genres", 
+          "genre_category_id": 1, 
+          "genre_id": 3, 
+          "genre_name": "Simulation"
+        }, 
+        {
+          "genre_category": "Perspective", 
+          "genre_category_id": 2, 
+          "genre_id": 129, 
+          "genre_name": "Bird's-eye view"
+        }, 
+        {
+          "genre_category": "Gameplay", 
+          "genre_category_id": 4, 
+          "genre_id": 137, 
+          "genre_name": "City Building / Construction Simulation"
+        }, 
+        {
+          "genre_category": "Gameplay", 
+          "genre_category_id": 4, 
+          "genre_id": 40, 
+          "genre_name": "Managerial / Business Simulation"
+        }, 
+        {
+          "genre_category": "Interface/Control", 
+          "genre_category_id": 7, 
+          "genre_id": 167, 
+          "genre_name": "Point and Select"
+        }, 
+        {
+          "genre_category": "Pacing", 
+          "genre_category_id": 9, 
+          "genre_id": 15, 
+          "genre_name": "Real-Time"
+        }, 
+        {
+          "genre_category": "Setting", 
+          "genre_category_id": 10, 
+          "genre_id": 200, 
+          "genre_name": "Contemporary"
+        }, 
+        {
+          "genre_category": "Visual Presentation", 
+          "genre_category_id": 12, 
+          "genre_id": 134, 
+          "genre_name": "Free-roaming camera"
+        }, 
+        {
+          "genre_category": "Visual Presentation", 
+          "genre_category_id": 12, 
+          "genre_id": 25, 
+          "genre_name": "Isometric"
+        }
+      ], 
+      "moby_score": 3.9, 
+      "moby_url": "http://www.mobygames.com/game/simcity-2000", 
+      "num_votes": 301, 
+      "official_url": null, 
+      "platforms": [
+        {
+          "first_release_date": "1993", 
+          "platform_id": 74, 
+          "platform_name": "Macintosh"
+        }, 
+        {
+          "first_release_date": "1993", 
+          "platform_id": 2, 
+          "platform_name": "DOS"
+        }, 
+        {
+          "first_release_date": "1994", 
+          "platform_id": 5, 
+          "platform_name": "Windows 3.x"
+        }, 
+        {
+          "first_release_date": "1994", 
+          "platform_id": 117, 
+          "platform_name": "Acorn 32-bit"
+        }, 
+        {
+          "first_release_date": "1994", 
+          "platform_id": 19, 
+          "platform_name": "Amiga"
+        }, 
+        {
+          "first_release_date": "1994-06", 
+          "platform_id": 95, 
+          "platform_name": "PC-98"
+        }, 
+        {
+          "first_release_date": "1994-12", 
+          "platform_id": 102, 
+          "platform_name": "FM Towns"
+        }, 
+        {
+          "first_release_date": "1995", 
+          "platform_id": 15, 
+          "platform_name": "SNES"
+        }, 
+        {
+          "first_release_date": "1995", 
+          "platform_id": 3, 
+          "platform_name": "Windows"
+        }, 
+        {
+          "first_release_date": "1995-09-29", 
+          "platform_id": 23, 
+          "platform_name": "SEGA Saturn"
+        }, 
+        {
+          "first_release_date": "1996", 
+          "platform_id": 146, 
+          "platform_name": "OS/2"
+        }, 
+        {
+          "first_release_date": "1996-07-09", 
+          "platform_id": 6, 
+          "platform_name": "PlayStation"
+        }, 
+        {
+          "first_release_date": "1998-01-30", 
+          "platform_id": 9, 
+          "platform_name": "Nintendo 64"
+        }, 
+        {
+          "first_release_date": "2001-10", 
+          "platform_id": 66, 
+          "platform_name": "Windows Mobile"
+        }, 
+        {
+          "first_release_date": "2003-11-30", 
+          "platform_id": 12, 
+          "platform_name": "Game Boy Advance"
+        }, 
+        {
+          "first_release_date": "2008-11-20", 
+          "platform_id": 81, 
+          "platform_name": "PlayStation 3"
+        }, 
+        {
+          "first_release_date": "2009-08-28", 
+          "platform_id": 46, 
+          "platform_name": "PSP"
+        }
+      ], 
+      "sample_cover": {
+        "height": 998, 
+        "image": "http://www.mobygames.com/images/covers/l/1425-simcity-2000-dos-front-cover.jpg", 
+        "platforms": [
+          "DOS"
+        ], 
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/1425-simcity-2000-dos-front-cover.jpg", 
+        "width": 800
+      }, 
+      "sample_screenshots": [
+        {
+          "caption": "Title Screen", 
+          "height": 480, 
+          "image": "http://www.mobygames.com/images/shots/l/3352-simcity-2000-dos-screenshot-title-screen.gif", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/3352-simcity-2000-dos-screenshot-title-screen.gif", 
+          "width": 640
+        }, 
+        {
+          "caption": "Happy Land Overview", 
+          "height": 480, 
+          "image": "http://www.mobygames.com/images/shots/l/3353-simcity-2000-dos-screenshot-happy-land-overview.gif", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/3353-simcity-2000-dos-screenshot-happy-land-overview.gif", 
+          "width": 640
+        }, 
+        {
+          "caption": "Lake Land - Zoomed View", 
+          "height": 480, 
+          "image": "http://www.mobygames.com/images/shots/l/3354-simcity-2000-dos-screenshot-lake-land-zoomed-view.gif", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/3354-simcity-2000-dos-screenshot-lake-land-zoomed-view.gif", 
+          "width": 640
+        }, 
+        {
+          "caption": "A giant monster causing terror and destruction in Hollywood", 
+          "height": 480, 
+          "image": "http://www.mobygames.com/images/shots/l/3355-simcity-2000-dos-screenshot-a-giant-monster-causing-terror-and.gif", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/3355-simcity-2000-dos-screenshot-a-giant-monster-causing-terror-and.gif", 
+          "width": 640
+        }
+      ], 
+      "title": "SimCity 2000"
+    }, 
+    {
+      "description": "<i>Mario Party</i> is a party game for 1 to 4 players. The festivities are based on a board game format, right down to the fact that players must roll a die to determine how many spaces to move. Players land on different squares, each space holding one of more than fifty different mini-games. These quick competitions determine who will earn coins and stars, and who will go home empty handed. \n\nThe mini-games are spread over eight different game boards, all of which are not immediately available. Some of the games pit every man or princess against the others, some are two-on-two, and others are even three against one. One challenge is loosely based on \"Simon Says\", another involves a two-on-two bobsled race, and one game makes one player attempt to cross a rope while the other three do their best to shake the player off. There are skill games, racing games, puzzle games, and other types.\n\nA good portion of the actual game boards are animated, with hidden dangers and special challenges scattered everywhere. Mario, Luigi, Princess Peach, Donkey Kong, Bowser, Yoshi, and Wario are all invited to the party, and each character has his or her own game board.", 
+      "game_id": 3537, 
+      "genres": [
+        {
+          "genre_category": "Basic Genres", 
+          "genre_category_id": 1, 
+          "genre_id": 4, 
+          "genre_name": "Strategy/Tactics"
+        }, 
+        {
+          "genre_category": "Basic Genres", 
+          "genre_category_id": 1, 
+          "genre_id": 1, 
+          "genre_name": "Action"
+        }, 
+        {
+          "genre_category": "Perspective", 
+          "genre_category_id": 2, 
+          "genre_id": 129, 
+          "genre_name": "Bird's-eye view"
+        }, 
+        {
+          "genre_category": "Perspective", 
+          "genre_category_id": 2, 
+          "genre_id": 17, 
+          "genre_name": "Side view"
+        }, 
+        {
+          "genre_category": "Perspective", 
+          "genre_category_id": 2, 
+          "genre_id": 13, 
+          "genre_name": "Top-down"
+        }, 
+        {
+          "genre_category": "Sports Themes", 
+          "genre_category_id": 3, 
+          "genre_id": 49, 
+          "genre_name": "Football (European) / Soccer"
+        }, 
+        {
+          "genre_category": "Sports Themes", 
+          "genre_category_id": 3, 
+          "genre_id": 36, 
+          "genre_name": "Boxing"
+        }, 
+        {
+          "genre_category": "Sports Themes", 
+          "genre_category_id": 3, 
+          "genre_id": 18, 
+          "genre_name": "Fishing"
+        }, 
+        {
+          "genre_category": "Gameplay", 
+          "genre_category_id": 4, 
+          "genre_id": 144, 
+          "genre_name": "Party Game"
+        }, 
+        {
+          "genre_category": "Gameplay", 
+          "genre_category_id": 4, 
+          "genre_id": 140, 
+          "genre_name": "Mini-Games"
+        }, 
+        {
+          "genre_category": "Gameplay", 
+          "genre_category_id": 4, 
+          "genre_id": 26, 
+          "genre_name": "Board Game"
+        }, 
+        {
+          "genre_category": "Interface/Control", 
+          "genre_category_id": 7, 
+          "genre_id": 168, 
+          "genre_name": "Direct Control"
+        }, 
+        {
+          "genre_category": "Pacing", 
+          "genre_category_id": 9, 
+          "genre_id": 106, 
+          "genre_name": "Turn-based"
+        }, 
+        {
+          "genre_category": "Setting", 
+          "genre_category_id": 10, 
+          "genre_id": 78, 
+          "genre_name": "Fantasy"
+        }, 
+        {
+          "genre_category": "Visual Presentation", 
+          "genre_category_id": 12, 
+          "genre_id": 131, 
+          "genre_name": "2D scrolling"
+        }, 
+        {
+          "genre_category": "Other Attributes", 
+          "genre_category_id": 6, 
+          "genre_id": 82, 
+          "genre_name": "Licensed"
+        }
+      ], 
+      "moby_score": 3.8, 
+      "moby_url": "http://www.mobygames.com/game/mario-party", 
+      "num_votes": 52, 
+      "official_url": null, 
+      "platforms": [
+        {
+          "first_release_date": "1998-12-18", 
+          "platform_id": 9, 
+          "platform_name": "Nintendo 64"
+        }
+      ], 
+      "sample_cover": {
+        "height": 550, 
+        "image": "http://www.mobygames.com/images/covers/l/54462-mario-party-nintendo-64-front-cover.png", 
+        "platforms": [
+          "Nintendo 64"
+        ], 
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/54462-mario-party-nintendo-64-front-cover.jpg", 
+        "width": 800
+      }, 
+      "sample_screenshots": [
+        {
+          "caption": "Title screen", 
+          "height": 240, 
+          "image": "http://www.mobygames.com/images/shots/l/347944-mario-party-nintendo-64-screenshot-title-screen.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/347944-mario-party-nintendo-64-screenshot-title-screen.jpg", 
+          "width": 320
+        }, 
+        {
+          "caption": "Intro", 
+          "height": 240, 
+          "image": "http://www.mobygames.com/images/shots/l/347945-mario-party-nintendo-64-screenshot-intro.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/347945-mario-party-nintendo-64-screenshot-intro.jpg", 
+          "width": 320
+        }, 
+        {
+          "caption": "Menu", 
+          "height": 240, 
+          "image": "http://www.mobygames.com/images/shots/l/347946-mario-party-nintendo-64-screenshot-menu.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/347946-mario-party-nintendo-64-screenshot-menu.jpg", 
+          "width": 320
+        }, 
+        {
+          "caption": "Tutorial", 
+          "height": 240, 
+          "image": "http://www.mobygames.com/images/shots/l/347947-mario-party-nintendo-64-screenshot-tutorial.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/347947-mario-party-nintendo-64-screenshot-tutorial.jpg", 
+          "width": 320
+        }
+      ], 
+      "title": "Mario Party"
+    }, 
+    {
+      "description": "Magnus Gallant leads the revolution for the kingdom of Palatinus. The kingdom's Lord, Holy Lodis Empire, is rumored to be planning the domination of the entire continent of Zeteginia. This creates concern among the people, and it is up to Magnus to rid the people of the Lord and free them from slavery forever.\n\n<i>Ogre Battle 64</i> is a semi-sequel to the original Ogre Battle, and is the third game in the series. Like its predecessors, the game is a tactical RPG. The main character, Magnus, leads many troops into each battle, and the player must control how each group attacks or defends, and whether straightforward attacks or magic shall be used.\n\nDepending on the player's choices, there are branching levels, each with their own difficulty levels. The more battles the player faces and completes, the more experience each warrior in the team gathers.", 
+      "game_id": 3646, 
+      "genres": [
+        {
+          "genre_category": "Basic Genres", 
+          "genre_category_id": 1, 
+          "genre_id": 50, 
+          "genre_name": "Role-Playing (RPG)"
+        }, 
+        {
+          "genre_category": "Basic Genres", 
+          "genre_category_id": 1, 
+          "genre_id": 4, 
+          "genre_name": "Strategy/Tactics"
+        }, 
+        {
+          "genre_category": "Perspective", 
+          "genre_category_id": 2, 
+          "genre_id": 13, 
+          "genre_name": "Top-down"
+        }, 
+        {
+          "genre_category": "Pacing", 
+          "genre_category_id": 9, 
+          "genre_id": 106, 
+          "genre_name": "Turn-based"
+        }, 
+        {
+          "genre_category": "Setting", 
+          "genre_category_id": 10, 
+          "genre_id": 78, 
+          "genre_name": "Fantasy"
+        }
+      ], 
+      "moby_score": 3.9, 
+      "moby_url": "http://www.mobygames.com/game/ogre-battle-64-person-of-lordly-caliber", 
+      "num_votes": 16, 
+      "official_url": null, 
+      "platforms": [
+        {
+          "first_release_date": "1999-07-14", 
+          "platform_id": 9, 
+          "platform_name": "Nintendo 64"
+        }, 
+        {
+          "first_release_date": "2010-01-26", 
+          "platform_id": 82, 
+          "platform_name": "Wii"
+        }, 
+        {
+          "first_release_date": "2017-02-16", 
+          "platform_id": 132, 
+          "platform_name": "Wii U"
+        }
+      ], 
+      "sample_cover": {
+        "height": 427, 
+        "image": "http://www.mobygames.com/images/covers/l/8371-ogre-battle-64-person-of-lordly-caliber-nintendo-64-front-cover.jpg", 
+        "platforms": [
+          "Nintendo 64"
+        ], 
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/8371-ogre-battle-64-person-of-lordly-caliber-nintendo-64-front-cover.jpg", 
+        "width": 620
+      }, 
+      "sample_screenshots": [
+        {
+          "caption": "Make a Nintendo logo from a stone", 
+          "height": 460, 
+          "image": "http://www.mobygames.com/images/shots/l/603288-ogre-battle-64-person-of-lordly-caliber-nintendo-64-screenshot.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/603288-ogre-battle-64-person-of-lordly-caliber-nintendo-64-screenshot.jpg", 
+          "width": 640
+        }, 
+        {
+          "caption": "Memories", 
+          "height": 480, 
+          "image": "http://www.mobygames.com/images/shots/l/603289-ogre-battle-64-person-of-lordly-caliber-nintendo-64-screenshot.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/603289-ogre-battle-64-person-of-lordly-caliber-nintendo-64-screenshot.jpg", 
+          "width": 640
+        }, 
+        {
+          "caption": "Come here.", 
+          "height": 480, 
+          "image": "http://www.mobygames.com/images/shots/l/603291-ogre-battle-64-person-of-lordly-caliber-nintendo-64-screenshot.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/603291-ogre-battle-64-person-of-lordly-caliber-nintendo-64-screenshot.jpg", 
+          "width": 640
+        }, 
+        {
+          "caption": "Nomination students.", 
+          "height": 480, 
+          "image": "http://www.mobygames.com/images/shots/l/603293-ogre-battle-64-person-of-lordly-caliber-nintendo-64-screenshot.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/603293-ogre-battle-64-person-of-lordly-caliber-nintendo-64-screenshot.jpg", 
+          "width": 640
+        }
+      ], 
+      "title": "Ogre Battle 64: Person of Lordly Caliber"
+    }, 
+    {
+      "description": "A combination of Metal Gear Solid and Syphon Filter, <i>WinBack</i> has you as part of the Strategic Covert Actions Team (SCAT), who have been called upon to stop a terrorist group called the Crying Lions. Already the enemy has destroyed the Center for Space Research, and have taken over a high-security complex that houses the GULF Strategic Weapons System. You have three hours to take back the complex, before the system lets loose on the world.\n\n", 
+      "game_id": 3782, 
+      "genres": [
+        {
+          "genre_category": "Basic Genres", 
+          "genre_category_id": 1, 
+          "genre_id": 4, 
+          "genre_name": "Strategy/Tactics"
+        }, 
+        {
+          "genre_category": "Basic Genres", 
+          "genre_category_id": 1, 
+          "genre_id": 1, 
+          "genre_name": "Action"
+        }, 
+        {
+          "genre_category": "Perspective", 
+          "genre_category_id": 2, 
+          "genre_id": 128, 
+          "genre_name": "Behind view"
+        }, 
+        {
+          "genre_category": "Gameplay", 
+          "genre_category_id": 4, 
+          "genre_id": 22, 
+          "genre_name": "Shooter"
+        }
+      ], 
+      "moby_score": 3.6, 
+      "moby_url": "http://www.mobygames.com/game/winback-covert-operations", 
+      "num_votes": 27, 
+      "official_url": "http://web.archive.org/web/19991214050052/http://www.koeigames.com/games/winback/Default.htm", 
+      "platforms": [
+        {
+          "first_release_date": "1999-09-30", 
+          "platform_id": 9, 
+          "platform_name": "Nintendo 64"
+        }, 
+        {
+          "first_release_date": "2001-03-01", 
+          "platform_id": 7, 
+          "platform_name": "PlayStation 2"
+        }, 
+        {
+          "first_release_date": "2012-10-23", 
+          "platform_id": 81, 
+          "platform_name": "PlayStation 3"
+        }
+      ], 
+      "sample_cover": {
+        "height": 547, 
+        "image": "http://www.mobygames.com/images/covers/l/146854-winback-covert-operations-nintendo-64-front-cover.jpg", 
+        "platforms": [
+          "Nintendo 64"
+        ], 
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/146854-winback-covert-operations-nintendo-64-front-cover.jpg", 
+        "width": 800
+      }, 
+      "sample_screenshots": [
+        {
+          "caption": "Title screen.", 
+          "height": 480, 
+          "image": "http://www.mobygames.com/images/shots/l/194378-winback-covert-operations-nintendo-64-screenshot-title-screen.png", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/194378-winback-covert-operations-nintendo-64-screenshot-title-screen.jpg", 
+          "width": 640
+        }, 
+        {
+          "caption": "Intro", 
+          "height": 480, 
+          "image": "http://www.mobygames.com/images/shots/l/646611-winback-covert-operations-nintendo-64-screenshot-intro.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/646611-winback-covert-operations-nintendo-64-screenshot-intro.jpg", 
+          "width": 640
+        }, 
+        {
+          "caption": "Behind a box", 
+          "height": 480, 
+          "image": "http://www.mobygames.com/images/shots/l/646610-winback-covert-operations-nintendo-64-screenshot-behind-a.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/646610-winback-covert-operations-nintendo-64-screenshot-behind-a.jpg", 
+          "width": 640
+        }, 
+        {
+          "caption": "Cut-scene", 
+          "height": 480, 
+          "image": "http://www.mobygames.com/images/shots/l/646612-winback-covert-operations-nintendo-64-screenshot-cut-scene.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/646612-winback-covert-operations-nintendo-64-screenshot-cut-scene.jpg", 
+          "width": 640
+        }
+      ], 
+      "title": "WinBack: Covert Operations"
+    }, 
+    {
+      "description": "The series continues with a set of 70 new mini-games.  Play in the new single-player Story mode, or bring in some friends for Party mode.  Four player games and a new two player mode are also available for play.\r\n\r\nIn Battle Royale mode (four player), you race around different boards to earn the most stars and coins.  At the end of each round, you face it off in one of the mini-games, which can be chicken chases, snowball fights, or various other competitions.\r\n\r\nDuel mode allows play between just two people.  You still race around the board, but mini-games are only played when you land on a specific square.  Another play change is the addition of another character for your team, allowing tag team-style action in the game.\r\n\r\nStory mode is essentially the same as a Battle Royale, except your opponents are played by the computer.", 
+      "game_id": 5337, 
+      "genres": [
+        {
+          "genre_category": "Basic Genres", 
+          "genre_category_id": 1, 
+          "genre_id": 4, 
+          "genre_name": "Strategy/Tactics"
+        }, 
+        {
+          "genre_category": "Basic Genres", 
+          "genre_category_id": 1, 
+          "genre_id": 1, 
+          "genre_name": "Action"
+        }, 
+        {
+          "genre_category": "Perspective", 
+          "genre_category_id": 2, 
+          "genre_id": 129, 
+          "genre_name": "Bird's-eye view"
+        }, 
+        {
+          "genre_category": "Perspective", 
+          "genre_category_id": 2, 
+          "genre_id": 13, 
+          "genre_name": "Top-down"
+        }, 
+        {
+          "genre_category": "Gameplay", 
+          "genre_category_id": 4, 
+          "genre_id": 144, 
+          "genre_name": "Party Game"
+        }, 
+        {
+          "genre_category": "Gameplay", 
+          "genre_category_id": 4, 
+          "genre_id": 140, 
+          "genre_name": "Mini-Games"
+        }, 
+        {
+          "genre_category": "Gameplay", 
+          "genre_category_id": 4, 
+          "genre_id": 26, 
+          "genre_name": "Board Game"
+        }, 
+        {
+          "genre_category": "Interface/Control", 
+          "genre_category_id": 7, 
+          "genre_id": 168, 
+          "genre_name": "Direct Control"
+        }, 
+        {
+          "genre_category": "Pacing", 
+          "genre_category_id": 9, 
+          "genre_id": 106, 
+          "genre_name": "Turn-based"
+        }, 
+        {
+          "genre_category": "Setting", 
+          "genre_category_id": 10, 
+          "genre_id": 78, 
+          "genre_name": "Fantasy"
+        }, 
+        {
+          "genre_category": "Visual Presentation", 
+          "genre_category_id": 12, 
+          "genre_id": 131, 
+          "genre_name": "2D scrolling"
+        }
+      ], 
+      "moby_score": 3.8, 
+      "moby_url": "http://www.mobygames.com/game/mario-party-3", 
+      "num_votes": 28, 
+      "official_url": null, 
+      "platforms": [
+        {
+          "first_release_date": "2000-12-07", 
+          "platform_id": 9, 
+          "platform_name": "Nintendo 64"
+        }
+      ], 
+      "sample_cover": {
+        "height": 348, 
+        "image": "http://www.mobygames.com/images/covers/l/10274-mario-party-3-nintendo-64-front-cover.jpg", 
+        "platforms": [
+          "Nintendo 64"
+        ], 
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/10274-mario-party-3-nintendo-64-front-cover.jpg", 
+        "width": 500
+      }, 
+      "sample_screenshots": [
+        {
+          "caption": "Title screen", 
+          "height": 240, 
+          "image": "http://www.mobygames.com/images/shots/l/348358-mario-party-3-nintendo-64-screenshot-title-screen.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/348358-mario-party-3-nintendo-64-screenshot-title-screen.jpg", 
+          "width": 320
+        }, 
+        {
+          "caption": "Intro", 
+          "height": 240, 
+          "image": "http://www.mobygames.com/images/shots/l/348359-mario-party-3-nintendo-64-screenshot-intro.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/348359-mario-party-3-nintendo-64-screenshot-intro.jpg", 
+          "width": 320
+        }, 
+        {
+          "caption": "Character select", 
+          "height": 240, 
+          "image": "http://www.mobygames.com/images/shots/l/348360-mario-party-3-nintendo-64-screenshot-character-select.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/348360-mario-party-3-nintendo-64-screenshot-character-select.jpg", 
+          "width": 320
+        }, 
+        {
+          "caption": "Selecting a stage to play.", 
+          "height": 240, 
+          "image": "http://www.mobygames.com/images/shots/l/348361-mario-party-3-nintendo-64-screenshot-selecting-a-stage-to.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/348361-mario-party-3-nintendo-64-screenshot-selecting-a-stage-to.jpg", 
+          "width": 320
+        }
+      ], 
+      "title": "Mario Party 3"
+    }, 
+    {
+      "description": "Mario and a range of well known Nintendo characters, including Yoshi, Bowser, Luigi, and Wario return for some more party action. \n\nThe second edition includes 5 new boards, each with a specific theme, such as Space Land, Western Land, Horror Land, and Mystery Land. Each board includes unique attributes in relation to the theme, but the main goal is the same: complete the board game over a certain amount of moves and be the player to have the most coins and/or stars at the end. \n\nThe single player story mode allows one person and 3 CPU controlled players to play each board. Once you play a specific mini-game (64 in all), they become available to purchase using the coins you collected in your games to play anytime. Multiplayer allows 2 to 4 people to play the game.", 
+      "game_id": 6521, 
+      "genres": [
+        {
+          "genre_category": "Basic Genres", 
+          "genre_category_id": 1, 
+          "genre_id": 4, 
+          "genre_name": "Strategy/Tactics"
+        }, 
+        {
+          "genre_category": "Basic Genres", 
+          "genre_category_id": 1, 
+          "genre_id": 1, 
+          "genre_name": "Action"
+        }, 
+        {
+          "genre_category": "Perspective", 
+          "genre_category_id": 2, 
+          "genre_id": 129, 
+          "genre_name": "Bird's-eye view"
+        }, 
+        {
+          "genre_category": "Perspective", 
+          "genre_category_id": 2, 
+          "genre_id": 13, 
+          "genre_name": "Top-down"
+        }, 
+        {
+          "genre_category": "Gameplay", 
+          "genre_category_id": 4, 
+          "genre_id": 144, 
+          "genre_name": "Party Game"
+        }, 
+        {
+          "genre_category": "Gameplay", 
+          "genre_category_id": 4, 
+          "genre_id": 140, 
+          "genre_name": "Mini-Games"
+        }, 
+        {
+          "genre_category": "Gameplay", 
+          "genre_category_id": 4, 
+          "genre_id": 26, 
+          "genre_name": "Board Game"
+        }, 
+        {
+          "genre_category": "Interface/Control", 
+          "genre_category_id": 7, 
+          "genre_id": 168, 
+          "genre_name": "Direct Control"
+        }, 
+        {
+          "genre_category": "Pacing", 
+          "genre_category_id": 9, 
+          "genre_id": 106, 
+          "genre_name": "Turn-based"
+        }, 
+        {
+          "genre_category": "Setting", 
+          "genre_category_id": 10, 
+          "genre_id": 78, 
+          "genre_name": "Fantasy"
+        }, 
+        {
+          "genre_category": "Visual Presentation", 
+          "genre_category_id": 12, 
+          "genre_id": 131, 
+          "genre_name": "2D scrolling"
+        }
+      ], 
+      "moby_score": 3.9, 
+      "moby_url": "http://www.mobygames.com/game/mario-party-2", 
+      "num_votes": 41, 
+      "official_url": null, 
+      "platforms": [
+        {
+          "first_release_date": "1999-12-17", 
+          "platform_id": 9, 
+          "platform_name": "Nintendo 64"
+        }, 
+        {
+          "first_release_date": "2010-12-24", 
+          "platform_id": 82, 
+          "platform_name": "Wii"
+        }, 
+        {
+          "first_release_date": "2016-03-30", 
+          "platform_id": 132, 
+          "platform_name": "Wii U"
+        }
+      ], 
+      "sample_cover": {
+        "height": 543, 
+        "image": "http://www.mobygames.com/images/covers/l/144131-mario-party-2-nintendo-64-front-cover.png", 
+        "platforms": [
+          "Nintendo 64"
+        ], 
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/144131-mario-party-2-nintendo-64-front-cover.jpg", 
+        "width": 800
+      }, 
+      "sample_screenshots": [
+        {
+          "caption": "Title screen", 
+          "height": 480, 
+          "image": "http://www.mobygames.com/images/shots/l/93378-mario-party-2-nintendo-64-screenshot-title-screen.png", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/93378-mario-party-2-nintendo-64-screenshot-title-screen.jpg", 
+          "width": 640
+        }, 
+        {
+          "caption": "Introduction sequence", 
+          "height": 480, 
+          "image": "http://www.mobygames.com/images/shots/l/93377-mario-party-2-nintendo-64-screenshot-introduction-sequence.png", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/93377-mario-party-2-nintendo-64-screenshot-introduction-sequence.jpg", 
+          "width": 640
+        }, 
+        {
+          "caption": "The main menu", 
+          "height": 480, 
+          "image": "http://www.mobygames.com/images/shots/l/93379-mario-party-2-nintendo-64-screenshot-the-main-menu.png", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/93379-mario-party-2-nintendo-64-screenshot-the-main-menu.jpg", 
+          "width": 640
+        }, 
+        {
+          "caption": "Setting up the players", 
+          "height": 480, 
+          "image": "http://www.mobygames.com/images/shots/l/93380-mario-party-2-nintendo-64-screenshot-setting-up-the-players.png", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/93380-mario-party-2-nintendo-64-screenshot-setting-up-the-players.jpg", 
+          "width": 640
+        }
+      ], 
+      "title": "Mario Party 2"
+    }, 
+    {
+      "description": "Climb into a hover tank, and battle Soviets and aliens on the moon. The premise of the game: The Soviets and Americans are actually fighting on the moon during the cold war, unbeknownst to the public. Your job is to command fleets of tanks against the Soviets and the Americans and win the war.\n\nThere are 3 completely different game modes in the game. An arcade mode in which you fight ever increasingly difficult waves of enemies. A story mode, in which you are simply a pilot, where you are told exactly what your orders are. A strategy mode, in which you can build units and send them off to do battle for you.\n\nIn addition to containing all the missions available in the PC version of this game, there are also additional missions that continue the story where the PC game left off.", 
+      "game_id": 8803, 
+      "genres": [
+        {
+          "genre_category": "Basic Genres", 
+          "genre_category_id": 1, 
+          "genre_id": 4, 
+          "genre_name": "Strategy/Tactics"
+        }, 
+        {
+          "genre_category": "Basic Genres", 
+          "genre_category_id": 1, 
+          "genre_id": 1, 
+          "genre_name": "Action"
+        }, 
+        {
+          "genre_category": "Perspective", 
+          "genre_category_id": 2, 
+          "genre_id": 7, 
+          "genre_name": "1st-person"
+        }, 
+        {
+          "genre_category": "Gameplay", 
+          "genre_category_id": 4, 
+          "genre_id": 40, 
+          "genre_name": "Managerial / Business Simulation"
+        }, 
+        {
+          "genre_category": "Gameplay", 
+          "genre_category_id": 4, 
+          "genre_id": 22, 
+          "genre_name": "Shooter"
+        }, 
+        {
+          "genre_category": "Vehicular Themes", 
+          "genre_category_id": 11, 
+          "genre_id": 80, 
+          "genre_name": "Tank"
+        }
+      ], 
+      "moby_score": 3.5, 
+      "moby_url": "http://www.mobygames.com/game/battlezone-rise-of-the-black-dogs", 
+      "num_votes": 6, 
+      "official_url": null, 
+      "platforms": [
+        {
+          "first_release_date": "2000-03-01", 
+          "platform_id": 9, 
+          "platform_name": "Nintendo 64"
+        }
+      ], 
+      "sample_cover": {
+        "height": 484, 
+        "image": "http://www.mobygames.com/images/covers/l/19596-battlezone-rise-of-the-black-dogs-nintendo-64-front-cover.jpg", 
+        "platforms": [
+          "Nintendo 64"
+        ], 
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/19596-battlezone-rise-of-the-black-dogs-nintendo-64-front-cover.jpg", 
+        "width": 702
+      }, 
+      "sample_screenshots": [
+        {
+          "caption": "Title screen", 
+          "height": 480, 
+          "image": "http://www.mobygames.com/images/shots/l/240679-battlezone-rise-of-the-black-dogs-nintendo-64-screenshot-title.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/240679-battlezone-rise-of-the-black-dogs-nintendo-64-screenshot-title.jpg", 
+          "width": 640
+        }, 
+        {
+          "caption": "Choose how many players or options", 
+          "height": 480, 
+          "image": "http://www.mobygames.com/images/shots/l/240680-battlezone-rise-of-the-black-dogs-nintendo-64-screenshot-choose.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/240680-battlezone-rise-of-the-black-dogs-nintendo-64-screenshot-choose.jpg", 
+          "width": 640
+        }, 
+        {
+          "caption": "Choose arcade, pilot, commander or training", 
+          "height": 480, 
+          "image": "http://www.mobygames.com/images/shots/l/240681-battlezone-rise-of-the-black-dogs-nintendo-64-screenshot-choose.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/240681-battlezone-rise-of-the-black-dogs-nintendo-64-screenshot-choose.jpg", 
+          "width": 640
+        }, 
+        {
+          "caption": "Once you choose a game, select a mission. This is a training mission.", 
+          "height": 480, 
+          "image": "http://www.mobygames.com/images/shots/l/240682-battlezone-rise-of-the-black-dogs-nintendo-64-screenshot-once.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/240682-battlezone-rise-of-the-black-dogs-nintendo-64-screenshot-once.jpg", 
+          "width": 640
+        }
+      ], 
+      "title": "Battlezone: Rise of the Black Dogs"
+    }, 
+    {
+      "description": "Battles are the aim of the game here, as the crazy critters, more commonly known as Pok\u00e9mon, return to the N64.\n\nOnce again, you have the option of building a team of battle ready warriors for a range of battles against other Pok\u00e9mon trainers. Along the way, you will get the chance to fight for a range of Pok\u00e9-cups, or take your Pok\u00e9mon for a ride to a collection of mini-games for bonus prizes (or just for the fun of it).\n\n4 players can compete in the one tournament, while the transfer pak allows you to upload your Pok\u00e9mon that you have from the range of Pok\u00e9mon Game Boy Games (including the original Pok\u00e9mon Red and Blue, and the GBC Gold/Silver series). If you don't have the Game Boy games, you can choose from a selection of Pok\u00e9mon straight out of the box to get into the fight without mucking around.", 
+      "game_id": 9233, 
+      "genres": [
+        {
+          "genre_category": "Basic Genres", 
+          "genre_category_id": 1, 
+          "genre_id": 4, 
+          "genre_name": "Strategy/Tactics"
+        }, 
+        {
+          "genre_category": "Perspective", 
+          "genre_category_id": 2, 
+          "genre_id": 126, 
+          "genre_name": "3rd-person (Other)"
+        }, 
+        {
+          "genre_category": "Pacing", 
+          "genre_category_id": 9, 
+          "genre_id": 106, 
+          "genre_name": "Turn-based"
+        }
+      ], 
+      "moby_score": 3.7, 
+      "moby_url": "http://www.mobygames.com/game/pokmon-stadium-2", 
+      "num_votes": 22, 
+      "official_url": null, 
+      "platforms": [
+        {
+          "first_release_date": "2000-12-14", 
+          "platform_id": 9, 
+          "platform_name": "Nintendo 64"
+        }
+      ], 
+      "sample_cover": {
+        "height": 564, 
+        "image": "http://www.mobygames.com/images/covers/l/254262-pokemon-stadium-2-nintendo-64-front-cover.jpg", 
+        "platforms": [
+          "Nintendo 64"
+        ], 
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/254262-pokemon-stadium-2-nintendo-64-front-cover.jpg", 
+        "width": 800
+      }, 
+      "sample_screenshots": [
+        {
+          "caption": "Title screen", 
+          "height": 576, 
+          "image": "http://www.mobygames.com/images/shots/l/172454-pokemon-stadium-2-nintendo-64-screenshot-title-screen.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/172454-pokemon-stadium-2-nintendo-64-screenshot-title-screen.jpg", 
+          "width": 720
+        }, 
+        {
+          "caption": "This screen shows which games are connected to which controller ports", 
+          "height": 576, 
+          "image": "http://www.mobygames.com/images/shots/l/172455-pokemon-stadium-2-nintendo-64-screenshot-this-screen-shows.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/172455-pokemon-stadium-2-nintendo-64-screenshot-this-screen-shows.jpg", 
+          "width": 720
+        }, 
+        {
+          "caption": "Main Menu", 
+          "height": 576, 
+          "image": "http://www.mobygames.com/images/shots/l/172456-pokemon-stadium-2-nintendo-64-screenshot-main-menu.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/172456-pokemon-stadium-2-nintendo-64-screenshot-main-menu.jpg", 
+          "width": 720
+        }, 
+        {
+          "caption": "You can get a new Mystery Gift with Pok\u00e9mon Stadium 2 each day", 
+          "height": 576, 
+          "image": "http://www.mobygames.com/images/shots/l/172457-pokemon-stadium-2-nintendo-64-screenshot-you-can-get-a-new.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/172457-pokemon-stadium-2-nintendo-64-screenshot-you-can-get-a-new.jpg", 
+          "width": 720
+        }
+      ], 
+      "title": "Pok\u00e9mon Stadium 2"
+    }, 
+    {
+      "description": "In the distant future, a small group of human exiles have been doomed to fight for survival on the edge of the galaxy. Through military strength, espionage, and deceit, a unified Terran government has maintained an uneasy peace. But as resources and fuel run short, the Confederate nations find themselves looking towards the rich worlds of their alien neighbors, the enigmatic Protoss. To further complicate matters, it seems that a previously unknown species-- the Zerg-- has entered Protoss space and is destroying everything in its path. The time for war has come.\n\nThe N64 port of StarCraft is a real-time strategy game featuring three distinct races - Terrans, Protoss and Zerg. Controls have been adjusted for the gamepad, with several Hot-Key menus available, and resource gathering has been automated to limit the required number of options. However, it lacks the cutscenes and map editor of the original game.\n\nIf the player has the Expansion Pack for the N64, the entire Brood War expansion is also available. One player can play with up to 7 bots on a random map, or 2 players can team up in co-operative mode (with the N64 Expansion Pack) or go head to head with up to 6 other bots for total mayhem.", 
+      "game_id": 21570, 
+      "genres": [
+        {
+          "genre_category": "Basic Genres", 
+          "genre_category_id": 1, 
+          "genre_id": 4, 
+          "genre_name": "Strategy/Tactics"
+        }, 
+        {
+          "genre_category": "Perspective", 
+          "genre_category_id": 2, 
+          "genre_id": 13, 
+          "genre_name": "Top-down"
+        }, 
+        {
+          "genre_category": "Interface/Control", 
+          "genre_category_id": 7, 
+          "genre_id": 173, 
+          "genre_name": "Multiple Units/Characters Control"
+        }, 
+        {
+          "genre_category": "Interface/Control", 
+          "genre_category_id": 7, 
+          "genre_id": 167, 
+          "genre_name": "Point and Select"
+        }, 
+        {
+          "genre_category": "Narrative Theme/Topic", 
+          "genre_category_id": 8, 
+          "genre_id": 124, 
+          "genre_name": "War"
+        }, 
+        {
+          "genre_category": "Pacing", 
+          "genre_category_id": 9, 
+          "genre_id": 15, 
+          "genre_name": "Real-Time"
+        }, 
+        {
+          "genre_category": "Setting", 
+          "genre_category_id": 10, 
+          "genre_id": 8, 
+          "genre_name": "Sci-Fi / Futuristic"
+        }, 
+        {
+          "genre_category": "Visual Presentation", 
+          "genre_category_id": 12, 
+          "genre_id": 134, 
+          "genre_name": "Free-roaming camera"
+        }
+      ], 
+      "moby_score": 4.2, 
+      "moby_url": "http://www.mobygames.com/game/starcraft-64-", 
+      "num_votes": 10, 
+      "official_url": null, 
+      "platforms": [
+        {
+          "first_release_date": "2000-06", 
+          "platform_id": 9, 
+          "platform_name": "Nintendo 64"
+        }
+      ], 
+      "sample_cover": {
+        "height": 549, 
+        "image": "http://www.mobygames.com/images/covers/l/62650-starcraft-64-nintendo-64-front-cover.jpg", 
+        "platforms": [
+          "Nintendo 64"
+        ], 
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/62650-starcraft-64-nintendo-64-front-cover.jpg", 
+        "width": 800
+      }, 
+      "sample_screenshots": [
+        {
+          "caption": "Main menu", 
+          "height": 480, 
+          "image": "http://www.mobygames.com/images/shots/l/178186-starcraft-64-nintendo-64-screenshot-main-menu.png", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/178186-starcraft-64-nintendo-64-screenshot-main-menu.jpg", 
+          "width": 640
+        }, 
+        {
+          "caption": "A fledgling Terran base", 
+          "height": 480, 
+          "image": "http://www.mobygames.com/images/shots/l/178187-starcraft-64-nintendo-64-screenshot-a-fledgling-terran-base.png", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/178187-starcraft-64-nintendo-64-screenshot-a-fledgling-terran-base.jpg", 
+          "width": 640
+        }, 
+        {
+          "caption": "You can now queue up builds", 
+          "height": 480, 
+          "image": "http://www.mobygames.com/images/shots/l/178188-starcraft-64-nintendo-64-screenshot-you-can-now-queue-up-builds.png", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/178188-starcraft-64-nintendo-64-screenshot-you-can-now-queue-up-builds.jpg", 
+          "width": 640
+        }, 
+        {
+          "caption": "Blue Terrans assault the red Terran base", 
+          "height": 480, 
+          "image": "http://www.mobygames.com/images/shots/l/178189-starcraft-64-nintendo-64-screenshot-blue-terrans-assault-the.png", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/178189-starcraft-64-nintendo-64-screenshot-blue-terrans-assault-the.jpg", 
+          "width": 640
+        }
+      ], 
+      "title": "StarCraft 64 "
+    }, 
+    {
+      "description": "Goemon and his pals take a break from fighting evil and instead get together and play a unique board game against each other for kicks.\n\n<i>Mononoke Sugoroku</i> is a competitive card-fighting / puzzle game in which you try to get your selected character to the end of the board and/or defeat the other players. You start the game with a set of monster cards and select where to place them on the board and later on, depending on the moves the characters make on the board, you get to pit your cards against the other character's cards with the outcome determined by their stats. Your characters have a finite health, and depending on the outcome of the battles you may get to add monster cards to your collection, lose positions in the board, or simply die.\n\nAdditionally you can link up to Ganbare Goemon: Mononoke D\u014dch\u016b Tobidase Nabe-Bugy\u014d! for the Game Boy Color and transfer unique monsters back and forth to increase your arsenal.", 
+      "game_id": 27601, 
+      "genres": [
+        {
+          "genre_category": "Basic Genres", 
+          "genre_category_id": 1, 
+          "genre_id": 4, 
+          "genre_name": "Strategy/Tactics"
+        }, 
+        {
+          "genre_category": "Gameplay", 
+          "genre_category_id": 4, 
+          "genre_id": 157, 
+          "genre_name": "Trading / Collectible Card"
+        }, 
+        {
+          "genre_category": "Pacing", 
+          "genre_category_id": 9, 
+          "genre_id": 106, 
+          "genre_name": "Turn-based"
+        }, 
+        {
+          "genre_category": "Visual Presentation", 
+          "genre_category_id": 12, 
+          "genre_id": 25, 
+          "genre_name": "Isometric"
+        }, 
+        {
+          "genre_category": "Art Style", 
+          "genre_category_id": 13, 
+          "genre_id": 57, 
+          "genre_name": "Anime / Manga"
+        }
+      ], 
+      "moby_score": 0.8, 
+      "moby_url": "http://www.mobygames.com/game/goemon-mononoke-sugoroku", 
+      "num_votes": 1, 
+      "official_url": null, 
+      "platforms": [
+        {
+          "first_release_date": "1999", 
+          "platform_id": 9, 
+          "platform_name": "Nintendo 64"
+        }
+      ], 
+      "sample_cover": {
+        "height": 1128, 
+        "image": "http://www.mobygames.com/images/covers/l/146865-goemon-mononoke-sugoroku-nintendo-64-front-cover.jpg", 
+        "platforms": [
+          "Nintendo 64"
+        ], 
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/146865-goemon-mononoke-sugoroku-nintendo-64-front-cover.jpg", 
+        "width": 800
+      }, 
+      "sample_screenshots": [], 
+      "title": "Goemon: Mononoke Sugoroku"
+    }, 
+    {
+      "description": "Virtual Chess 64 is probably the only chess game that was created for the Nintendo 64 console. It features both 2D and 3D graphics that the player can choose according to his/her own preference. It also features mini cut scenes when a pawn loses to another where cartoon - like characters that represent the pawn that attacks and the pawn that loses fight each other. The AI of the game though is extremely high even in the easy levels.   ", 
+      "game_id": 29540, 
+      "genres": [
+        {
+          "genre_category": "Basic Genres", 
+          "genre_category_id": 1, 
+          "genre_id": 4, 
+          "genre_name": "Strategy/Tactics"
+        }, 
+        {
+          "genre_category": "Gameplay", 
+          "genre_category_id": 4, 
+          "genre_id": 11, 
+          "genre_name": "Chess"
+        }
+      ], 
+      "moby_score": 2.7, 
+      "moby_url": "http://www.mobygames.com/game/virtual-chess-64", 
+      "num_votes": 4, 
+      "official_url": null, 
+      "platforms": [
+        {
+          "first_release_date": "1998-06-10", 
+          "platform_id": 9, 
+          "platform_name": "Nintendo 64"
+        }
+      ], 
+      "sample_cover": {
+        "height": 561, 
+        "image": "http://www.mobygames.com/images/covers/l/441803-virtual-chess-64-nintendo-64-front-cover.jpg", 
+        "platforms": [
+          "Nintendo 64"
+        ], 
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/441803-virtual-chess-64-nintendo-64-front-cover.jpg", 
+        "width": 800
+      }, 
+      "sample_screenshots": [
+        {
+          "caption": "Title screen", 
+          "height": 480, 
+          "image": "http://www.mobygames.com/images/shots/l/248420-virtual-chess-64-nintendo-64-screenshot-title-screen.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/248420-virtual-chess-64-nintendo-64-screenshot-title-screen.jpg", 
+          "width": 640
+        }, 
+        {
+          "caption": "3D graphics", 
+          "height": 480, 
+          "image": "http://www.mobygames.com/images/shots/l/248421-virtual-chess-64-nintendo-64-screenshot-3d-graphics.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/248421-virtual-chess-64-nintendo-64-screenshot-3d-graphics.jpg", 
+          "width": 640
+        }, 
+        {
+          "caption": "Black and White in 2D", 
+          "height": 480, 
+          "image": "http://www.mobygames.com/images/shots/l/248422-virtual-chess-64-nintendo-64-screenshot-black-and-white-in.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/248422-virtual-chess-64-nintendo-64-screenshot-black-and-white-in.jpg", 
+          "width": 640
+        }, 
+        {
+          "caption": "A different representation of pawns", 
+          "height": 480, 
+          "image": "http://www.mobygames.com/images/shots/l/248423-virtual-chess-64-nintendo-64-screenshot-a-different-representation.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/248423-virtual-chess-64-nintendo-64-screenshot-a-different-representation.jpg", 
+          "width": 640
+        }
+      ], 
+      "title": "Virtual Chess 64"
+    }, 
+    {
+      "description": "<i>Kyojin no Doshin 1</i> is a game where you are god. You wander an island of sun worshippers as nothing less than an avatar of the sun, Doshin the Giant. As Doshin you may wander the Island helping native worshippers by bringing them trees altering land, fending off disasters and repulsing marauding monsters. The more you help the larger you grow... However it's not easy always being so nice.\n\nWith the touch of a button you become the feared Jyashin! A red winged demon whose only wish is to destroy. Using fireballs and his great strength you'll level whole civilizations to feed of the islanders hate and grow larger. By no means is the object of the game just to grow, you know that the villagers must build 16 monuments in your honor... However you possess a knowledge, an almost instinctual one, that when this happens a horrible fate will meet the island. Will you chose to forever serve and torment the populace or will you help build the monuments that you know must be built?\n\nThe game allows you to do whatever you like within the limits of Doshin's abilities. Want to build a mountain, go for it. Want to be genocidal, the world is your oyster. After half an hour of gameplay the sun will set and Doshin will \"die\" for the night, and when you start the next day you will have shrunk to your starting size. The only goal is to influence the villagers to build monuments in your name, whether they build out of devotion or fear is up to you.", 
+      "game_id": 31053, 
+      "genres": [
+        {
+          "genre_category": "Basic Genres", 
+          "genre_category_id": 1, 
+          "genre_id": 4, 
+          "genre_name": "Strategy/Tactics"
+        }, 
+        {
+          "genre_category": "Basic Genres", 
+          "genre_category_id": 1, 
+          "genre_id": 3, 
+          "genre_name": "Simulation"
+        }, 
+        {
+          "genre_category": "Perspective", 
+          "genre_category_id": 2, 
+          "genre_id": 126, 
+          "genre_name": "3rd-person (Other)"
+        }, 
+        {
+          "genre_category": "Perspective", 
+          "genre_category_id": 2, 
+          "genre_id": 7, 
+          "genre_name": "1st-person"
+        }, 
+        {
+          "genre_category": "Gameplay", 
+          "genre_category_id": 4, 
+          "genre_id": 40, 
+          "genre_name": "Managerial / Business Simulation"
+        }, 
+        {
+          "genre_category": "Pacing", 
+          "genre_category_id": 9, 
+          "genre_id": 69, 
+          "genre_name": "Meditative / Zen"
+        }
+      ], 
+      "moby_score": 3.4, 
+      "moby_url": "http://www.mobygames.com/game/kyojin-no-doshin-1", 
+      "num_votes": 3, 
+      "official_url": null, 
+      "platforms": [
+        {
+          "first_release_date": "1999-12-01", 
+          "platform_id": 9, 
+          "platform_name": "Nintendo 64"
+        }
+      ], 
+      "sample_cover": {
+        "height": 701, 
+        "image": "http://www.mobygames.com/images/covers/l/96805-kyojin-no-doshin-1-nintendo-64-front-cover.jpg", 
+        "platforms": [
+          "Nintendo 64"
+        ], 
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/96805-kyojin-no-doshin-1-nintendo-64-front-cover.jpg", 
+        "width": 800
+      }, 
+      "sample_screenshots": [], 
+      "title": "Kyojin no Doshin 1"
+    }, 
+    {
+      "description": "The basic concept remains unchanged in this N64 installment of the series - it's a turned based strategy game where the player commands robots and pilots from various Japanese shows, for example Dancouga and different Gundam series, as well as Banpresto originals. Newly introduced are Six God Combination Godmars, Giant Robo and Mobile Suit Gundam: The 08th MS Team.\n\nAt the beginning of the game, the player is offered a choice out of four pairs of protagonists/rivals, which affects the plot and the stages played. With the different variations included, there are over 100 missions.\n\nDuring the stages, the player moves his units over a map, attacking enemies and using special abilities. When getting attacked, player units may defend, counter, or attempt to evade, resulting in no damage at all if successful. Destroyed enemies give experience and money for upgrading between the missions. Often, scripted events happen, such as reinforcements arriving. Sometimes it's also possible to persuade certain characters to join the player's side, in addition to those that join automatically. Certain, otherwise unobtainable units, can also be unlocked by using the N64 Transfer Pak in combination with the Gameboy Color game <i>Super Robot Wars: Link Battler</i>.", 
+      "game_id": 52835, 
+      "genres": [
+        {
+          "genre_category": "Basic Genres", 
+          "genre_category_id": 1, 
+          "genre_id": 50, 
+          "genre_name": "Role-Playing (RPG)"
+        }, 
+        {
+          "genre_category": "Basic Genres", 
+          "genre_category_id": 1, 
+          "genre_id": 4, 
+          "genre_name": "Strategy/Tactics"
+        }, 
+        {
+          "genre_category": "Perspective", 
+          "genre_category_id": 2, 
+          "genre_id": 126, 
+          "genre_name": "3rd-person (Other)"
+        }, 
+        {
+          "genre_category": "Perspective", 
+          "genre_category_id": 2, 
+          "genre_id": 13, 
+          "genre_name": "Top-down"
+        }, 
+        {
+          "genre_category": "Pacing", 
+          "genre_category_id": 9, 
+          "genre_id": 106, 
+          "genre_name": "Turn-based"
+        }, 
+        {
+          "genre_category": "Setting", 
+          "genre_category_id": 10, 
+          "genre_id": 8, 
+          "genre_name": "Sci-Fi / Futuristic"
+        }, 
+        {
+          "genre_category": "Vehicular Themes", 
+          "genre_category_id": 11, 
+          "genre_id": 72, 
+          "genre_name": "Mecha / Giant Robot"
+        }, 
+        {
+          "genre_category": "Art Style", 
+          "genre_category_id": 13, 
+          "genre_id": 57, 
+          "genre_name": "Anime / Manga"
+        }, 
+        {
+          "genre_category": "Other Attributes", 
+          "genre_category_id": 6, 
+          "genre_id": 82, 
+          "genre_name": "Licensed"
+        }
+      ], 
+      "moby_score": 2.8, 
+      "moby_url": "http://www.mobygames.com/game/super-robot-taisen-64", 
+      "num_votes": 2, 
+      "official_url": null, 
+      "platforms": [
+        {
+          "first_release_date": "1999-10-29", 
+          "platform_id": 9, 
+          "platform_name": "Nintendo 64"
+        }
+      ], 
+      "sample_cover": {
+        "height": 1114, 
+        "image": "http://www.mobygames.com/images/covers/l/255678-super-robot-taisen-64-nintendo-64-front-cover.jpg", 
+        "platforms": [
+          "Nintendo 64"
+        ], 
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/255678-super-robot-taisen-64-nintendo-64-front-cover.jpg", 
+        "width": 800
+      }, 
+      "sample_screenshots": [
+        {
+          "caption": "Title screen", 
+          "height": 480, 
+          "image": "http://www.mobygames.com/images/shots/l/524409-super-robot-taisen-64-nintendo-64-screenshot-title-screen.png", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/524409-super-robot-taisen-64-nintendo-64-screenshot-title-screen.jpg", 
+          "width": 640
+        }, 
+        {
+          "caption": "Character selection - one of the four pairs", 
+          "height": 480, 
+          "image": "http://www.mobygames.com/images/shots/l/524410-super-robot-taisen-64-nintendo-64-screenshot-character-selection.png", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/524410-super-robot-taisen-64-nintendo-64-screenshot-character-selection.jpg", 
+          "width": 640
+        }, 
+        {
+          "caption": "Plenty of dialogue between missions", 
+          "height": 480, 
+          "image": "http://www.mobygames.com/images/shots/l/524411-super-robot-taisen-64-nintendo-64-screenshot-plenty-of-dialogue.png", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/524411-super-robot-taisen-64-nintendo-64-screenshot-plenty-of-dialogue.jpg", 
+          "width": 640
+        }, 
+        {
+          "caption": "Demonic looking enemy", 
+          "height": 480, 
+          "image": "http://www.mobygames.com/images/shots/l/524412-super-robot-taisen-64-nintendo-64-screenshot-demonic-looking.png", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/524412-super-robot-taisen-64-nintendo-64-screenshot-demonic-looking.jpg", 
+          "width": 640
+        }
+      ], 
+      "title": "Super Robot Taisen 64"
+    }, 
+    {
+      "description": "The first Pok\u00e9mon Stadium features only 42 playable Pok\u00e9mon. The game focuses mainly on battling. Upon start-up, the game asks if the player if they want to use the Pok\u00e9mon  in their Game Boy Game Pak. If not, only Battle Mode can be accessed.\n\nThe modes of the game are:<ul><li>\nBattle Mode, as the name suggests, involves Pok\u00e9mon battles. There are two types: Free Battle and Tournament.\n<li>Organize Mode, where players transfer Pok\u00e9mon and items between their Game Boy party, PC boxes, and Stadium storage boxes.\n<li>List Mode, where players can look at a list of their Pok\u00e9mon to see their stats.\n<li>Register Mode, where the player registers a team of their Pok\u00e9mon for battle.\n<li>Party Mode, where the player examines their current team.\n<li>GB Mode, where the Game Boy Pok\u00e9mon game currently in the Nintendo 64 Transfer Pak can be played on the Nintendo 64.</li></ul>\nThe game is only compatible with Pok\u00e9mon Red, Green, Blue, and Yellow Versions.", 
+      "game_id": 55754, 
+      "genres": [
+        {
+          "genre_category": "Basic Genres", 
+          "genre_category_id": 1, 
+          "genre_id": 4, 
+          "genre_name": "Strategy/Tactics"
+        }, 
+        {
+          "genre_category": "Perspective", 
+          "genre_category_id": 2, 
+          "genre_id": 129, 
+          "genre_name": "Bird's-eye view"
+        }, 
+        {
+          "genre_category": "Pacing", 
+          "genre_category_id": 9, 
+          "genre_id": 106, 
+          "genre_name": "Turn-based"
+        }
+      ], 
+      "moby_score": 3.1, 
+      "moby_url": "http://www.mobygames.com/game/pocket-monsters-stadium", 
+      "num_votes": 2, 
+      "official_url": null, 
+      "platforms": [
+        {
+          "first_release_date": "1998-08-01", 
+          "platform_id": 9, 
+          "platform_name": "Nintendo 64"
+        }
+      ], 
+      "sample_cover": {
+        "height": 1125, 
+        "image": "http://www.mobygames.com/images/covers/l/248881-pocket-monsters-stadium-nintendo-64-front-cover.jpg", 
+        "platforms": [
+          "Nintendo 64"
+        ], 
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/248881-pocket-monsters-stadium-nintendo-64-front-cover.jpg", 
+        "width": 800
+      }, 
+      "sample_screenshots": [
+        {
+          "caption": "Title Screen", 
+          "height": 480, 
+          "image": "http://www.mobygames.com/images/shots/l/557732-pocket-monsters-stadium-nintendo-64-screenshot-title-screen.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/557732-pocket-monsters-stadium-nintendo-64-screenshot-title-screen.jpg", 
+          "width": 640
+        }
+      ], 
+      "title": "Pocket Monsters Stadium"
+    }, 
+    {
+      "description": "<i>Bakush\u014d Jinsei 64: Mezase! Resort \u014c</i> is a board game based on the Japanese board game <i>Jinsei Game</i>. It is an adaption of the Western <i>Game of Life</i>, but the game has more similarities to <i>Monopoly</i>.\n\nIt is primarily aimed at multiple players and focuses on the financial success of the participants. After choosing one of the playing boards, the players throw their dices in turns. Then the player moves forward on the board by a distance depending on the result of the dice throw. Each field represents a business or lot which can be bought if the player has enough money at hand. If another player lands on the same field, a rent has to be payed up. This all influences the stock value of the player's company.", 
+      "game_id": 56016, 
+      "genres": [
+        {
+          "genre_category": "Basic Genres", 
+          "genre_category_id": 1, 
+          "genre_id": 4, 
+          "genre_name": "Strategy/Tactics"
+        }, 
+        {
+          "genre_category": "Perspective", 
+          "genre_category_id": 2, 
+          "genre_id": 126, 
+          "genre_name": "3rd-person (Other)"
+        }, 
+        {
+          "genre_category": "Gameplay", 
+          "genre_category_id": 4, 
+          "genre_id": 26, 
+          "genre_name": "Board Game"
+        }, 
+        {
+          "genre_category": "Other Attributes", 
+          "genre_category_id": 6, 
+          "genre_id": 82, 
+          "genre_name": "Licensed"
+        }
+      ], 
+      "moby_score": 2.5, 
+      "moby_url": "http://www.mobygames.com/game/bakush-jinsei-64-mezase-resort-", 
+      "num_votes": 3, 
+      "official_url": null, 
+      "platforms": [
+        {
+          "first_release_date": "1998-12-24", 
+          "platform_id": 9, 
+          "platform_name": "Nintendo 64"
+        }
+      ], 
+      "sample_cover": {
+        "height": 1131, 
+        "image": "http://www.mobygames.com/images/covers/l/321344-bakusho-jinsei-64-mezase-resort-o-nintendo-64-front-cover.jpg", 
+        "platforms": [
+          "Nintendo 64"
+        ], 
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/321344-bakusho-jinsei-64-mezase-resort-o-nintendo-64-front-cover.jpg", 
+        "width": 800
+      }, 
+      "sample_screenshots": [
+        {
+          "caption": "Title screen", 
+          "height": 240, 
+          "image": "http://www.mobygames.com/images/shots/l/599421-bakusho-jinsei-64-mezase-resort-o-nintendo-64-screenshot-title.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/599421-bakusho-jinsei-64-mezase-resort-o-nintendo-64-screenshot-title.jpg", 
+          "width": 320
+        }, 
+        {
+          "caption": "Main menu", 
+          "height": 240, 
+          "image": "http://www.mobygames.com/images/shots/l/599422-bakusho-jinsei-64-mezase-resort-o-nintendo-64-screenshot-main.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/599422-bakusho-jinsei-64-mezase-resort-o-nintendo-64-screenshot-main.jpg", 
+          "width": 320
+        }, 
+        {
+          "caption": "Character selection", 
+          "height": 240, 
+          "image": "http://www.mobygames.com/images/shots/l/599423-bakusho-jinsei-64-mezase-resort-o-nintendo-64-screenshot-character.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/599423-bakusho-jinsei-64-mezase-resort-o-nintendo-64-screenshot-character.jpg", 
+          "width": 320
+        }, 
+        {
+          "caption": "Map selection", 
+          "height": 240, 
+          "image": "http://www.mobygames.com/images/shots/l/599424-bakusho-jinsei-64-mezase-resort-o-nintendo-64-screenshot-map.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/599424-bakusho-jinsei-64-mezase-resort-o-nintendo-64-screenshot-map.jpg", 
+          "width": 320
+        }
+      ], 
+      "title": "Bakush\u014d Jinsei 64: Mezase! Resort \u014c"
+    }, 
+    {
+      "description": "The Nintendo 64 received its own adaptation of the classic board game of ruthless capitalism, featuring fully polygonal 3D graphics.\n\nThe game includes US and UK board versions and three varieties of game: standard, short and timed. In each, various rule options can be set, including popular house rules like the free parking pot, double money for landing on GO and having to go around once before starting buying, while standard rules like the even build rule, the auctioning of unsold properties and rent immunity in trading can be switched off. Players can be set between two and four, with the computer filling out any number of positions. The personality of the computer opponents can be set in four levels, from cautious to intelligent. Eleven tokens are available, including the money bag, introduced to the game in 1998 by popular vote.\n\nGameplay is seen in 3D, with an animated roll of the dice, the tokens moving around the board (the walking animations can be turned off), and Mr. Monopoly holding up Chance and Community cards. The camera can be set to five different positions during token movement, and there is a free camera mode for inspecting assets. The game can be saved between turns.", 
+      "game_id": 67972, 
+      "genres": [
+        {
+          "genre_category": "Basic Genres", 
+          "genre_category_id": 1, 
+          "genre_id": 4, 
+          "genre_name": "Strategy/Tactics"
+        }, 
+        {
+          "genre_category": "Perspective", 
+          "genre_category_id": 2, 
+          "genre_id": 126, 
+          "genre_name": "3rd-person (Other)"
+        }, 
+        {
+          "genre_category": "Gameplay", 
+          "genre_category_id": 4, 
+          "genre_id": 26, 
+          "genre_name": "Board Game"
+        }, 
+        {
+          "genre_category": "Other Attributes", 
+          "genre_category_id": 6, 
+          "genre_id": 82, 
+          "genre_name": "Licensed"
+        }
+      ], 
+      "moby_score": 2.2, 
+      "moby_url": "http://www.mobygames.com/game/monopoly_n64", 
+      "num_votes": 2, 
+      "official_url": null, 
+      "platforms": [
+        {
+          "first_release_date": "1999-12-18", 
+          "platform_id": 9, 
+          "platform_name": "Nintendo 64"
+        }
+      ], 
+      "sample_cover": null, 
+      "sample_screenshots": [
+        {
+          "caption": "Title screen", 
+          "height": 480, 
+          "image": "http://www.mobygames.com/images/shots/l/349421-monopoly-nintendo-64-screenshot-title-screen.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/349421-monopoly-nintendo-64-screenshot-title-screen.jpg", 
+          "width": 640
+        }, 
+        {
+          "caption": "Select the game type", 
+          "height": 480, 
+          "image": "http://www.mobygames.com/images/shots/l/349422-monopoly-nintendo-64-screenshot-select-the-game-type.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/349422-monopoly-nintendo-64-screenshot-select-the-game-type.jpg", 
+          "width": 640
+        }, 
+        {
+          "caption": "Add or remove players, change the rules or options or just start the game.", 
+          "height": 480, 
+          "image": "http://www.mobygames.com/images/shots/l/349423-monopoly-nintendo-64-screenshot-add-or-remove-players-change.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/349423-monopoly-nintendo-64-screenshot-add-or-remove-players-change.jpg", 
+          "width": 640
+        }, 
+        {
+          "caption": "If you're adding a human player, select a token.", 
+          "height": 480, 
+          "image": "http://www.mobygames.com/images/shots/l/349424-monopoly-nintendo-64-screenshot-if-you-re-adding-a-human-player.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/349424-monopoly-nintendo-64-screenshot-if-you-re-adding-a-human-player.jpg", 
+          "width": 640
+        }
+      ], 
+      "title": "Monopoly"
+    }, 
+    {
+      "description": "The Nintendo 64 version of Command & Conquer includes all of the content from the DOS original and introduces an engine with 3D terrain, buildings and vehicles, while infantry still uses adapted 2D sprites. There are new 3D cutscenes exclusive to this version, as well as four Special Ops missions (two for GDI and two for Nod) which are not present in the original, and are different from the missions of the same name from the PlayStation port.", 
+      "game_id": 89865, 
+      "genres": [
+        {
+          "genre_category": "Basic Genres", 
+          "genre_category_id": 1, 
+          "genre_id": 4, 
+          "genre_name": "Strategy/Tactics"
+        }, 
+        {
+          "genre_category": "Perspective", 
+          "genre_category_id": 2, 
+          "genre_id": 129, 
+          "genre_name": "Bird's-eye view"
+        }, 
+        {
+          "genre_category": "Interface/Control", 
+          "genre_category_id": 7, 
+          "genre_id": 173, 
+          "genre_name": "Multiple Units/Characters Control"
+        }, 
+        {
+          "genre_category": "Interface/Control", 
+          "genre_category_id": 7, 
+          "genre_id": 167, 
+          "genre_name": "Point and Select"
+        }, 
+        {
+          "genre_category": "Narrative Theme/Topic", 
+          "genre_category_id": 8, 
+          "genre_id": 124, 
+          "genre_name": "War"
+        }, 
+        {
+          "genre_category": "Pacing", 
+          "genre_category_id": 9, 
+          "genre_id": 15, 
+          "genre_name": "Real-Time"
+        }, 
+        {
+          "genre_category": "Setting", 
+          "genre_category_id": 10, 
+          "genre_id": 202, 
+          "genre_name": "Europe"
+        }, 
+        {
+          "genre_category": "Setting", 
+          "genre_category_id": 10, 
+          "genre_id": 196, 
+          "genre_name": "Africa"
+        }, 
+        {
+          "genre_category": "Setting", 
+          "genre_category_id": 10, 
+          "genre_id": 8, 
+          "genre_name": "Sci-Fi / Futuristic"
+        }, 
+        {
+          "genre_category": "Visual Presentation", 
+          "genre_category_id": 12, 
+          "genre_id": 134, 
+          "genre_name": "Free-roaming camera"
+        }
+      ], 
+      "moby_score": 3.5, 
+      "moby_url": "http://www.mobygames.com/game/command-conquer__", 
+      "num_votes": 23, 
+      "official_url": null, 
+      "platforms": [
+        {
+          "first_release_date": "1999-06-29", 
+          "platform_id": 9, 
+          "platform_name": "Nintendo 64"
+        }
+      ], 
+      "sample_cover": {
+        "height": 559, 
+        "image": "http://www.mobygames.com/images/covers/l/54497-command-conquer-nintendo-64-front-cover.jpg", 
+        "platforms": [
+          "Nintendo 64"
+        ], 
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/54497-command-conquer-nintendo-64-front-cover.jpg", 
+        "width": 800
+      }, 
+      "sample_screenshots": [
+        {
+          "caption": "Title screen", 
+          "height": 480, 
+          "image": "http://www.mobygames.com/images/shots/l/187757-command-conquer-nintendo-64-screenshot-title-screen.png", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/187757-command-conquer-nintendo-64-screenshot-title-screen.jpg", 
+          "width": 640
+        }, 
+        {
+          "caption": "Building a power plant.", 
+          "height": 480, 
+          "image": "http://www.mobygames.com/images/shots/l/187758-command-conquer-nintendo-64-screenshot-building-a-power-plant.png", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/187758-command-conquer-nintendo-64-screenshot-building-a-power-plant.jpg", 
+          "width": 640
+        }, 
+        {
+          "caption": "Base is under attack.", 
+          "height": 480, 
+          "image": "http://www.mobygames.com/images/shots/l/187759-command-conquer-nintendo-64-screenshot-base-is-under-attack.png", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/187759-command-conquer-nintendo-64-screenshot-base-is-under-attack.jpg", 
+          "width": 640
+        }
+      ], 
+      "title": "Command & Conquer"
+    }
+  ]
+

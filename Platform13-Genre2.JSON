@@ -1,0 +1,1944 @@
+[
+    {
+      "description": "Set 10 years after the events of Riven, <i>Myst 3: Exile</i> is about a man who wants revenge on Atrus.\n\nThe gameplay remains the same point and click interface as Myst, but adds 360 degree scrolling technology for a more realistic gaming experience.", 
+      "game_id": 3520, 
+      "genres": [
+        {
+          "genre_category": "Basic Genres", 
+          "genre_category_id": 1, 
+          "genre_id": 2, 
+          "genre_name": "Adventure"
+        }, 
+        {
+          "genre_category": "Perspective", 
+          "genre_category_id": 2, 
+          "genre_id": 7, 
+          "genre_name": "1st-person"
+        }, 
+        {
+          "genre_category": "Gameplay", 
+          "genre_category_id": 4, 
+          "genre_id": 146, 
+          "genre_name": "Graphic Adventure"
+        }, 
+        {
+          "genre_category": "Gameplay", 
+          "genre_category_id": 4, 
+          "genre_id": 30, 
+          "genre_name": "Puzzle elements"
+        }, 
+        {
+          "genre_category": "Interface/Control", 
+          "genre_category_id": 7, 
+          "genre_id": 167, 
+          "genre_name": "Point and Select"
+        }, 
+        {
+          "genre_category": "Setting", 
+          "genre_category_id": 10, 
+          "genre_id": 212, 
+          "genre_name": "Steampunk"
+        }, 
+        {
+          "genre_category": "Setting", 
+          "genre_category_id": 10, 
+          "genre_id": 78, 
+          "genre_name": "Fantasy"
+        }
+      ], 
+      "moby_score": 3.9, 
+      "moby_url": "http://www.mobygames.com/game/myst-iii-exile", 
+      "num_votes": 84, 
+      "official_url": "https://web.archive.org/web/20000818034238/http://www.myst3.com:80/html/exile.html", 
+      "platforms": [
+        {
+          "first_release_date": "2001", 
+          "platform_id": 3, 
+          "platform_name": "Windows"
+        }, 
+        {
+          "first_release_date": "2001", 
+          "platform_id": 74, 
+          "platform_name": "Macintosh"
+        }, 
+        {
+          "first_release_date": "2002-05-02", 
+          "platform_id": 13, 
+          "platform_name": "Xbox"
+        }, 
+        {
+          "first_release_date": "2002-09-19", 
+          "platform_id": 7, 
+          "platform_name": "PlayStation 2"
+        }
+      ], 
+      "sample_cover": {
+        "height": 961, 
+        "image": "http://www.mobygames.com/images/covers/l/7121-myst-iii-exile-windows-front-cover.jpg", 
+        "platforms": [
+          "Windows", 
+          "Macintosh"
+        ], 
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/7121-myst-iii-exile-windows-front-cover.jpg", 
+        "width": 800
+      }, 
+      "sample_screenshots": [
+        {
+          "caption": "Catherine and child", 
+          "height": 480, 
+          "image": "http://www.mobygames.com/images/shots/l/19537-myst-iii-exile-windows-screenshot-catherine-and-child.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/19537-myst-iii-exile-windows-screenshot-catherine-and-child.jpg", 
+          "width": 640
+        }, 
+        {
+          "caption": "Building with stained glass windows", 
+          "height": 480, 
+          "image": "http://www.mobygames.com/images/shots/l/19538-myst-iii-exile-windows-screenshot-building-with-stained-glass.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/19538-myst-iii-exile-windows-screenshot-building-with-stained-glass.jpg", 
+          "width": 640
+        }, 
+        {
+          "caption": "Passageway", 
+          "height": 480, 
+          "image": "http://www.mobygames.com/images/shots/l/20363-myst-iii-exile-windows-screenshot-passageway.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/20363-myst-iii-exile-windows-screenshot-passageway.jpg", 
+          "width": 640
+        }, 
+        {
+          "caption": "An Interesting Flying Contraption", 
+          "height": 480, 
+          "image": "http://www.mobygames.com/images/shots/l/20364-myst-iii-exile-windows-screenshot-an-interesting-flying-contraption.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/20364-myst-iii-exile-windows-screenshot-an-interesting-flying-contraption.jpg", 
+          "width": 640
+        }
+      ], 
+      "title": "Myst III: Exile"
+    }, 
+    {
+      "description": "A young man named Eike Kusch strolls through the quiet patriarchal German town Lebensbaum. Suddenly, a tremendous blow darkens the sight of his eyes, and the next thing he can see is a very strange room filled with bizarre objects, and a voice talking to him from nowhere. A mysterious being known as Homunculus tells Eike that he has been stabbed to death. Homunculus gives Eike a time-travelling device and brings him back to life a short while before his murder took place. From that moment on, Eike's miraculously acquired second chance turns into a constant race against time, as he tries to escape from his destiny. In order to alter the course of events, preventing the unknown person from carrying out his murder, Eike will have to travel back in time as far as the 16th century, meeting people closely connected to his own existence and changing the fabric of reality.\n\n<i>Shadow of Memories</i> (<i>Shadow of Destiny</i> in North America) is an adventure game. There are no action elements in the game, and the protagonist has no health bar. Each chapter has a time limit, during which Eike has to find a way to prevent the murderer from killing him. This is mainly achieved by traveling through time to different hours, days, years, and even centuries. Obtaining a crucial item, having a conversation with a specific character, or performing another action in the past will prevent Eike from getting killed. Time-traveling requires energy units, which can be found by exploring the town. If Eike fails to achieve the goal at hand within the allotted time and prevent his murder, the chapter must be restarted.\n\nDuring the course of the game the player will have several choices and opportunities to change the future in various ways. Due to the time-traveling feature, many objectives can be accomplished in non-linear ways, branching the storyline and eventually resulting in eight different endings, six of which can be achieved during the first playthrough, and two others unlocked after having reached the other six.", 
+      "game_id": 3919, 
+      "genres": [
+        {
+          "genre_category": "Basic Genres", 
+          "genre_category_id": 1, 
+          "genre_id": 2, 
+          "genre_name": "Adventure"
+        }, 
+        {
+          "genre_category": "Perspective", 
+          "genre_category_id": 2, 
+          "genre_id": 126, 
+          "genre_name": "3rd-person (Other)"
+        }, 
+        {
+          "genre_category": "Narrative Theme/Topic", 
+          "genre_category_id": 8, 
+          "genre_id": 55, 
+          "genre_name": "Detective / Mystery"
+        }
+      ], 
+      "moby_score": 3.6, 
+      "moby_url": "http://www.mobygames.com/game/shadow-of-destiny", 
+      "num_votes": 62, 
+      "official_url": null, 
+      "platforms": [
+        {
+          "first_release_date": "2001-02-22", 
+          "platform_id": 7, 
+          "platform_name": "PlayStation 2"
+        }, 
+        {
+          "first_release_date": "2002-06-18", 
+          "platform_id": 3, 
+          "platform_name": "Windows"
+        }, 
+        {
+          "first_release_date": "2002-11-08", 
+          "platform_id": 13, 
+          "platform_name": "Xbox"
+        }, 
+        {
+          "first_release_date": "2009-10-01", 
+          "platform_id": 46, 
+          "platform_name": "PSP"
+        }
+      ], 
+      "sample_cover": {
+        "height": 1141, 
+        "image": "http://www.mobygames.com/images/covers/l/16510-shadow-of-destiny-playstation-2-front-cover.jpg", 
+        "platforms": [
+          "PlayStation 2"
+        ], 
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/16510-shadow-of-destiny-playstation-2-front-cover.jpg", 
+        "width": 800
+      }, 
+      "sample_screenshots": [
+        {
+          "caption": "Main Menu (EXTRA option appears after finishing the game once)", 
+          "height": 576, 
+          "image": "http://www.mobygames.com/images/shots/l/38566-shadow-of-destiny-playstation-2-screenshot-main-menu-extra.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/38566-shadow-of-destiny-playstation-2-screenshot-main-menu-extra.jpg", 
+          "width": 720
+        }, 
+        {
+          "caption": "Intro opening makes a nice combination of 3D that looks pencil-drawn effect.", 
+          "height": 576, 
+          "image": "http://www.mobygames.com/images/shots/l/38567-shadow-of-destiny-playstation-2-screenshot-intro-opening-makes.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/38567-shadow-of-destiny-playstation-2-screenshot-intro-opening-makes.jpg", 
+          "width": 720
+        }, 
+        {
+          "caption": "Eike Kusch, game's protagonist.", 
+          "height": 576, 
+          "image": "http://www.mobygames.com/images/shots/l/38568-shadow-of-destiny-playstation-2-screenshot-eike-kusch-game.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/38568-shadow-of-destiny-playstation-2-screenshot-eike-kusch-game.jpg", 
+          "width": 720
+        }, 
+        {
+          "caption": "Hopping arrow above the door will iondicate whether you may currently enter (or try to) some building.", 
+          "height": 576, 
+          "image": "http://www.mobygames.com/images/shots/l/38569-shadow-of-destiny-playstation-2-screenshot-hopping-arrow-above.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/38569-shadow-of-destiny-playstation-2-screenshot-hopping-arrow-above.jpg", 
+          "width": 720
+        }
+      ], 
+      "title": "Shadow of Destiny"
+    }, 
+    {
+      "description": "<i>Restless Dreams</i> is an updated version of of  Silent Hill 2. It contains all of the content of the original version and adds several pieces of new content. The most significant is a new short scenario called <i>Born from a Wish</i>, where players take control of Maria from her first moments right up to where she first appears in the main game. Also included is a sixth ending to the main scenario and a minor feature that allows the player to turn off the graphical effect, which makes the game look like it was shot on cheap film stock.", 
+      "game_id": 5069, 
+      "genres": [
+        {
+          "genre_category": "Basic Genres", 
+          "genre_category_id": 1, 
+          "genre_id": 2, 
+          "genre_name": "Adventure"
+        }, 
+        {
+          "genre_category": "Basic Genres", 
+          "genre_category_id": 1, 
+          "genre_id": 1, 
+          "genre_name": "Action"
+        }, 
+        {
+          "genre_category": "Perspective", 
+          "genre_category_id": 2, 
+          "genre_id": 126, 
+          "genre_name": "3rd-person (Other)"
+        }, 
+        {
+          "genre_category": "Gameplay", 
+          "genre_category_id": 4, 
+          "genre_id": 102, 
+          "genre_name": "Survival Horror"
+        }, 
+        {
+          "genre_category": "Gameplay", 
+          "genre_category_id": 4, 
+          "genre_id": 30, 
+          "genre_name": "Puzzle elements"
+        }, 
+        {
+          "genre_category": "Narrative Theme/Topic", 
+          "genre_category_id": 8, 
+          "genre_id": 83, 
+          "genre_name": "Horror"
+        }, 
+        {
+          "genre_category": "Visual Presentation", 
+          "genre_category_id": 12, 
+          "genre_id": 132, 
+          "genre_name": "Cinematic camera"
+        }
+      ], 
+      "moby_score": 4.1, 
+      "moby_url": "http://www.mobygames.com/game/silent-hill-2-restless-dreams", 
+      "num_votes": 122, 
+      "official_url": null, 
+      "platforms": [
+        {
+          "first_release_date": "2001-12-20", 
+          "platform_id": 13, 
+          "platform_name": "Xbox"
+        }, 
+        {
+          "first_release_date": "2002-07-04", 
+          "platform_id": 7, 
+          "platform_name": "PlayStation 2"
+        }, 
+        {
+          "first_release_date": "2002-12-05", 
+          "platform_id": 3, 
+          "platform_name": "Windows"
+        }
+      ], 
+      "sample_cover": {
+        "height": 1127, 
+        "image": "http://www.mobygames.com/images/covers/l/14388-silent-hill-2-restless-dreams-xbox-front-cover.jpg", 
+        "platforms": [
+          "Xbox"
+        ], 
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/14388-silent-hill-2-restless-dreams-xbox-front-cover.jpg", 
+        "width": 800
+      }, 
+      "sample_screenshots": [
+        {
+          "caption": "Title screen", 
+          "height": 480, 
+          "image": "http://www.mobygames.com/images/shots/l/302101-silent-hill-2-restless-dreams-xbox-screenshot-title-screen.png", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/302101-silent-hill-2-restless-dreams-xbox-screenshot-title-screen.jpg", 
+          "width": 720
+        }, 
+        {
+          "caption": "Choose which scenario to play.", 
+          "height": 480, 
+          "image": "http://www.mobygames.com/images/shots/l/302100-silent-hill-2-restless-dreams-xbox-screenshot-choose-which.png", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/302100-silent-hill-2-restless-dreams-xbox-screenshot-choose-which.jpg", 
+          "width": 720
+        }, 
+        {
+          "caption": "Combat and puzzle difficulty are independent.", 
+          "height": 480, 
+          "image": "http://www.mobygames.com/images/shots/l/302076-silent-hill-2-restless-dreams-xbox-screenshot-combat-and-puzzle.png", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/302076-silent-hill-2-restless-dreams-xbox-screenshot-combat-and-puzzle.jpg", 
+          "width": 720
+        }, 
+        {
+          "caption": "Opening CGI", 
+          "height": 480, 
+          "image": "http://www.mobygames.com/images/shots/l/302077-silent-hill-2-restless-dreams-xbox-screenshot-opening-cgi.png", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/302077-silent-hill-2-restless-dreams-xbox-screenshot-opening-cgi.jpg", 
+          "width": 720
+        }
+      ], 
+      "title": "Silent Hill 2: Restless Dreams"
+    }, 
+    {
+      "description": "After his father was murdered by a mysterious Chinese man known as Lan Di, Ryo Hazuki swears to avenge his death. After a futile search for Lan Di in Yokosuka, Ryo is contacted by Chen Yao Wen, a Chinese master who advices him to travel to Hong-Kong and seek out Master Lishao Tao, who might be the only one who knows what had happened between Lan Di and Ryo's father in the past. Ryo arrives in Hong-Kong and starts searching for a man who is his only link to the elusive murderer.\n\n<i>Shenmue II</i> is a direct sequel to Shenmue, continuing its story. The game's structure and basic gameplay elements are similar to those of the first game, incorporating elements of adventure, fighting, and light role-playing. Ryo explores vast 3D environments, talks to people to gather clues, and occasionally participates in fighting sequences. Like in the previous game, Ryo can train to become stronger in battles, and gradually learns new moves, which constitutes the role-playing element of the game.\n\nThe game's environments are based on real locations in Hong-Kong. The game world is significantly larger than that of the predecessor. The game also has a somewhat more linear story progression with numerous precise objectives, though free-form exploration is available during most of the game. Earning money plays a more important role, and many objectives are built around Ryo having to take part-time jobs (most of which are shaped like action mini-games) or participate in fights to win money. Like in the first game, Ryo can visit the arcades and play exact replicas of older arcade games, e.g. OutRun.\n\nThe sequel features a larger amount of characters who take part in the story. Some of them also accompany Ryo on his journey, helping him in fights or other dangerous situations. The game also noticeably increases the amount of quick-time events (QTEs). Several key sequences are composed entirely out of cutscenes during which the player has to rapidly press combinations of buttons in order to execute the correct action. Many major fights in the game also include extensive QTE segments, often serving as a culmination of the fight.\n\nThe Xbox version of the game comes with an additional DVD called <i>Shenmue: The Movie</i>, which contains a summation of the first <i>Shenmue</i> made into a feature-length movie. ", 
+      "game_id": 5405, 
+      "genres": [
+        {
+          "genre_category": "Basic Genres", 
+          "genre_category_id": 1, 
+          "genre_id": 2, 
+          "genre_name": "Adventure"
+        }, 
+        {
+          "genre_category": "Basic Genres", 
+          "genre_category_id": 1, 
+          "genre_id": 1, 
+          "genre_name": "Action"
+        }, 
+        {
+          "genre_category": "Perspective", 
+          "genre_category_id": 2, 
+          "genre_id": 128, 
+          "genre_name": "Behind view"
+        }, 
+        {
+          "genre_category": "Gameplay", 
+          "genre_category_id": 4, 
+          "genre_id": 219, 
+          "genre_name": "Quick Time Events (QTEs)"
+        }, 
+        {
+          "genre_category": "Gameplay", 
+          "genre_category_id": 4, 
+          "genre_id": 48, 
+          "genre_name": "Fighting"
+        }, 
+        {
+          "genre_category": "Gameplay", 
+          "genre_category_id": 4, 
+          "genre_id": 39, 
+          "genre_name": "Martial Arts"
+        }
+      ], 
+      "moby_score": 4.1, 
+      "moby_url": "http://www.mobygames.com/game/shenmue-ii", 
+      "num_votes": 144, 
+      "official_url": null, 
+      "platforms": [
+        {
+          "first_release_date": "2001-08-06", 
+          "platform_id": 8, 
+          "platform_name": "Dreamcast"
+        }, 
+        {
+          "first_release_date": "2002-10-30", 
+          "platform_id": 13, 
+          "platform_name": "Xbox"
+        }
+      ], 
+      "sample_cover": {
+        "height": 702, 
+        "image": "http://www.mobygames.com/images/covers/l/9610-shenmue-ii-dreamcast-front-cover.jpg", 
+        "platforms": [
+          "Dreamcast"
+        ], 
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/9610-shenmue-ii-dreamcast-front-cover.jpg", 
+        "width": 800
+      }, 
+      "sample_screenshots": [
+        {
+          "caption": "Shenmue: The Movie - Main menu.", 
+          "height": 540, 
+          "image": "http://www.mobygames.com/images/shots/l/747970-shenmue-ii-xbox-screenshot-shenmue-the-movie-main-menu.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/747970-shenmue-ii-xbox-screenshot-shenmue-the-movie-main-menu.jpg", 
+          "width": 720
+        }, 
+        {
+          "caption": "Shenmue: The Movie - Chapter list.", 
+          "height": 540, 
+          "image": "http://www.mobygames.com/images/shots/l/747971-shenmue-ii-xbox-screenshot-shenmue-the-movie-chapter-list.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/747971-shenmue-ii-xbox-screenshot-shenmue-the-movie-chapter-list.jpg", 
+          "width": 720
+        }, 
+        {
+          "caption": "Shenmue: The Movie - Ryo's father.", 
+          "height": 540, 
+          "image": "http://www.mobygames.com/images/shots/l/747972-shenmue-ii-xbox-screenshot-shenmue-the-movie-ryo-s-father.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/747972-shenmue-ii-xbox-screenshot-shenmue-the-movie-ryo-s-father.jpg", 
+          "width": 720
+        }, 
+        {
+          "caption": "Shenmue: The Movie - Buying a ticket to Hong Kong.", 
+          "height": 540, 
+          "image": "http://www.mobygames.com/images/shots/l/747973-shenmue-ii-xbox-screenshot-shenmue-the-movie-buying-a-ticket.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/747973-shenmue-ii-xbox-screenshot-shenmue-the-movie-buying-a-ticket.jpg", 
+          "width": 720
+        }
+      ], 
+      "title": "Shenmue II"
+    }, 
+    {
+      "description": "Kate Walker is a lawyer who has been entrusted by the Universal Toy Company to negotiate the takeover of an old luxury toy and automaton factory. Over the centuries, the factory has been developing clockwork devices, specializing in perpetual mechanical movement. The factory's ambitions, however, are ill-suited to the contemporary economic climate, and the elderly Anna Voralberg, at the helm of the Valadilene factory for more than half a century, has decided to sell up. \n\nIt turns out that the takeover might not be as straightforward as expected. The day that Kate Walker arrives, Anna Voralberg is being buried. What is more is that she has left an heir \u2013 her brother Hans. But Hans had left the valley at the end of the thirties and never returned, and was actually believed to be dead. However, a letter written by Anna in the days leading up to her death reveals that Hans is well and truly alive and living somewhere in Siberia. Valadilene's elderly notary entrusted to take care of Anna's affairs suggests that Kate find Hans Voralberg as he is now the only person in a position to ratify the sale of the family business. \n\n<i>Syberia</i> is a traditional puzzle-solving adventure. The player navigates a 3D model of the protagonist over pre-rendered backgrounds with fixed camera angles. Puzzles are mostly inventory-based, though some involve manipulating the environment (such as mechanical devices). The interface features a single cursor; only highlighted objects can be interacted with, and there are no verb choice commands.", 
+      "game_id": 6828, 
+      "genres": [
+        {
+          "genre_category": "Basic Genres", 
+          "genre_category_id": 1, 
+          "genre_id": 2, 
+          "genre_name": "Adventure"
+        }, 
+        {
+          "genre_category": "Perspective", 
+          "genre_category_id": 2, 
+          "genre_id": 126, 
+          "genre_name": "3rd-person (Other)"
+        }, 
+        {
+          "genre_category": "Gameplay", 
+          "genre_category_id": 4, 
+          "genre_id": 146, 
+          "genre_name": "Graphic Adventure"
+        }, 
+        {
+          "genre_category": "Gameplay", 
+          "genre_category_id": 4, 
+          "genre_id": 30, 
+          "genre_name": "Puzzle elements"
+        }, 
+        {
+          "genre_category": "Setting", 
+          "genre_category_id": 10, 
+          "genre_id": 212, 
+          "genre_name": "Steampunk"
+        }
+      ], 
+      "moby_score": 3.9, 
+      "moby_url": "http://www.mobygames.com/game/syberia", 
+      "num_votes": 171, 
+      "official_url": "http://www.microids.com/FR/catalogue/syberia,75", 
+      "platforms": [
+        {
+          "first_release_date": "2002", 
+          "platform_id": 3, 
+          "platform_name": "Windows"
+        }, 
+        {
+          "first_release_date": "2003-03-28", 
+          "platform_id": 7, 
+          "platform_name": "PlayStation 2"
+        }, 
+        {
+          "first_release_date": "2003-07-23", 
+          "platform_id": 13, 
+          "platform_name": "Xbox"
+        }, 
+        {
+          "first_release_date": "2006-09-11", 
+          "platform_id": 66, 
+          "platform_name": "Windows Mobile"
+        }, 
+        {
+          "first_release_date": "2008", 
+          "platform_id": 44, 
+          "platform_name": "Nintendo DS"
+        }, 
+        {
+          "first_release_date": "2013-12-23", 
+          "platform_id": 91, 
+          "platform_name": "Android"
+        }, 
+        {
+          "first_release_date": "2014-02-27", 
+          "platform_id": 74, 
+          "platform_name": "Macintosh"
+        }, 
+        {
+          "first_release_date": "2014-12-03", 
+          "platform_id": 81, 
+          "platform_name": "PlayStation 3"
+        }, 
+        {
+          "first_release_date": "2014-12-03", 
+          "platform_id": 86, 
+          "platform_name": "iPhone"
+        }, 
+        {
+          "first_release_date": "2014-12-03", 
+          "platform_id": 69, 
+          "platform_name": "Xbox 360"
+        }, 
+        {
+          "first_release_date": "2014-12-03", 
+          "platform_id": 96, 
+          "platform_name": "iPad"
+        }, 
+        {
+          "first_release_date": "2017-10-20", 
+          "platform_id": 203, 
+          "platform_name": "Nintendo Switch"
+        }
+      ], 
+      "sample_cover": {
+        "height": 1110, 
+        "image": "http://www.mobygames.com/images/covers/l/16860-syberia-windows-front-cover.jpg", 
+        "platforms": [
+          "Windows"
+        ], 
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/16860-syberia-windows-front-cover.jpg", 
+        "width": 800
+      }, 
+      "sample_screenshots": [
+        {
+          "caption": "Title animation of the game", 
+          "height": 600, 
+          "image": "http://www.mobygames.com/images/shots/l/28411-syberia-windows-screenshot-title-animation-of-the-game.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/28411-syberia-windows-screenshot-title-animation-of-the-game.jpg", 
+          "width": 800
+        }, 
+        {
+          "caption": "Main Menu", 
+          "height": 600, 
+          "image": "http://www.mobygames.com/images/shots/l/98630-syberia-windows-screenshot-main-menu.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/98630-syberia-windows-screenshot-main-menu.jpg", 
+          "width": 800
+        }, 
+        {
+          "caption": "Inside the Barrockstadt library", 
+          "height": 480, 
+          "image": "http://www.mobygames.com/images/shots/l/28316-syberia-windows-screenshot-inside-the-barrockstadt-library.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/28316-syberia-windows-screenshot-inside-the-barrockstadt-library.jpg", 
+          "width": 640
+        }, 
+        {
+          "caption": "The Town of Valadil\u00e8ne", 
+          "height": 480, 
+          "image": "http://www.mobygames.com/images/shots/l/28315-syberia-windows-screenshot-the-town-of-valadilene.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/28315-syberia-windows-screenshot-the-town-of-valadilene.jpg", 
+          "width": 640
+        }
+      ], 
+      "title": "Syberia"
+    }, 
+    {
+      "description": "This adventure game is based on the famous comic book character of the same name. The hero - Largo was a Yugoslavian orphan, who was adopted by the world's wealthiest man, who was in search of an heir. When his adoptive father dies, the now 26-year-old Largo inherits the Winch Corporation, a financial consortium worth more than 10 billion dollars. Drawn to the challenge of presiding over such a vast empire, Largo takes over from his father, and plunges headfirst into a new, unexpectedly vicious world of murder and deceit.\r\n", 
+      "game_id": 7566, 
+      "genres": [
+        {
+          "genre_category": "Basic Genres", 
+          "genre_category_id": 1, 
+          "genre_id": 2, 
+          "genre_name": "Adventure"
+        }, 
+        {
+          "genre_category": "Perspective", 
+          "genre_category_id": 2, 
+          "genre_id": 126, 
+          "genre_name": "3rd-person (Other)"
+        }, 
+        {
+          "genre_category": "Gameplay", 
+          "genre_category_id": 4, 
+          "genre_id": 30, 
+          "genre_name": "Puzzle elements"
+        }, 
+        {
+          "genre_category": "Narrative Theme/Topic", 
+          "genre_category_id": 8, 
+          "genre_id": 55, 
+          "genre_name": "Detective / Mystery"
+        }, 
+        {
+          "genre_category": "Other Attributes", 
+          "genre_category_id": 6, 
+          "genre_id": 82, 
+          "genre_name": "Licensed"
+        }
+      ], 
+      "moby_score": 3.3, 
+      "moby_url": "http://www.mobygames.com/game/largo-winch-empire-under-threat", 
+      "num_votes": 15, 
+      "official_url": null, 
+      "platforms": [
+        {
+          "first_release_date": "2002-09", 
+          "platform_id": 3, 
+          "platform_name": "Windows"
+        }, 
+        {
+          "first_release_date": "2002-09", 
+          "platform_id": 7, 
+          "platform_name": "PlayStation 2"
+        }, 
+        {
+          "first_release_date": "2002-09", 
+          "platform_id": 14, 
+          "platform_name": "GameCube"
+        }, 
+        {
+          "first_release_date": "2002-09-19", 
+          "platform_id": 13, 
+          "platform_name": "Xbox"
+        }
+      ], 
+      "sample_cover": {
+        "height": 1106, 
+        "image": "http://www.mobygames.com/images/covers/l/32922-largo-winch-empire-under-threat-windows-front-cover.jpg", 
+        "platforms": [
+          "Windows"
+        ], 
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/32922-largo-winch-empire-under-threat-windows-front-cover.jpg", 
+        "width": 800
+      }, 
+      "sample_screenshots": [
+        {
+          "caption": "Title screen, better get used to that space bar.", 
+          "height": 1200, 
+          "image": "http://www.mobygames.com/images/shots/l/284681-largo-winch-empire-under-threat-windows-screenshot-title-screen.png", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/284681-largo-winch-empire-under-threat-windows-screenshot-title-screen.jpg", 
+          "width": 1600
+        }, 
+        {
+          "caption": "Essentially Largo Winch, is Bruce Wayne.", 
+          "height": 1200, 
+          "image": "http://www.mobygames.com/images/shots/l/284682-largo-winch-empire-under-threat-windows-screenshot-essentially.png", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/284682-largo-winch-empire-under-threat-windows-screenshot-essentially.jpg", 
+          "width": 1600
+        }, 
+        {
+          "caption": "You PDA is where you keep notes and save your progress.", 
+          "height": 1200, 
+          "image": "http://www.mobygames.com/images/shots/l/284683-largo-winch-empire-under-threat-windows-screenshot-you-pda.png", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/284683-largo-winch-empire-under-threat-windows-screenshot-you-pda.jpg", 
+          "width": 1600
+        }, 
+        {
+          "caption": "Your secretary Candy", 
+          "height": 1200, 
+          "image": "http://www.mobygames.com/images/shots/l/284684-largo-winch-empire-under-threat-windows-screenshot-your-secretary.png", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/284684-largo-winch-empire-under-threat-windows-screenshot-your-secretary.jpg", 
+          "width": 1600
+        }
+      ], 
+      "title": "Largo Winch: Empire Under Threat"
+    }, 
+    {
+      "description": "No less than six years have gone by before the third installment in the Broken Sword series saw the light of day. The first two games (The Shadow of the Templars and The Smoking Mirror) delved into the Knights Templar and Mayan mythology. This time, George Stobbart and Nico Collard are after the Voynich Manuscript to unravel its mysteries.\n\n<i>The Sleeping Dragon</i> moves away from the 2D point-and-click concept from the earlier games and features a full 3D world, with a camera that does not rotate, but uses fixed cinematic perspectives, combined with full 5.1 sound. For the Windows version the game is no longer controlled through the mouse, but now through the keyboard, for the movement of the characters as well as all the actions. The player alternately controls George or Nico. Next to typical adventure gameplay such as exploration, conversations, and searching and combining items, there are also a few action sequences. The characters can duck, sneak, hang from ledges and move crates to reach higher areas.\n\nThe locations visited throughout the game include The Congo, Paris, England, Czech Republic and Egypt.", 
+      "game_id": 11004, 
+      "genres": [
+        {
+          "genre_category": "Basic Genres", 
+          "genre_category_id": 1, 
+          "genre_id": 2, 
+          "genre_name": "Adventure"
+        }, 
+        {
+          "genre_category": "Perspective", 
+          "genre_category_id": 2, 
+          "genre_id": 126, 
+          "genre_name": "3rd-person (Other)"
+        }, 
+        {
+          "genre_category": "Gameplay", 
+          "genre_category_id": 4, 
+          "genre_id": 146, 
+          "genre_name": "Graphic Adventure"
+        }, 
+        {
+          "genre_category": "Gameplay", 
+          "genre_category_id": 4, 
+          "genre_id": 30, 
+          "genre_name": "Puzzle elements"
+        }, 
+        {
+          "genre_category": "Narrative Theme/Topic", 
+          "genre_category_id": 8, 
+          "genre_id": 55, 
+          "genre_name": "Detective / Mystery"
+        }, 
+        {
+          "genre_category": "Setting", 
+          "genre_category_id": 10, 
+          "genre_id": 202, 
+          "genre_name": "Europe"
+        }, 
+        {
+          "genre_category": "Setting", 
+          "genre_category_id": 10, 
+          "genre_id": 196, 
+          "genre_name": "Africa"
+        }, 
+        {
+          "genre_category": "Setting", 
+          "genre_category_id": 10, 
+          "genre_id": 78, 
+          "genre_name": "Fantasy"
+        }, 
+        {
+          "genre_category": "Visual Presentation", 
+          "genre_category_id": 12, 
+          "genre_id": 132, 
+          "genre_name": "Cinematic camera"
+        }
+      ], 
+      "moby_score": 3.9, 
+      "moby_url": "http://www.mobygames.com/game/broken-sword-the-sleeping-dragon", 
+      "num_votes": 144, 
+      "official_url": "http://revolution.co.uk/games/the-sleeping-dragon/", 
+      "platforms": [
+        {
+          "first_release_date": "2003", 
+          "platform_id": 13, 
+          "platform_name": "Xbox"
+        }, 
+        {
+          "first_release_date": "2003-11-11", 
+          "platform_id": 3, 
+          "platform_name": "Windows"
+        }, 
+        {
+          "first_release_date": "2003-11-14", 
+          "platform_id": 7, 
+          "platform_name": "PlayStation 2"
+        }
+      ], 
+      "sample_cover": {
+        "height": 1140, 
+        "image": "http://www.mobygames.com/images/covers/l/33259-broken-sword-the-sleeping-dragon-xbox-front-cover.jpg", 
+        "platforms": [
+          "Xbox"
+        ], 
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/33259-broken-sword-the-sleeping-dragon-xbox-front-cover.jpg", 
+        "width": 800
+      }, 
+      "sample_screenshots": [
+        {
+          "caption": "Main title screen.", 
+          "height": 576, 
+          "image": "http://www.mobygames.com/images/shots/l/78285-broken-sword-the-sleeping-dragon-xbox-screenshot-main-title.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/78285-broken-sword-the-sleeping-dragon-xbox-screenshot-main-title.jpg", 
+          "width": 720
+        }, 
+        {
+          "caption": "Main menu screen.", 
+          "height": 576, 
+          "image": "http://www.mobygames.com/images/shots/l/78286-broken-sword-the-sleeping-dragon-xbox-screenshot-main-menu.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/78286-broken-sword-the-sleeping-dragon-xbox-screenshot-main-menu.jpg", 
+          "width": 720
+        }, 
+        {
+          "caption": "For those who missed first two games, they can check synopsis with some shots in the 'extras' section.", 
+          "height": 576, 
+          "image": "http://www.mobygames.com/images/shots/l/78287-broken-sword-the-sleeping-dragon-xbox-screenshot-for-those.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/78287-broken-sword-the-sleeping-dragon-xbox-screenshot-for-those.jpg", 
+          "width": 720
+        }, 
+        {
+          "caption": "One of the many loading screens that will become the root of all your nightmares.", 
+          "height": 576, 
+          "image": "http://www.mobygames.com/images/shots/l/78288-broken-sword-the-sleeping-dragon-xbox-screenshot-one-of-the.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/78288-broken-sword-the-sleeping-dragon-xbox-screenshot-one-of-the.jpg", 
+          "width": 720
+        }
+      ], 
+      "title": "Broken Sword: The Sleeping Dragon"
+    }, 
+    {
+      "description": "You find Kate Walker continuing her journey exactly where the first game, Syberia, ended. Rather than return to her life as a New York attorney, Kate chooses to journey with Hans Voralberg to the frozen northlands of Syberia aboard his futuristic train.\n\nKate, Hans and Oscar, the humorous automaton, will travel through four locations on their way to the mythical Syberia, where Hans believes the ancient mammoth race still exists. As the three make their way through the harsh, but beautiful, wintery landscapes, many obstacles will get in their way. The player has to talk to people Kate meets and solve situation-, inventory-based and mechanical puzzles. The single-cursor interface and the visual style (3D character models and pre-rendered backgrounds) are very similar to the original game.", 
+      "game_id": 12892, 
+      "genres": [
+        {
+          "genre_category": "Basic Genres", 
+          "genre_category_id": 1, 
+          "genre_id": 2, 
+          "genre_name": "Adventure"
+        }, 
+        {
+          "genre_category": "Perspective", 
+          "genre_category_id": 2, 
+          "genre_id": 126, 
+          "genre_name": "3rd-person (Other)"
+        }, 
+        {
+          "genre_category": "Gameplay", 
+          "genre_category_id": 4, 
+          "genre_id": 146, 
+          "genre_name": "Graphic Adventure"
+        }, 
+        {
+          "genre_category": "Gameplay", 
+          "genre_category_id": 4, 
+          "genre_id": 30, 
+          "genre_name": "Puzzle elements"
+        }, 
+        {
+          "genre_category": "Setting", 
+          "genre_category_id": 10, 
+          "genre_id": 212, 
+          "genre_name": "Steampunk"
+        }, 
+        {
+          "genre_category": "Visual Presentation", 
+          "genre_category_id": 12, 
+          "genre_id": 132, 
+          "genre_name": "Cinematic camera"
+        }
+      ], 
+      "moby_score": 3.9, 
+      "moby_url": "http://www.mobygames.com/game/syberia-ii", 
+      "num_votes": 96, 
+      "official_url": "http://web.archive.org/web/20051029042117/http://www.syberia2.info/syberia2/english/", 
+      "platforms": [
+        {
+          "first_release_date": "2004-03-29", 
+          "platform_id": 3, 
+          "platform_name": "Windows"
+        }, 
+        {
+          "first_release_date": "2004-05-06", 
+          "platform_id": 13, 
+          "platform_name": "Xbox"
+        }, 
+        {
+          "first_release_date": "2005-01-20", 
+          "platform_id": 7, 
+          "platform_name": "PlayStation 2"
+        }, 
+        {
+          "first_release_date": "2007-03-02", 
+          "platform_id": 66, 
+          "platform_name": "Windows Mobile"
+        }, 
+        {
+          "first_release_date": "2014-12-03", 
+          "platform_id": 86, 
+          "platform_name": "iPhone"
+        }, 
+        {
+          "first_release_date": "2014-12-03", 
+          "platform_id": 96, 
+          "platform_name": "iPad"
+        }, 
+        {
+          "first_release_date": "2014-12-11", 
+          "platform_id": 74, 
+          "platform_name": "Macintosh"
+        }, 
+        {
+          "first_release_date": "2015-03-25", 
+          "platform_id": 91, 
+          "platform_name": "Android"
+        }, 
+        {
+          "first_release_date": "2015-04-01", 
+          "platform_id": 81, 
+          "platform_name": "PlayStation 3"
+        }, 
+        {
+          "first_release_date": "2015-05-13", 
+          "platform_id": 69, 
+          "platform_name": "Xbox 360"
+        }, 
+        {
+          "first_release_date": "2017-11-30", 
+          "platform_id": 203, 
+          "platform_name": "Nintendo Switch"
+        }
+      ], 
+      "sample_cover": {
+        "height": 1136, 
+        "image": "http://www.mobygames.com/images/covers/l/34891-syberia-ii-windows-front-cover.jpg", 
+        "platforms": [
+          "Windows"
+        ], 
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/34891-syberia-ii-windows-front-cover.jpg", 
+        "width": 800
+      }, 
+      "sample_screenshots": [
+        {
+          "caption": "Title Screen", 
+          "height": 600, 
+          "image": "http://www.mobygames.com/images/shots/l/86452-syberia-ii-windows-screenshot-title-screen.png", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/86452-syberia-ii-windows-screenshot-title-screen.jpg", 
+          "width": 800
+        }, 
+        {
+          "caption": "Main menu", 
+          "height": 600, 
+          "image": "http://www.mobygames.com/images/shots/l/71318-syberia-ii-windows-screenshot-main-menu.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/71318-syberia-ii-windows-screenshot-main-menu.jpg", 
+          "width": 800
+        }, 
+        {
+          "caption": "Click on \"Syberia Recap\" from the main menu to catch up with the story", 
+          "height": 600, 
+          "image": "http://www.mobygames.com/images/shots/l/86588-syberia-ii-windows-screenshot-click-on-syberia-recap-from-the.png", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/86588-syberia-ii-windows-screenshot-click-on-syberia-recap-from-the.jpg", 
+          "width": 800
+        }, 
+        {
+          "caption": "Oscar", 
+          "height": 600, 
+          "image": "http://www.mobygames.com/images/shots/l/71323-syberia-ii-windows-screenshot-oscar.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/71323-syberia-ii-windows-screenshot-oscar.jpg", 
+          "width": 800
+        }
+      ], 
+      "title": "Syberia II"
+    }, 
+    {
+      "description": "In <i>Myst IV</i>, you learn the fate of the two brothers from Myst 1 and must search for Yeesha, Atrus' daughter.  Sirrus and Achenar have remained trapped in their prison worlds for crimes they have committed.  With the disappearance of Yeesha, you must explore the two prison worlds and find her.\n\nLike the previous games in the Myst series, the gameplay is node based and not 3-D like Uru.  <i>Myst IV</i> is more interactive than any other previous Myst game.  Using a hand as your cursor, you can push buttons, pull and push things, open and close drawers, or just tap objects.  The game also contains a built in hint system with three levels of hints, each level gives more and more help on how to solve a puzzle.\n\nThe soundtrack was composed by Jack Wall with a song by artist Peter Gabriel.\n\n<i>Myst IV</i> also has the addition of a zip mode, allowing you to quickly travel to places you've been before.", 
+      "game_id": 15044, 
+      "genres": [
+        {
+          "genre_category": "Basic Genres", 
+          "genre_category_id": 1, 
+          "genre_id": 2, 
+          "genre_name": "Adventure"
+        }, 
+        {
+          "genre_category": "Perspective", 
+          "genre_category_id": 2, 
+          "genre_id": 7, 
+          "genre_name": "1st-person"
+        }, 
+        {
+          "genre_category": "Gameplay", 
+          "genre_category_id": 4, 
+          "genre_id": 146, 
+          "genre_name": "Graphic Adventure"
+        }, 
+        {
+          "genre_category": "Gameplay", 
+          "genre_category_id": 4, 
+          "genre_id": 30, 
+          "genre_name": "Puzzle elements"
+        }
+      ], 
+      "moby_score": 4.0, 
+      "moby_url": "http://www.mobygames.com/game/myst-iv-revelation", 
+      "num_votes": 40, 
+      "official_url": "http://www.mystrevelation.com/", 
+      "platforms": [
+        {
+          "first_release_date": "2004-09-10", 
+          "platform_id": 3, 
+          "platform_name": "Windows"
+        }, 
+        {
+          "first_release_date": "2004-09-10", 
+          "platform_id": 74, 
+          "platform_name": "Macintosh"
+        }, 
+        {
+          "first_release_date": "2005-03-28", 
+          "platform_id": 13, 
+          "platform_name": "Xbox"
+        }
+      ], 
+      "sample_cover": {
+        "height": 1135, 
+        "image": "http://www.mobygames.com/images/covers/l/40136-myst-iv-revelation-windows-front-cover.png", 
+        "platforms": [
+          "Windows", 
+          "Macintosh"
+        ], 
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/40136-myst-iv-revelation-windows-front-cover.jpg", 
+        "width": 800
+      }, 
+      "sample_screenshots": [
+        {
+          "caption": "Title Screen", 
+          "height": 600, 
+          "image": "http://www.mobygames.com/images/shots/l/105529-myst-iv-revelation-windows-screenshot-title-screen.png", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/105529-myst-iv-revelation-windows-screenshot-title-screen.jpg", 
+          "width": 800
+        }, 
+        {
+          "caption": "Main Menu", 
+          "height": 600, 
+          "image": "http://www.mobygames.com/images/shots/l/105530-myst-iv-revelation-windows-screenshot-main-menu.png", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/105530-myst-iv-revelation-windows-screenshot-main-menu.jpg", 
+          "width": 800
+        }, 
+        {
+          "caption": "You begin here as Yeesha drives the shuttle to Tomahna ", 
+          "height": 768, 
+          "image": "http://www.mobygames.com/images/shots/l/105532-myst-iv-revelation-windows-screenshot-you-begin-here-as-yeesha.png", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/105532-myst-iv-revelation-windows-screenshot-you-begin-here-as-yeesha.jpg", 
+          "width": 1024
+        }, 
+        {
+          "caption": "Atrus explains what's going on and why you're here.", 
+          "height": 768, 
+          "image": "http://www.mobygames.com/images/shots/l/105533-myst-iv-revelation-windows-screenshot-atrus-explains-what.png", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/105533-myst-iv-revelation-windows-screenshot-atrus-explains-what.jpg", 
+          "width": 1024
+        }
+      ], 
+      "title": "Myst IV: Revelation"
+    }, 
+    {
+      "description": "Larry Lovage learned everything he knows from his uncle, Larry Laffer, the famous polyester-clad fellow who starred in the previous games. Young Larry finally makes it to college, <i>the best</i> place to meet and pick up girls. He finds them <i>everywhere</i> .. in restaurants, night clubs, dormitories and at fraternity parties. All those scantilly clad, gorgeous babes! But, does Larry have half a chance <i>to score</i> with even one of them?  Will he get a peek at what's underneath that braless, too-tight tank top?\n\nLarry's sexcapades include varied types of arcade mini-games. Some simply require good reflexes while others involve memory and/or correct timing. For instance, steer a little joker sperm through an obstacle course of flying objects, all the while trying to keep the \"course\" of the conversation on track. Or .. put the correct ingredients into a bar drink in order - and in the time allowed. Several of the games become more difficult as the game progresses.\n\nThis action/adventure features three endings, over 20 locations, 3D graphics, and hilarious adult situations and conversations.", 
+      "game_id": 15118, 
+      "genres": [
+        {
+          "genre_category": "Basic Genres", 
+          "genre_category_id": 1, 
+          "genre_id": 2, 
+          "genre_name": "Adventure"
+        }, 
+        {
+          "genre_category": "Perspective", 
+          "genre_category_id": 2, 
+          "genre_id": 126, 
+          "genre_name": "3rd-person (Other)"
+        }, 
+        {
+          "genre_category": "Perspective", 
+          "genre_category_id": 2, 
+          "genre_id": 7, 
+          "genre_name": "1st-person"
+        }, 
+        {
+          "genre_category": "Gameplay", 
+          "genre_category_id": 4, 
+          "genre_id": 146, 
+          "genre_name": "Graphic Adventure"
+        }, 
+        {
+          "genre_category": "Gameplay", 
+          "genre_category_id": 4, 
+          "genre_id": 30, 
+          "genre_name": "Puzzle elements"
+        }, 
+        {
+          "genre_category": "Narrative Theme/Topic", 
+          "genre_category_id": 8, 
+          "genre_id": 120, 
+          "genre_name": "Comedy"
+        }, 
+        {
+          "genre_category": "Narrative Theme/Topic", 
+          "genre_category_id": 8, 
+          "genre_id": 87, 
+          "genre_name": "Adult"
+        }
+      ], 
+      "moby_score": 3.0, 
+      "moby_url": "http://www.mobygames.com/game/leisure-suit-larry-magna-cum-laude", 
+      "num_votes": 37, 
+      "official_url": "http://web.archive.org/web/20050531010410/http://www.who-is-larry.de/", 
+      "platforms": [
+        {
+          "first_release_date": "2004", 
+          "platform_id": 7, 
+          "platform_name": "PlayStation 2"
+        }, 
+        {
+          "first_release_date": "2004-10-05", 
+          "platform_id": 3, 
+          "platform_name": "Windows"
+        }, 
+        {
+          "first_release_date": "2004-10-05", 
+          "platform_id": 13, 
+          "platform_name": "Xbox"
+        }
+      ], 
+      "sample_cover": {
+        "height": 1144, 
+        "image": "http://www.mobygames.com/images/covers/l/112761-leisure-suit-larry-magna-cum-laude-playstation-2-front-cover.jpg", 
+        "platforms": [
+          "PlayStation 2"
+        ], 
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/112761-leisure-suit-larry-magna-cum-laude-playstation-2-front-cover.jpg", 
+        "width": 800
+      }, 
+      "sample_screenshots": [
+        {
+          "caption": "Developer logo", 
+          "height": 768, 
+          "image": "http://www.mobygames.com/images/shots/l/100871-leisure-suit-larry-magna-cum-laude-windows-screenshot-developer.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/100871-leisure-suit-larry-magna-cum-laude-windows-screenshot-developer.jpg", 
+          "width": 1024
+        }, 
+        {
+          "caption": "Main menu", 
+          "height": 768, 
+          "image": "http://www.mobygames.com/images/shots/l/100872-leisure-suit-larry-magna-cum-laude-windows-screenshot-main.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/100872-leisure-suit-larry-magna-cum-laude-windows-screenshot-main.jpg", 
+          "width": 1024
+        }, 
+        {
+          "caption": "Playing Whack a Pole", 
+          "height": 768, 
+          "image": "http://www.mobygames.com/images/shots/l/100873-leisure-suit-larry-magna-cum-laude-windows-screenshot-playing.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/100873-leisure-suit-larry-magna-cum-laude-windows-screenshot-playing.jpg", 
+          "width": 1024
+        }, 
+        {
+          "caption": "One of the many talking games you play - this one is with Sally Mae", 
+          "height": 768, 
+          "image": "http://www.mobygames.com/images/shots/l/100874-leisure-suit-larry-magna-cum-laude-windows-screenshot-one.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/100874-leisure-suit-larry-magna-cum-laude-windows-screenshot-one.jpg", 
+          "width": 1024
+        }
+      ], 
+      "title": "Leisure Suit Larry: Magna Cum Laude"
+    }, 
+    {
+      "description": "This game is named for and based upon the CBS television series CSI. This Xbox version incorporates all 10 cases from the first two PC Windows games:  CSI: Crime Scene Investigation and CSI: Dark Motives.\r\n\r\nSolve intriguing crime cases as a member of the Las Vegas police force and work in the same settings and atmosphere as the show. Interactive parts are voiced by the actors and actresses from the series.\r\n\r\nHigh-tech equipment and tools are at your disposal and must be used in combination with your wits, intuition and common sense. During your investigation you will question witnesses and suspects, find evidence and clues and discover motives to make an arrest.", 
+      "game_id": 16461, 
+      "genres": [
+        {
+          "genre_category": "Basic Genres", 
+          "genre_category_id": 1, 
+          "genre_id": 76, 
+          "genre_name": "Compilation"
+        }, 
+        {
+          "genre_category": "Basic Genres", 
+          "genre_category_id": 1, 
+          "genre_id": 2, 
+          "genre_name": "Adventure"
+        }, 
+        {
+          "genre_category": "Perspective", 
+          "genre_category_id": 2, 
+          "genre_id": 7, 
+          "genre_name": "1st-person"
+        }, 
+        {
+          "genre_category": "Gameplay", 
+          "genre_category_id": 4, 
+          "genre_id": 30, 
+          "genre_name": "Puzzle elements"
+        }, 
+        {
+          "genre_category": "Narrative Theme/Topic", 
+          "genre_category_id": 8, 
+          "genre_id": 121, 
+          "genre_name": "Crime"
+        }, 
+        {
+          "genre_category": "Narrative Theme/Topic", 
+          "genre_category_id": 8, 
+          "genre_id": 55, 
+          "genre_name": "Detective / Mystery"
+        }, 
+        {
+          "genre_category": "Other Attributes", 
+          "genre_category_id": 6, 
+          "genre_id": 82, 
+          "genre_name": "Licensed"
+        }
+      ], 
+      "moby_score": 3.3, 
+      "moby_url": "http://www.mobygames.com/game/csi-crime-scene-investigation-", 
+      "num_votes": 2, 
+      "official_url": null, 
+      "platforms": [
+        {
+          "first_release_date": "2004-12-14", 
+          "platform_id": 13, 
+          "platform_name": "Xbox"
+        }
+      ], 
+      "sample_cover": {
+        "height": 1132, 
+        "image": "http://www.mobygames.com/images/covers/l/145030-csi-crime-scene-investigation-xbox-front-cover.jpg", 
+        "platforms": [
+          "Xbox"
+        ], 
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/145030-csi-crime-scene-investigation-xbox-front-cover.jpg", 
+        "width": 800
+      }, 
+      "sample_screenshots": [], 
+      "title": "CSI: Crime Scene Investigation"
+    }, 
+    {
+      "description": "Two separate murder cases, in two separate lifetimes -- so alike .. so similar in the smallest of details that one could believe they were performed by the same person. Impossible! One of the crimes took place 75 years ago, while the other just happened! Is someone copying an old serial killer .. or is it remotely possible that the same murderer is still alive and committing more crimes?\r\n\r\nVictoria McPherson is an FBI agent investigator based in Chicago. While visiting her father and talking about their family, they discuss her grandfather, former P.I. Gustav McPherson (from Post Mortem). Finding Gus' diary in an old attic trunk, she picks it up and begins to read ...\r\n\r\nIn this point and click mystery adventure, you'll play both Victoria in modern Chicago as well as her grandfather, Gus, in Prague in the 1920s. Meet and talk with over 20 characters, explore Chicago and Prague and solve puzzles while investigating in two time periods.\r\n\r\n", 
+      "game_id": 17411, 
+      "genres": [
+        {
+          "genre_category": "Basic Genres", 
+          "genre_category_id": 1, 
+          "genre_id": 2, 
+          "genre_name": "Adventure"
+        }, 
+        {
+          "genre_category": "Perspective", 
+          "genre_category_id": 2, 
+          "genre_id": 126, 
+          "genre_name": "3rd-person (Other)"
+        }, 
+        {
+          "genre_category": "Perspective", 
+          "genre_category_id": 2, 
+          "genre_id": 7, 
+          "genre_name": "1st-person"
+        }, 
+        {
+          "genre_category": "Gameplay", 
+          "genre_category_id": 4, 
+          "genre_id": 146, 
+          "genre_name": "Graphic Adventure"
+        }, 
+        {
+          "genre_category": "Gameplay", 
+          "genre_category_id": 4, 
+          "genre_id": 30, 
+          "genre_name": "Puzzle elements"
+        }, 
+        {
+          "genre_category": "Interface/Control", 
+          "genre_category_id": 7, 
+          "genre_id": 167, 
+          "genre_name": "Point and Select"
+        }, 
+        {
+          "genre_category": "Narrative Theme/Topic", 
+          "genre_category_id": 8, 
+          "genre_id": 55, 
+          "genre_name": "Detective / Mystery"
+        }
+      ], 
+      "moby_score": 3.9, 
+      "moby_url": "http://www.mobygames.com/game/still-life", 
+      "num_votes": 72, 
+      "official_url": null, 
+      "platforms": [
+        {
+          "first_release_date": "2005-04-14", 
+          "platform_id": 3, 
+          "platform_name": "Windows"
+        }, 
+        {
+          "first_release_date": "2005-04-14", 
+          "platform_id": 13, 
+          "platform_name": "Xbox"
+        }, 
+        {
+          "first_release_date": "2013-11-15", 
+          "platform_id": 74, 
+          "platform_name": "Macintosh"
+        }
+      ], 
+      "sample_cover": {
+        "height": 1141, 
+        "image": "http://www.mobygames.com/images/covers/l/44331-still-life-windows-front-cover.jpg", 
+        "platforms": [
+          "Windows"
+        ], 
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/44331-still-life-windows-front-cover.jpg", 
+        "width": 800
+      }, 
+      "sample_screenshots": [
+        {
+          "caption": "Main Menu", 
+          "height": 600, 
+          "image": "http://www.mobygames.com/images/shots/l/134403-still-life-windows-screenshot-main-menu.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/134403-still-life-windows-screenshot-main-menu.jpg", 
+          "width": 800
+        }, 
+        {
+          "caption": "Options Menu", 
+          "height": 600, 
+          "image": "http://www.mobygames.com/images/shots/l/134404-still-life-windows-screenshot-options-menu.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/134404-still-life-windows-screenshot-options-menu.jpg", 
+          "width": 800
+        }, 
+        {
+          "caption": "You start here playing Victoria.", 
+          "height": 600, 
+          "image": "http://www.mobygames.com/images/shots/l/134405-still-life-windows-screenshot-you-start-here-playing-victoria.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/134405-still-life-windows-screenshot-you-start-here-playing-victoria.jpg", 
+          "width": 800
+        }, 
+        {
+          "caption": "Victoria's inventory", 
+          "height": 600, 
+          "image": "http://www.mobygames.com/images/shots/l/134406-still-life-windows-screenshot-victoria-s-inventory.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/134406-still-life-windows-screenshot-victoria-s-inventory.jpg", 
+          "width": 800
+        }
+      ], 
+      "title": "Still Life"
+    }, 
+    {
+      "description": "January 2009. On a cold, snowy night in New York City, an ordinary citizen named Lucas Kane, under the control of an unknown force, unwillingly murders a complete stranger in a diner. Once he comes to senses, Lucas realizes he must escape while leaving as little evidence as possible behind. Barely managing to accomplish that, Lucas contacts his brother and tries to understand what has caused him to commit the crime, recalling the events of his own past in the process. Meanwhile, two police detectives investigating the murder, Carla Valenti and Tyler Miles, are determined to find the perpetrator, at the same time trying to deal with the personal problems of their lives.\n\n<i>Indigo Prophecy</i> (<i>Fahrenheit</i> in Europe) is a psychological thriller in which the player is able to control different characters on both sides of a murder - the killer and those who are trying to find him. The game's core gameplay style is adventure. The three protagonists explore various locations, talk to other characters, and interact with the environment in order to advance. However, the game is heavy on various action-oriented sequences, from tasks that must be completed within a limited amount of time to quick time events, which require the player to press the correct button during a scene.\n\nThe game emphasizes realism in the player's interaction with the environment. For example, picking up a rag and cleaning the floor requires the player to  move the mouse or the analog stick back and forth, imitating the actual movements of the object. Dialogue with character often imposes time limits on the player; failure to choose the optimal response in time will prompt the game to choose another, not always the optimal one. The player's choice will sometimes influence the subsequent events and the outcome of the entire story, eventually leading it to one of the three possible endings.\n\nCinematic treatment is evident in the game's handling of action-based gameplay and cutscenes, which are often seamlessly integrated into each other. An example of this is the split-screen technique, which is often used during the game's most dramatic moments: while the player is trying to complete the required action in time on one screen, another one displays what is happening around the controlled character.", 
+      "game_id": 19212, 
+      "genres": [
+        {
+          "genre_category": "Basic Genres", 
+          "genre_category_id": 1, 
+          "genre_id": 2, 
+          "genre_name": "Adventure"
+        }, 
+        {
+          "genre_category": "Basic Genres", 
+          "genre_category_id": 1, 
+          "genre_id": 1, 
+          "genre_name": "Action"
+        }, 
+        {
+          "genre_category": "Perspective", 
+          "genre_category_id": 2, 
+          "genre_id": 126, 
+          "genre_name": "3rd-person (Other)"
+        }, 
+        {
+          "genre_category": "Perspective", 
+          "genre_category_id": 2, 
+          "genre_id": 7, 
+          "genre_name": "1st-person"
+        }, 
+        {
+          "genre_category": "Narrative Theme/Topic", 
+          "genre_category_id": 8, 
+          "genre_id": 123, 
+          "genre_name": "Thriller"
+        }, 
+        {
+          "genre_category": "Narrative Theme/Topic", 
+          "genre_category_id": 8, 
+          "genre_id": 87, 
+          "genre_name": "Adult"
+        }, 
+        {
+          "genre_category": "Narrative Theme/Topic", 
+          "genre_category_id": 8, 
+          "genre_id": 83, 
+          "genre_name": "Horror"
+        }, 
+        {
+          "genre_category": "Narrative Theme/Topic", 
+          "genre_category_id": 8, 
+          "genre_id": 55, 
+          "genre_name": "Detective / Mystery"
+        }, 
+        {
+          "genre_category": "Setting", 
+          "genre_category_id": 10, 
+          "genre_id": 8, 
+          "genre_name": "Sci-Fi / Futuristic"
+        }
+      ], 
+      "moby_score": 3.8, 
+      "moby_url": "http://www.mobygames.com/game/indigo-prophecy", 
+      "num_votes": 191, 
+      "official_url": null, 
+      "platforms": [
+        {
+          "first_release_date": "2005-09", 
+          "platform_id": 7, 
+          "platform_name": "PlayStation 2"
+        }, 
+        {
+          "first_release_date": "2005-09-15", 
+          "platform_id": 3, 
+          "platform_name": "Windows"
+        }, 
+        {
+          "first_release_date": "2005-09-15", 
+          "platform_id": 13, 
+          "platform_name": "Xbox"
+        }, 
+        {
+          "first_release_date": "2007-12-04", 
+          "platform_id": 69, 
+          "platform_name": "Xbox 360"
+        }, 
+        {
+          "first_release_date": "2016-08-09", 
+          "platform_id": 141, 
+          "platform_name": "PlayStation 4"
+        }
+      ], 
+      "sample_cover": {
+        "height": 1137, 
+        "image": "http://www.mobygames.com/images/covers/l/51645-indigo-prophecy-playstation-2-front-cover.jpg", 
+        "platforms": [
+          "PlayStation 2"
+        ], 
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/51645-indigo-prophecy-playstation-2-front-cover.jpg", 
+        "width": 800
+      }, 
+      "sample_screenshots": [
+        {
+          "caption": "European title screen.", 
+          "height": 448, 
+          "image": "http://www.mobygames.com/images/shots/l/546384-indigo-prophecy-playstation-2-screenshot-european-title-screen.png", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/546384-indigo-prophecy-playstation-2-screenshot-european-title-screen.jpg", 
+          "width": 512
+        }, 
+        {
+          "caption": "Loading Screen", 
+          "height": 768, 
+          "image": "http://www.mobygames.com/images/shots/l/128034-indigo-prophecy-windows-screenshot-loading-screen.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/128034-indigo-prophecy-windows-screenshot-loading-screen.jpg", 
+          "width": 1024
+        }, 
+        {
+          "caption": "The start screen", 
+          "height": 576, 
+          "image": "http://www.mobygames.com/images/shots/l/184429-indigo-prophecy-xbox-screenshot-the-start-screen.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/184429-indigo-prophecy-xbox-screenshot-the-start-screen.jpg", 
+          "width": 768
+        }, 
+        {
+          "caption": "Animated Menu", 
+          "height": 768, 
+          "image": "http://www.mobygames.com/images/shots/l/128035-indigo-prophecy-windows-screenshot-animated-menu.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/128035-indigo-prophecy-windows-screenshot-animated-menu.jpg", 
+          "width": 1024
+        }
+      ], 
+      "title": "Indigo Prophecy"
+    }, 
+    {
+      "description": "<i>Dreamfall</i> is the sequel to The Longest Journey and is a third-person adventure game with a few action episodes.\n\nThe game begins in Casablanca, 2219. Zo\u00eb Castillo is about to get involved in a conspiracy that spans across two worlds: the one she grew up in, and a mysterious magical realm. There has been static interference that is disrupting technology, and it seems to be linked to a little girl seen only by Zo\u00eb.  As Zo\u00eb begins her search for a lost friend, she discovers the truth about the two worlds and the search is now on for the one person who may help Zo\u00eb unravel the dangerous web she has become entangled in: April Ryan.\n\n <i>Dreamfall</i> puts the player in control of three characters. It also introduces the focus field feature, which allows the player to scan an entire visible environment as seen by the characters and also use it to eavesdrop into other people's conversations. There are a few fighting sequences in the game, and a few instances where the player can choose to fight a character or opt to solve the confrontation in a peaceful way. The game spans 13 chapters; like April in the previous game, Zo\u00eb keeps a diary of all the events that occur in the game.", 
+      "game_id": 22143, 
+      "genres": [
+        {
+          "genre_category": "Basic Genres", 
+          "genre_category_id": 1, 
+          "genre_id": 2, 
+          "genre_name": "Adventure"
+        }, 
+        {
+          "genre_category": "Perspective", 
+          "genre_category_id": 2, 
+          "genre_id": 126, 
+          "genre_name": "3rd-person (Other)"
+        }, 
+        {
+          "genre_category": "Gameplay", 
+          "genre_category_id": 4, 
+          "genre_id": 146, 
+          "genre_name": "Graphic Adventure"
+        }, 
+        {
+          "genre_category": "Gameplay", 
+          "genre_category_id": 4, 
+          "genre_id": 30, 
+          "genre_name": "Puzzle elements"
+        }, 
+        {
+          "genre_category": "Interface/Control", 
+          "genre_category_id": 7, 
+          "genre_id": 168, 
+          "genre_name": "Direct Control"
+        }, 
+        {
+          "genre_category": "Setting", 
+          "genre_category_id": 10, 
+          "genre_id": 78, 
+          "genre_name": "Fantasy"
+        }, 
+        {
+          "genre_category": "Setting", 
+          "genre_category_id": 10, 
+          "genre_id": 66, 
+          "genre_name": "Cyberpunk / Dark Sci-Fi"
+        }, 
+        {
+          "genre_category": "Setting", 
+          "genre_category_id": 10, 
+          "genre_id": 8, 
+          "genre_name": "Sci-Fi / Futuristic"
+        }
+      ], 
+      "moby_score": 3.8, 
+      "moby_url": "http://www.mobygames.com/game/dreamfall-the-longest-journey", 
+      "num_votes": 85, 
+      "official_url": "http://www.dreamfall.com/", 
+      "platforms": [
+        {
+          "first_release_date": "2006-04-18", 
+          "platform_id": 3, 
+          "platform_name": "Windows"
+        }, 
+        {
+          "first_release_date": "2006-04-18", 
+          "platform_id": 13, 
+          "platform_name": "Xbox"
+        }, 
+        {
+          "first_release_date": "2008-04-21", 
+          "platform_id": 69, 
+          "platform_name": "Xbox 360"
+        }
+      ], 
+      "sample_cover": {
+        "height": 1132, 
+        "image": "http://www.mobygames.com/images/covers/l/63234-dreamfall-the-longest-journey-windows-front-cover.jpg", 
+        "platforms": [
+          "Windows"
+        ], 
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/63234-dreamfall-the-longest-journey-windows-front-cover.jpg", 
+        "width": 800
+      }, 
+      "sample_screenshots": [
+        {
+          "caption": "Title screen", 
+          "height": 768, 
+          "image": "http://www.mobygames.com/images/shots/l/177695-dreamfall-the-longest-journey-windows-screenshot-title-screen.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/177695-dreamfall-the-longest-journey-windows-screenshot-title-screen.jpg", 
+          "width": 1024
+        }, 
+        {
+          "caption": "Hanging onto a waterwheel", 
+          "height": 768, 
+          "image": "http://www.mobygames.com/images/shots/l/162642-dreamfall-the-longest-journey-windows-screenshot-hanging-onto.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/162642-dreamfall-the-longest-journey-windows-screenshot-hanging-onto.jpg", 
+          "width": 1024
+        }, 
+        {
+          "caption": "The guardian realm", 
+          "height": 768, 
+          "image": "http://www.mobygames.com/images/shots/l/162650-dreamfall-the-longest-journey-windows-screenshot-the-guardian.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/162650-dreamfall-the-longest-journey-windows-screenshot-the-guardian.jpg", 
+          "width": 1024
+        }, 
+        {
+          "caption": "The guardian realm: over a bridge", 
+          "height": 768, 
+          "image": "http://www.mobygames.com/images/shots/l/162651-dreamfall-the-longest-journey-windows-screenshot-the-guardian.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/162651-dreamfall-the-longest-journey-windows-screenshot-the-guardian.jpg", 
+          "width": 1024
+        }
+      ], 
+      "title": "Dreamfall: The Longest Journey"
+    }, 
+    {
+      "description": "The gang is at it again!  This time, Mystery Inc. must stop an evil business tycoon who has used a device called the Tome of Doom and release monsters from another dimension to distract the gang from what is going on.  They must grab the Tome and send the monsters back to where they came before it's too late.\n\nThe player takes control of Shaggy and Scooby with the ability to switch between the two, each with their own special abilities to set traps and capture monsters, and wearing disguises to sneak past them as well.  The gameplay is mostly consisted of puzzle-solving (i.e. moving objects into certain spots to open doors) and players can explore a movie set, The Wild West, a bayou and a laboratory.\n\nFeatures the actual voices of the Scooby Doo cartoons and features artwork and stills of the shows.", 
+      "game_id": 34860, 
+      "genres": [
+        {
+          "genre_category": "Basic Genres", 
+          "genre_category_id": 1, 
+          "genre_id": 2, 
+          "genre_name": "Adventure"
+        }, 
+        {
+          "genre_category": "Basic Genres", 
+          "genre_category_id": 1, 
+          "genre_id": 1, 
+          "genre_name": "Action"
+        }, 
+        {
+          "genre_category": "Perspective", 
+          "genre_category_id": 2, 
+          "genre_id": 126, 
+          "genre_name": "3rd-person (Other)"
+        }, 
+        {
+          "genre_category": "Gameplay", 
+          "genre_category_id": 4, 
+          "genre_id": 30, 
+          "genre_name": "Puzzle elements"
+        }, 
+        {
+          "genre_category": "Narrative Theme/Topic", 
+          "genre_category_id": 8, 
+          "genre_id": 55, 
+          "genre_name": "Detective / Mystery"
+        }, 
+        {
+          "genre_category": "Other Attributes", 
+          "genre_category_id": 6, 
+          "genre_id": 82, 
+          "genre_name": "Licensed"
+        }
+      ], 
+      "moby_score": 2.7, 
+      "moby_url": "http://www.mobygames.com/game/scooby-doo-mystery-mayhem", 
+      "num_votes": 3, 
+      "official_url": null, 
+      "platforms": [
+        {
+          "first_release_date": "2004-03-02", 
+          "platform_id": 7, 
+          "platform_name": "PlayStation 2"
+        }, 
+        {
+          "first_release_date": "2004-03-02", 
+          "platform_id": 13, 
+          "platform_name": "Xbox"
+        }, 
+        {
+          "first_release_date": "2004-03-02", 
+          "platform_id": 14, 
+          "platform_name": "GameCube"
+        }
+      ], 
+      "sample_cover": {
+        "height": 1140, 
+        "image": "http://www.mobygames.com/images/covers/l/117247-scooby-doo-mystery-mayhem-xbox-front-cover.jpg", 
+        "platforms": [
+          "Xbox"
+        ], 
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/117247-scooby-doo-mystery-mayhem-xbox-front-cover.jpg", 
+        "width": 800
+      }, 
+      "sample_screenshots": [], 
+      "title": "Scooby-Doo!: Mystery Mayhem"
+    }, 
+    {
+      "description": "<i>Triangle Again</i> games are often referred to as music adventures rather than typical visual novels in a way that when the branching in the story occurs, choices are presented in a way of notes rather than text. The game story is centered around young Akari Tateshina and her debut as a pop singer. Additionally to typical set of options for this type of game (i.e. clickable versus auto-scrolling text), <i>Triangle Again</i> offers positioning of the text messages (up or down) and also support regular and widescreen picture presentation.\n\nThere are several licensed songs used in the game as protagonist's song hits when she sings them during animated scenes. While same songs are used in both Xbox and PlayStation 2 release, Xbox songs use Japanese lyrics while PlayStation 2 songs use English lyrics.", 
+      "game_id": 63237, 
+      "genres": [
+        {
+          "genre_category": "Basic Genres", 
+          "genre_category_id": 1, 
+          "genre_id": 2, 
+          "genre_name": "Adventure"
+        }, 
+        {
+          "genre_category": "Perspective", 
+          "genre_category_id": 2, 
+          "genre_id": 7, 
+          "genre_name": "1st-person"
+        }, 
+        {
+          "genre_category": "Gameplay", 
+          "genre_category_id": 4, 
+          "genre_id": 111, 
+          "genre_name": "Visual Novel"
+        }, 
+        {
+          "genre_category": "Gameplay", 
+          "genre_category_id": 4, 
+          "genre_id": 97, 
+          "genre_name": "Music / Rhythm"
+        }, 
+        {
+          "genre_category": "Art Style", 
+          "genre_category_id": 13, 
+          "genre_id": 60, 
+          "genre_name": "Full Motion Video (FMV)"
+        }, 
+        {
+          "genre_category": "Art Style", 
+          "genre_category_id": 13, 
+          "genre_id": 57, 
+          "genre_name": "Anime / Manga"
+        }
+      ], 
+      "moby_score": 0.0, 
+      "moby_url": "http://www.mobygames.com/game/triangle-again", 
+      "num_votes": 0, 
+      "official_url": null, 
+      "platforms": [
+        {
+          "first_release_date": "2002-06-27", 
+          "platform_id": 13, 
+          "platform_name": "Xbox"
+        }, 
+        {
+          "first_release_date": "2003-01-09", 
+          "platform_id": 7, 
+          "platform_name": "PlayStation 2"
+        }
+      ], 
+      "sample_cover": {
+        "height": 1156, 
+        "image": "http://www.mobygames.com/images/covers/l/276793-triangle-again-playstation-2-front-cover.jpg", 
+        "platforms": [
+          "PlayStation 2"
+        ], 
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/276793-triangle-again-playstation-2-front-cover.jpg", 
+        "width": 800
+      }, 
+      "sample_screenshots": [
+        {
+          "caption": "Main title.", 
+          "height": 448, 
+          "image": "http://www.mobygames.com/images/shots/l/695105-triangle-again-playstation-2-screenshot-main-title.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/695105-triangle-again-playstation-2-screenshot-main-title.jpg", 
+          "width": 640
+        }, 
+        {
+          "caption": "Main menu.", 
+          "height": 448, 
+          "image": "http://www.mobygames.com/images/shots/l/695106-triangle-again-playstation-2-screenshot-main-menu.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/695106-triangle-again-playstation-2-screenshot-main-menu.jpg", 
+          "width": 640
+        }, 
+        {
+          "caption": "Game options.", 
+          "height": 448, 
+          "image": "http://www.mobygames.com/images/shots/l/695107-triangle-again-playstation-2-screenshot-game-options.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/695107-triangle-again-playstation-2-screenshot-game-options.jpg", 
+          "width": 640
+        }, 
+        {
+          "caption": "Game story is split into chapters.", 
+          "height": 448, 
+          "image": "http://www.mobygames.com/images/shots/l/695108-triangle-again-playstation-2-screenshot-game-story-is-split.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/695108-triangle-again-playstation-2-screenshot-game-story-is-split.jpg", 
+          "width": 640
+        }
+      ], 
+      "title": "Triangle Again"
+    }, 
+    {
+      "description": "<i>Triangle Again 2</i> continues the story chapters where the predecessor Triangle Again left off. The main scenario follows the story of Akari Tateshina, a young and talented pop singer, and her comeback to the scene. The game features many in-game choices with affect the story leading up to 15 different endings. The game offers up to 10 different save game slots which may help you try out different choices if you save at key points in order to clear many different story arcs. Replay option let you re-play the story arc to the game ending you have reached, making the game re-play feel like watching a full length anime movie.\n\nSeeing as how this game features chapters 3 and 4 of the overall story, the graphics and gameplay did not change in this sequel. Story progress uses typical page-click or auto mode. Subtitles can be turned off or moved to appear on upper or lower part of the screen. Display picture can be set to normal or widescreen mode. The game also features seven new licensed songs.", 
+      "game_id": 65329, 
+      "genres": [
+        {
+          "genre_category": "Basic Genres", 
+          "genre_category_id": 1, 
+          "genre_id": 2, 
+          "genre_name": "Adventure"
+        }, 
+        {
+          "genre_category": "Perspective", 
+          "genre_category_id": 2, 
+          "genre_id": 7, 
+          "genre_name": "1st-person"
+        }, 
+        {
+          "genre_category": "Gameplay", 
+          "genre_category_id": 4, 
+          "genre_id": 111, 
+          "genre_name": "Visual Novel"
+        }, 
+        {
+          "genre_category": "Art Style", 
+          "genre_category_id": 13, 
+          "genre_id": 60, 
+          "genre_name": "Full Motion Video (FMV)"
+        }, 
+        {
+          "genre_category": "Art Style", 
+          "genre_category_id": 13, 
+          "genre_id": 57, 
+          "genre_name": "Anime / Manga"
+        }
+      ], 
+      "moby_score": 0.0, 
+      "moby_url": "http://www.mobygames.com/game/triangle-again-2", 
+      "num_votes": 0, 
+      "official_url": "http://web.archive.org/web/20040216115634/http://www.kiki-mig.co.jp/games/TriangleAgain2/index.html", 
+      "platforms": [
+        {
+          "first_release_date": "2002-12-19", 
+          "platform_id": 13, 
+          "platform_name": "Xbox"
+        }, 
+        {
+          "first_release_date": "2003-06-26", 
+          "platform_id": 7, 
+          "platform_name": "PlayStation 2"
+        }
+      ], 
+      "sample_cover": {
+        "height": 1153, 
+        "image": "http://www.mobygames.com/images/covers/l/282687-triangle-again-2-playstation-2-front-cover.jpg", 
+        "platforms": [
+          "PlayStation 2"
+        ], 
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/282687-triangle-again-2-playstation-2-front-cover.jpg", 
+        "width": 800
+      }, 
+      "sample_screenshots": [
+        {
+          "caption": "Main title.", 
+          "height": 448, 
+          "image": "http://www.mobygames.com/images/shots/l/698883-triangle-again-2-playstation-2-screenshot-main-title.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/698883-triangle-again-2-playstation-2-screenshot-main-title.jpg", 
+          "width": 640
+        }, 
+        {
+          "caption": "Main menu.", 
+          "height": 448, 
+          "image": "http://www.mobygames.com/images/shots/l/698884-triangle-again-2-playstation-2-screenshot-main-menu.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/698884-triangle-again-2-playstation-2-screenshot-main-menu.jpg", 
+          "width": 640
+        }, 
+        {
+          "caption": "Game options.", 
+          "height": 448, 
+          "image": "http://www.mobygames.com/images/shots/l/698885-triangle-again-2-playstation-2-screenshot-game-options.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/698885-triangle-again-2-playstation-2-screenshot-game-options.jpg", 
+          "width": 640
+        }, 
+        {
+          "caption": "Game starts with chapter 3 of an overall story.", 
+          "height": 448, 
+          "image": "http://www.mobygames.com/images/shots/l/698886-triangle-again-2-playstation-2-screenshot-game-starts-with.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/698886-triangle-again-2-playstation-2-screenshot-game-starts-with.jpg", 
+          "width": 640
+        }
+      ], 
+      "title": "Triangle Again 2"
+    }, 
+    {
+      "description": "<i>Aoi Namida</i> is romance adventure game presented as a visual novel. It was released for Xbox a year after the original PC (Windows) game with the same title. While the first print release known as <i>Shokaiban</i> (\u521d\u56de\u7248) includes the original soundtrack as well, there is no regular release of this game for Xbox. Unlike the original game for PC, all the adult graphical content has been removed from this port despite the fairly high rating on the cover. Additionally, this release features full voice-acting while the original PC release did not have any.\n\nThe story takes place in a several different worlds, each set in a single volume of a story. Initially, the game starts in the Fantasy Volume of the story. It then shifts to Reminiscence Volume, and finally ends with the Modern Volume. The main heroines are introduced individually throughout the story during the Fantasy Volume where player can chose to pursue a romantic affection with one of the heroines. Based on player's interest in a specific heroine, the Reminiscence Volume will reflect a different story of the past, ultimately concluding the story in the Modern Volume showing the present-day of the story. New characters appear in different volumes of the story.", 
+      "game_id": 77607, 
+      "genres": [
+        {
+          "genre_category": "Basic Genres", 
+          "genre_category_id": 1, 
+          "genre_id": 2, 
+          "genre_name": "Adventure"
+        }, 
+        {
+          "genre_category": "Perspective", 
+          "genre_category_id": 2, 
+          "genre_id": 7, 
+          "genre_name": "1st-person"
+        }, 
+        {
+          "genre_category": "Gameplay", 
+          "genre_category_id": 4, 
+          "genre_id": 111, 
+          "genre_name": "Visual Novel"
+        }, 
+        {
+          "genre_category": "Setting", 
+          "genre_category_id": 10, 
+          "genre_id": 78, 
+          "genre_name": "Fantasy"
+        }, 
+        {
+          "genre_category": "Art Style", 
+          "genre_category_id": 13, 
+          "genre_id": 57, 
+          "genre_name": "Anime / Manga"
+        }
+      ], 
+      "moby_score": 0.0, 
+      "moby_url": "http://www.mobygames.com/game/aoi-namida-shokaiban", 
+      "num_votes": 0, 
+      "official_url": "http://www.panther.co.jp/aoinamida/", 
+      "platforms": [
+        {
+          "first_release_date": "2004-05-27", 
+          "platform_id": 13, 
+          "platform_name": "Xbox"
+        }
+      ], 
+      "sample_cover": null, 
+      "sample_screenshots": [], 
+      "title": "Aoi Namida (Shokaiban)"
+    }, 
+    {
+      "description": "The GameCube and Xbox versions of <i>Neighbors from Hell</i> are unique releases which include episodes from the Windows versions of both Neighbors from Hell and Neighbors from Hell: On Vacation, with some of the first game's episodes being edited to feature Mr. Rottweiler's mother. There are also unique intro and ending cutscenes.", 
+      "game_id": 89871, 
+      "genres": [
+        {
+          "genre_category": "Basic Genres", 
+          "genre_category_id": 1, 
+          "genre_id": 118, 
+          "genre_name": "Puzzle"
+        }, 
+        {
+          "genre_category": "Basic Genres", 
+          "genre_category_id": 1, 
+          "genre_id": 2, 
+          "genre_name": "Adventure"
+        }, 
+        {
+          "genre_category": "Perspective", 
+          "genre_category_id": 2, 
+          "genre_id": 17, 
+          "genre_name": "Side view"
+        }, 
+        {
+          "genre_category": "Gameplay", 
+          "genre_category_id": 4, 
+          "genre_id": 99, 
+          "genre_name": "Stealth"
+        }, 
+        {
+          "genre_category": "Narrative Theme/Topic", 
+          "genre_category_id": 8, 
+          "genre_id": 120, 
+          "genre_name": "Comedy"
+        }, 
+        {
+          "genre_category": "Pacing", 
+          "genre_category_id": 9, 
+          "genre_id": 15, 
+          "genre_name": "Real-Time"
+        }, 
+        {
+          "genre_category": "Setting", 
+          "genre_category_id": 10, 
+          "genre_id": 200, 
+          "genre_name": "Contemporary"
+        }, 
+        {
+          "genre_category": "Visual Presentation", 
+          "genre_category_id": 12, 
+          "genre_id": 131, 
+          "genre_name": "2D scrolling"
+        }
+      ], 
+      "moby_score": 3.0, 
+      "moby_url": "http://www.mobygames.com/game/neighbors-from-hell_", 
+      "num_votes": 1, 
+      "official_url": null, 
+      "platforms": [
+        {
+          "first_release_date": "2005", 
+          "platform_id": 14, 
+          "platform_name": "GameCube"
+        }, 
+        {
+          "first_release_date": "2005-03-11", 
+          "platform_id": 13, 
+          "platform_name": "Xbox"
+        }
+      ], 
+      "sample_cover": {
+        "height": 1131, 
+        "image": "http://www.mobygames.com/images/covers/l/316109-neighbors-from-hell-gamecube-front-cover.jpg", 
+        "platforms": [
+          "GameCube"
+        ], 
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/316109-neighbors-from-hell-gamecube-front-cover.jpg", 
+        "width": 800
+      }, 
+      "sample_screenshots": [], 
+      "title": "Neighbors from Hell"
+    }
+  ]
+

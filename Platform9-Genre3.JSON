@@ -1,0 +1,2171 @@
+[
+    {
+      "description": "<i>SimCity 2000</i> is the successor to the city simulation game Sim City. You are once again the mayor, but this time you can fully customize the terrain before building your city. The graphics are isometric, whereas the original had graphics displayed in a top-down fashion.\n\nThis title adds numerous features over the original such as the ability of building \"light\" zones, subways, hospitals, colleges, zoos, and arcos which are actually cities in cities. You can now give names to places, and your city is surrounded by neighboring towns with which you can make trade. Finally, instead of the poll in the first game you now have the option of reading several newspapers to get an idea of your progress.", 
+      "game_id": 657, 
+      "genres": [
+        {
+          "genre_category": "Basic Genres", 
+          "genre_category_id": 1, 
+          "genre_id": 4, 
+          "genre_name": "Strategy/Tactics"
+        }, 
+        {
+          "genre_category": "Basic Genres", 
+          "genre_category_id": 1, 
+          "genre_id": 3, 
+          "genre_name": "Simulation"
+        }, 
+        {
+          "genre_category": "Perspective", 
+          "genre_category_id": 2, 
+          "genre_id": 129, 
+          "genre_name": "Bird's-eye view"
+        }, 
+        {
+          "genre_category": "Gameplay", 
+          "genre_category_id": 4, 
+          "genre_id": 137, 
+          "genre_name": "City Building / Construction Simulation"
+        }, 
+        {
+          "genre_category": "Gameplay", 
+          "genre_category_id": 4, 
+          "genre_id": 40, 
+          "genre_name": "Managerial / Business Simulation"
+        }, 
+        {
+          "genre_category": "Interface/Control", 
+          "genre_category_id": 7, 
+          "genre_id": 167, 
+          "genre_name": "Point and Select"
+        }, 
+        {
+          "genre_category": "Pacing", 
+          "genre_category_id": 9, 
+          "genre_id": 15, 
+          "genre_name": "Real-Time"
+        }, 
+        {
+          "genre_category": "Setting", 
+          "genre_category_id": 10, 
+          "genre_id": 200, 
+          "genre_name": "Contemporary"
+        }, 
+        {
+          "genre_category": "Visual Presentation", 
+          "genre_category_id": 12, 
+          "genre_id": 134, 
+          "genre_name": "Free-roaming camera"
+        }, 
+        {
+          "genre_category": "Visual Presentation", 
+          "genre_category_id": 12, 
+          "genre_id": 25, 
+          "genre_name": "Isometric"
+        }
+      ], 
+      "moby_score": 3.9, 
+      "moby_url": "http://www.mobygames.com/game/simcity-2000", 
+      "num_votes": 301, 
+      "official_url": null, 
+      "platforms": [
+        {
+          "first_release_date": "1993", 
+          "platform_id": 74, 
+          "platform_name": "Macintosh"
+        }, 
+        {
+          "first_release_date": "1993", 
+          "platform_id": 2, 
+          "platform_name": "DOS"
+        }, 
+        {
+          "first_release_date": "1994", 
+          "platform_id": 5, 
+          "platform_name": "Windows 3.x"
+        }, 
+        {
+          "first_release_date": "1994", 
+          "platform_id": 117, 
+          "platform_name": "Acorn 32-bit"
+        }, 
+        {
+          "first_release_date": "1994", 
+          "platform_id": 19, 
+          "platform_name": "Amiga"
+        }, 
+        {
+          "first_release_date": "1994-06", 
+          "platform_id": 95, 
+          "platform_name": "PC-98"
+        }, 
+        {
+          "first_release_date": "1994-12", 
+          "platform_id": 102, 
+          "platform_name": "FM Towns"
+        }, 
+        {
+          "first_release_date": "1995", 
+          "platform_id": 15, 
+          "platform_name": "SNES"
+        }, 
+        {
+          "first_release_date": "1995", 
+          "platform_id": 3, 
+          "platform_name": "Windows"
+        }, 
+        {
+          "first_release_date": "1995-09-29", 
+          "platform_id": 23, 
+          "platform_name": "SEGA Saturn"
+        }, 
+        {
+          "first_release_date": "1996", 
+          "platform_id": 146, 
+          "platform_name": "OS/2"
+        }, 
+        {
+          "first_release_date": "1996-07-09", 
+          "platform_id": 6, 
+          "platform_name": "PlayStation"
+        }, 
+        {
+          "first_release_date": "1998-01-30", 
+          "platform_id": 9, 
+          "platform_name": "Nintendo 64"
+        }, 
+        {
+          "first_release_date": "2001-10", 
+          "platform_id": 66, 
+          "platform_name": "Windows Mobile"
+        }, 
+        {
+          "first_release_date": "2003-11-30", 
+          "platform_id": 12, 
+          "platform_name": "Game Boy Advance"
+        }, 
+        {
+          "first_release_date": "2008-11-20", 
+          "platform_id": 81, 
+          "platform_name": "PlayStation 3"
+        }, 
+        {
+          "first_release_date": "2009-08-28", 
+          "platform_id": 46, 
+          "platform_name": "PSP"
+        }
+      ], 
+      "sample_cover": {
+        "height": 998, 
+        "image": "http://www.mobygames.com/images/covers/l/1425-simcity-2000-dos-front-cover.jpg", 
+        "platforms": [
+          "DOS"
+        ], 
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/1425-simcity-2000-dos-front-cover.jpg", 
+        "width": 800
+      }, 
+      "sample_screenshots": [
+        {
+          "caption": "Title Screen", 
+          "height": 480, 
+          "image": "http://www.mobygames.com/images/shots/l/3352-simcity-2000-dos-screenshot-title-screen.gif", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/3352-simcity-2000-dos-screenshot-title-screen.gif", 
+          "width": 640
+        }, 
+        {
+          "caption": "Happy Land Overview", 
+          "height": 480, 
+          "image": "http://www.mobygames.com/images/shots/l/3353-simcity-2000-dos-screenshot-happy-land-overview.gif", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/3353-simcity-2000-dos-screenshot-happy-land-overview.gif", 
+          "width": 640
+        }, 
+        {
+          "caption": "Lake Land - Zoomed View", 
+          "height": 480, 
+          "image": "http://www.mobygames.com/images/shots/l/3354-simcity-2000-dos-screenshot-lake-land-zoomed-view.gif", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/3354-simcity-2000-dos-screenshot-lake-land-zoomed-view.gif", 
+          "width": 640
+        }, 
+        {
+          "caption": "A giant monster causing terror and destruction in Hollywood", 
+          "height": 480, 
+          "image": "http://www.mobygames.com/images/shots/l/3355-simcity-2000-dos-screenshot-a-giant-monster-causing-terror-and.gif", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/3355-simcity-2000-dos-screenshot-a-giant-monster-causing-terror-and.gif", 
+          "width": 640
+        }
+      ], 
+      "title": "SimCity 2000"
+    }, 
+    {
+      "description": "You have been recruited by John Clark to be a member of Rainbow, the most elite counter-terror team in the world, with members from various countries of the world. You start out rescuing hostages from the terrorists, but as you go on, you discover there are bigger things at stake - such as the entire world.\n\n<i>Rainbow Six</i> is a first-person shooter with an emphasis on realistic weapons and tactics. You must use existing intelligence like floor plan layouts to plan your assault. You can use up to four teams, with a variety of equipment from simple body armor to biosuits, breaching kit and more. There are many different weapons available, from pistols to machine guns to shotguns to grenades. You can switch between different teams as needed, or leave them under AI control. It is possible to coordinate different teams with go codes, engage a variety of terrorists or perform stealth missions. The game also features multiplayer with a variety of maps and mission types to choose from. ", 
+      "game_id": 962, 
+      "genres": [
+        {
+          "genre_category": "Basic Genres", 
+          "genre_category_id": 1, 
+          "genre_id": 3, 
+          "genre_name": "Simulation"
+        }, 
+        {
+          "genre_category": "Basic Genres", 
+          "genre_category_id": 1, 
+          "genre_id": 1, 
+          "genre_name": "Action"
+        }, 
+        {
+          "genre_category": "Perspective", 
+          "genre_category_id": 2, 
+          "genre_id": 128, 
+          "genre_name": "Behind view"
+        }, 
+        {
+          "genre_category": "Perspective", 
+          "genre_category_id": 2, 
+          "genre_id": 7, 
+          "genre_name": "1st-person"
+        }, 
+        {
+          "genre_category": "Gameplay", 
+          "genre_category_id": 4, 
+          "genre_id": 153, 
+          "genre_name": "Tactical Shooter"
+        }, 
+        {
+          "genre_category": "Gameplay", 
+          "genre_category_id": 4, 
+          "genre_id": 22, 
+          "genre_name": "Shooter"
+        }, 
+        {
+          "genre_category": "Other Attributes", 
+          "genre_category_id": 6, 
+          "genre_id": 223, 
+          "genre_name": "Regional Differences"
+        }, 
+        {
+          "genre_category": "Other Attributes", 
+          "genre_category_id": 6, 
+          "genre_id": 82, 
+          "genre_name": "Licensed"
+        }
+      ], 
+      "moby_score": 3.6, 
+      "moby_url": "http://www.mobygames.com/game/tom-clancys-rainbow-six", 
+      "num_votes": 85, 
+      "official_url": null, 
+      "platforms": [
+        {
+          "first_release_date": "1998", 
+          "platform_id": 3, 
+          "platform_name": "Windows"
+        }, 
+        {
+          "first_release_date": "1999", 
+          "platform_id": 6, 
+          "platform_name": "PlayStation"
+        }, 
+        {
+          "first_release_date": "1999", 
+          "platform_id": 9, 
+          "platform_name": "Nintendo 64"
+        }, 
+        {
+          "first_release_date": "1999-11", 
+          "platform_id": 74, 
+          "platform_name": "Macintosh"
+        }, 
+        {
+          "first_release_date": "2009-05-21", 
+          "platform_id": 46, 
+          "platform_name": "PSP"
+        }, 
+        {
+          "first_release_date": "2009-05-21", 
+          "platform_id": 81, 
+          "platform_name": "PlayStation 3"
+        }, 
+        {
+          "first_release_date": "2012-08-29", 
+          "platform_id": 105, 
+          "platform_name": "PS Vita"
+        }
+      ], 
+      "sample_cover": {
+        "height": 964, 
+        "image": "http://www.mobygames.com/images/covers/l/1834-tom-clancy-s-rainbow-six-windows-front-cover.jpg", 
+        "platforms": [
+          "Windows"
+        ], 
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/1834-tom-clancy-s-rainbow-six-windows-front-cover.jpg", 
+        "width": 769
+      }, 
+      "sample_screenshots": [
+        {
+          "caption": "Rainbow Six - In game", 
+          "height": 480, 
+          "image": "http://www.mobygames.com/images/shots/l/4645-tom-clancy-s-rainbow-six-windows-screenshot-rainbow-six-in-game.gif", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/4645-tom-clancy-s-rainbow-six-windows-screenshot-rainbow-six-in-game.gif", 
+          "width": 640
+        }, 
+        {
+          "caption": "Title screen", 
+          "height": 480, 
+          "image": "http://www.mobygames.com/images/shots/l/159382-tom-clancy-s-rainbow-six-windows-screenshot-title-screen.png", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/159382-tom-clancy-s-rainbow-six-windows-screenshot-title-screen.jpg", 
+          "width": 640
+        }, 
+        {
+          "caption": "Single player menu", 
+          "height": 480, 
+          "image": "http://www.mobygames.com/images/shots/l/159374-tom-clancy-s-rainbow-six-windows-screenshot-single-player.png", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/159374-tom-clancy-s-rainbow-six-windows-screenshot-single-player.jpg", 
+          "width": 640
+        }, 
+        {
+          "caption": "Loading screen", 
+          "height": 480, 
+          "image": "http://www.mobygames.com/images/shots/l/159375-tom-clancy-s-rainbow-six-windows-screenshot-loading-screen.png", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/159375-tom-clancy-s-rainbow-six-windows-screenshot-loading-screen.jpg", 
+          "width": 640
+        }
+      ], 
+      "title": "Tom Clancy's Rainbow Six"
+    }, 
+    {
+      "description": "While Cruis'n USA takes the player on a trip across the highways of America, <i>Cruis'n World</i> leads them to race all around the world. \nCourses, taken from the coin-op version, are located in: Egypt, Florida, Germany, Hawaii, Russia (in easy mode); England, France, Kenya, New York (in medium mode); Australia, China, Italy, Mexico (in expert mode).\n\nThe gameplay is not intended to be realistic. It is for instance possible to ride across the Great Wall of China, leap-frog over a semi truck with a police car, or perform a back flip with a military ATV, or take part in a race on the moon.\n\nPrincipal variations from the arcade game to the console version consist in that:<ul><li>In the arcade version, introductory voice clips are present in some stages; animals explode into bloody chunks when colliding with the player's vehicle (in the N64 version they cross the road swiftly enough most of the times, and  the vehicle goes across them as if they were immaterial in the infrequent other occasions).</li><br>\n<li>The N64 version offers two-player and tournament modes, a special course on the Moon, the possibility to enhance cars with custom boosts and alter its appearance by paintworks, and does not use the sound effects from the previous  game.</li></ul>", 
+      "game_id": 3589, 
+      "genres": [
+        {
+          "genre_category": "Basic Genres", 
+          "genre_category_id": 1, 
+          "genre_id": 6, 
+          "genre_name": "Racing / Driving"
+        }, 
+        {
+          "genre_category": "Basic Genres", 
+          "genre_category_id": 1, 
+          "genre_id": 3, 
+          "genre_name": "Simulation"
+        }, 
+        {
+          "genre_category": "Perspective", 
+          "genre_category_id": 2, 
+          "genre_id": 128, 
+          "genre_name": "Behind view"
+        }, 
+        {
+          "genre_category": "Perspective", 
+          "genre_category_id": 2, 
+          "genre_id": 7, 
+          "genre_name": "1st-person"
+        }, 
+        {
+          "genre_category": "Vehicular Themes", 
+          "genre_category_id": 11, 
+          "genre_id": 188, 
+          "genre_name": "Automobile"
+        }, 
+        {
+          "genre_category": "Vehicular Themes", 
+          "genre_category_id": 11, 
+          "genre_id": 58, 
+          "genre_name": "Off-roading"
+        }
+      ], 
+      "moby_score": 3.6, 
+      "moby_url": "http://www.mobygames.com/game/cruisn-world", 
+      "num_votes": 20, 
+      "official_url": null, 
+      "platforms": [
+        {
+          "first_release_date": "1996-11", 
+          "platform_id": 143, 
+          "platform_name": "Arcade"
+        }, 
+        {
+          "first_release_date": "1997-06", 
+          "platform_id": 9, 
+          "platform_name": "Nintendo 64"
+        }
+      ], 
+      "sample_cover": {
+        "height": 546, 
+        "image": "http://www.mobygames.com/images/covers/l/34497-cruis-n-world-nintendo-64-front-cover.jpg", 
+        "platforms": [
+          "Nintendo 64"
+        ], 
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/34497-cruis-n-world-nintendo-64-front-cover.jpg", 
+        "width": 800
+      }, 
+      "sample_screenshots": [
+        {
+          "caption": "Title Screen.", 
+          "height": 400, 
+          "image": "http://www.mobygames.com/images/shots/l/695133-cruis-n-world-arcade-screenshot-title-screen.png", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/695133-cruis-n-world-arcade-screenshot-title-screen.jpg", 
+          "width": 512
+        }, 
+        {
+          "caption": "Course Race.", 
+          "height": 400, 
+          "image": "http://www.mobygames.com/images/shots/l/695134-cruis-n-world-arcade-screenshot-course-race.png", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/695134-cruis-n-world-arcade-screenshot-course-race.jpg", 
+          "width": 512
+        }, 
+        {
+          "caption": "Choose Transmission.", 
+          "height": 400, 
+          "image": "http://www.mobygames.com/images/shots/l/695135-cruis-n-world-arcade-screenshot-choose-transmission.png", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/695135-cruis-n-world-arcade-screenshot-choose-transmission.jpg", 
+          "width": 512
+        }, 
+        {
+          "caption": "Vehicle Select.", 
+          "height": 400, 
+          "image": "http://www.mobygames.com/images/shots/l/695136-cruis-n-world-arcade-screenshot-vehicle-select.png", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/695136-cruis-n-world-arcade-screenshot-vehicle-select.jpg", 
+          "width": 512
+        }
+      ], 
+      "title": "Cruis'n World"
+    }, 
+    {
+      "description": "<i>PilotWings 64</i> is the update to the original PilotWings for SNES.  The gameplay is somewhere between a flight simulation and an action/arcade experience.  Players start with a limited number of craft and earn access to other craft and bonuses upon successful completion of set criteria.", 
+      "game_id": 4691, 
+      "genres": [
+        {
+          "genre_category": "Basic Genres", 
+          "genre_category_id": 1, 
+          "genre_id": 6, 
+          "genre_name": "Racing / Driving"
+        }, 
+        {
+          "genre_category": "Basic Genres", 
+          "genre_category_id": 1, 
+          "genre_id": 3, 
+          "genre_name": "Simulation"
+        }, 
+        {
+          "genre_category": "Basic Genres", 
+          "genre_category_id": 1, 
+          "genre_id": 1, 
+          "genre_name": "Action"
+        }, 
+        {
+          "genre_category": "Perspective", 
+          "genre_category_id": 2, 
+          "genre_id": 128, 
+          "genre_name": "Behind view"
+        }, 
+        {
+          "genre_category": "Perspective", 
+          "genre_category_id": 2, 
+          "genre_id": 7, 
+          "genre_name": "1st-person"
+        }, 
+        {
+          "genre_category": "Gameplay", 
+          "genre_category_id": 4, 
+          "genre_id": 158, 
+          "genre_name": "Vehicle Simulator"
+        }, 
+        {
+          "genre_category": "Gameplay", 
+          "genre_category_id": 4, 
+          "genre_id": 30, 
+          "genre_name": "Puzzle elements"
+        }, 
+        {
+          "genre_category": "Interface/Control", 
+          "genre_category_id": 7, 
+          "genre_id": 168, 
+          "genre_name": "Direct Control"
+        }, 
+        {
+          "genre_category": "Vehicular Themes", 
+          "genre_category_id": 11, 
+          "genre_id": 56, 
+          "genre_name": "Helicopter"
+        }, 
+        {
+          "genre_category": "Vehicular Themes", 
+          "genre_category_id": 11, 
+          "genre_id": 19, 
+          "genre_name": "Flight / Aviation"
+        }
+      ], 
+      "moby_score": 4.0, 
+      "moby_url": "http://www.mobygames.com/game/pilotwings-64", 
+      "num_votes": 32, 
+      "official_url": null, 
+      "platforms": [
+        {
+          "first_release_date": "1996-06-23", 
+          "platform_id": 9, 
+          "platform_name": "Nintendo 64"
+        }
+      ], 
+      "sample_cover": {
+        "height": 548, 
+        "image": "http://www.mobygames.com/images/covers/l/11911-pilotwings-64-nintendo-64-front-cover.jpg", 
+        "platforms": [
+          "Nintendo 64"
+        ], 
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/11911-pilotwings-64-nintendo-64-front-cover.jpg", 
+        "width": 800
+      }, 
+      "sample_screenshots": [
+        {
+          "caption": "Title Screen", 
+          "height": 480, 
+          "image": "http://www.mobygames.com/images/shots/l/25648-pilotwings-64-nintendo-64-screenshot-title-screen.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/25648-pilotwings-64-nintendo-64-screenshot-title-screen.jpg", 
+          "width": 640
+        }, 
+        {
+          "caption": "Test Instructions", 
+          "height": 480, 
+          "image": "http://www.mobygames.com/images/shots/l/25649-pilotwings-64-nintendo-64-screenshot-test-instructions.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/25649-pilotwings-64-nintendo-64-screenshot-test-instructions.jpg", 
+          "width": 640
+        }, 
+        {
+          "caption": "Pilot Selection", 
+          "height": 480, 
+          "image": "http://www.mobygames.com/images/shots/l/25650-pilotwings-64-nintendo-64-screenshot-pilot-selection.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/25650-pilotwings-64-nintendo-64-screenshot-pilot-selection.jpg", 
+          "width": 640
+        }, 
+        {
+          "caption": "Hang Gliding", 
+          "height": 480, 
+          "image": "http://www.mobygames.com/images/shots/l/25651-pilotwings-64-nintendo-64-screenshot-hang-gliding.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/25651-pilotwings-64-nintendo-64-screenshot-hang-gliding.jpg", 
+          "width": 640
+        }
+      ], 
+      "title": "Pilotwings 64"
+    }, 
+    {
+      "description": "This NASCAR stock car racing simulation is a sequel of sorts to NASCAR Revolution. The game features 18 real world tracks plus several fantasy road courses, and 30 active NASCAR drivers plus some \"legend\" drivers.\n\nGame modes include quick races, full weekend events, a full or abridged championship series, a Race Against the King mode where you race against Richard Petty in a series of events, and multiplayer support for up to 4 players. Updated physics and AI help the game aim for more realism.", 
+      "game_id": 4845, 
+      "genres": [
+        {
+          "genre_category": "Basic Genres", 
+          "genre_category_id": 1, 
+          "genre_id": 6, 
+          "genre_name": "Racing / Driving"
+        }, 
+        {
+          "genre_category": "Basic Genres", 
+          "genre_category_id": 1, 
+          "genre_id": 3, 
+          "genre_name": "Simulation"
+        }, 
+        {
+          "genre_category": "Perspective", 
+          "genre_category_id": 2, 
+          "genre_id": 128, 
+          "genre_name": "Behind view"
+        }, 
+        {
+          "genre_category": "Perspective", 
+          "genre_category_id": 2, 
+          "genre_id": 7, 
+          "genre_name": "1st-person"
+        }, 
+        {
+          "genre_category": "Gameplay", 
+          "genre_category_id": 4, 
+          "genre_id": 158, 
+          "genre_name": "Vehicle Simulator"
+        }, 
+        {
+          "genre_category": "Vehicular Themes", 
+          "genre_category_id": 11, 
+          "genre_id": 192, 
+          "genre_name": "Track Racing"
+        }, 
+        {
+          "genre_category": "Vehicular Themes", 
+          "genre_category_id": 11, 
+          "genre_id": 188, 
+          "genre_name": "Automobile"
+        }, 
+        {
+          "genre_category": "Other Attributes", 
+          "genre_category_id": 6, 
+          "genre_id": 82, 
+          "genre_name": "Licensed"
+        }
+      ], 
+      "moby_score": 2.7, 
+      "moby_url": "http://www.mobygames.com/game/nascar-2000", 
+      "num_votes": 7, 
+      "official_url": null, 
+      "platforms": [
+        {
+          "first_release_date": "1999-09-15", 
+          "platform_id": 9, 
+          "platform_name": "Nintendo 64"
+        }, 
+        {
+          "first_release_date": "1999-11-30", 
+          "platform_id": 6, 
+          "platform_name": "PlayStation"
+        }, 
+        {
+          "first_release_date": "2000-02-29", 
+          "platform_id": 3, 
+          "platform_name": "Windows"
+        }
+      ], 
+      "sample_cover": {
+        "height": 699, 
+        "image": "http://www.mobygames.com/images/covers/l/64276-nascar-2000-playstation-front-cover.jpg", 
+        "platforms": [
+          "PlayStation"
+        ], 
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/64276-nascar-2000-playstation-front-cover.jpg", 
+        "width": 715
+      }, 
+      "sample_screenshots": [
+        {
+          "caption": "Title screen.", 
+          "height": 480, 
+          "image": "http://www.mobygames.com/images/shots/l/152145-nascar-2000-nintendo-64-screenshot-title-screen.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/152145-nascar-2000-nintendo-64-screenshot-title-screen.jpg", 
+          "width": 640
+        }, 
+        {
+          "caption": "Menu screen.", 
+          "height": 480, 
+          "image": "http://www.mobygames.com/images/shots/l/152146-nascar-2000-nintendo-64-screenshot-menu-screen.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/152146-nascar-2000-nintendo-64-screenshot-menu-screen.jpg", 
+          "width": 640
+        }, 
+        {
+          "caption": "Choosing the driver.", 
+          "height": 480, 
+          "image": "http://www.mobygames.com/images/shots/l/153779-nascar-2000-nintendo-64-screenshot-choosing-the-driver.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/153779-nascar-2000-nintendo-64-screenshot-choosing-the-driver.jpg", 
+          "width": 640
+        }
+      ], 
+      "title": "NASCAR 2000"
+    }, 
+    {
+      "description": "In <i>AeroFighters Assault</i> a terrorist organisation named Phutta Morgana has melted the Antarctic and is using the water to flood Earth's cities. The player takes part in the Project Blue unit which has to stop these terrorist acts.\n\nRegarding gameplay, the game is a mix between a regular shooter like Star Fox 64 and a simulation like Pilotwings 64: the player observes the action from behind the aircraft and uses the analog stick to dodge and the other buttons to shoot enemies. Each of the eight planes (six regular and two bonus) features four different weapons: two have unlimited ammo, air mines and the special weapon are restricted to respectively ten and two uses per round. Before every of the eight regular and four bonus missions the player can choose between one of four characters and his aircraft (the other ones become his wingmen).", 
+      "game_id": 4923, 
+      "genres": [
+        {
+          "genre_category": "Basic Genres", 
+          "genre_category_id": 1, 
+          "genre_id": 3, 
+          "genre_name": "Simulation"
+        }, 
+        {
+          "genre_category": "Basic Genres", 
+          "genre_category_id": 1, 
+          "genre_id": 1, 
+          "genre_name": "Action"
+        }, 
+        {
+          "genre_category": "Perspective", 
+          "genre_category_id": 2, 
+          "genre_id": 128, 
+          "genre_name": "Behind view"
+        }, 
+        {
+          "genre_category": "Gameplay", 
+          "genre_category_id": 4, 
+          "genre_id": 22, 
+          "genre_name": "Shooter"
+        }, 
+        {
+          "genre_category": "Vehicular Themes", 
+          "genre_category_id": 11, 
+          "genre_id": 19, 
+          "genre_name": "Flight / Aviation"
+        }
+      ], 
+      "moby_score": 3.4, 
+      "moby_url": "http://www.mobygames.com/game/aerofighters-assault", 
+      "num_votes": 8, 
+      "official_url": null, 
+      "platforms": [
+        {
+          "first_release_date": "1997-11-01", 
+          "platform_id": 9, 
+          "platform_name": "Nintendo 64"
+        }
+      ], 
+      "sample_cover": {
+        "height": 550, 
+        "image": "http://www.mobygames.com/images/covers/l/450269-aerofighters-assault-nintendo-64-front-cover.jpg", 
+        "platforms": [
+          "Nintendo 64"
+        ], 
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/450269-aerofighters-assault-nintendo-64-front-cover.jpg", 
+        "width": 800
+      }, 
+      "sample_screenshots": [
+        {
+          "caption": "Intro", 
+          "height": 480, 
+          "image": "http://www.mobygames.com/images/shots/l/196575-aerofighters-assault-nintendo-64-screenshot-intro.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/196575-aerofighters-assault-nintendo-64-screenshot-intro.jpg", 
+          "width": 640
+        }, 
+        {
+          "caption": "Main menu", 
+          "height": 480, 
+          "image": "http://www.mobygames.com/images/shots/l/196577-aerofighters-assault-nintendo-64-screenshot-main-menu.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/196577-aerofighters-assault-nintendo-64-screenshot-main-menu.jpg", 
+          "width": 640
+        }, 
+        {
+          "caption": "Ship Selection", 
+          "height": 480, 
+          "image": "http://www.mobygames.com/images/shots/l/196578-aerofighters-assault-nintendo-64-screenshot-ship-selection.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/196578-aerofighters-assault-nintendo-64-screenshot-ship-selection.jpg", 
+          "width": 640
+        }, 
+        {
+          "caption": "Starting a new game", 
+          "height": 480, 
+          "image": "http://www.mobygames.com/images/shots/l/196579-aerofighters-assault-nintendo-64-screenshot-starting-a-new.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/196579-aerofighters-assault-nintendo-64-screenshot-starting-a-new.jpg", 
+          "width": 640
+        }
+      ], 
+      "title": "AeroFighters Assault"
+    }, 
+    {
+      "description": "In <em>Harvest Moon 64</em>, your objective is to restore a run-down farm that you've inherited from your grandfather, who has died recently.  In the village many people help you out on your long journey.  During this time you can attend festivals, race in horse races, farm, tend to your livestock, add to your house, get married, or maybe even have a child.  There are 5 beautiful women to be chosen from, each having their own jobs and personalities.  At the end the player's parents come by and rate them after 2 and a half years of performance.  The option then exists either to keep going or stop there.  The real question is if you're up for the challenge.", 
+      "game_id": 4978, 
+      "genres": [
+        {
+          "genre_category": "Basic Genres", 
+          "genre_category_id": 1, 
+          "genre_id": 3, 
+          "genre_name": "Simulation"
+        }, 
+        {
+          "genre_category": "Perspective", 
+          "genre_category_id": 2, 
+          "genre_id": 129, 
+          "genre_name": "Bird's-eye view"
+        }, 
+        {
+          "genre_category": "Gameplay", 
+          "genre_category_id": 4, 
+          "genre_id": 40, 
+          "genre_name": "Managerial / Business Simulation"
+        }, 
+        {
+          "genre_category": "Visual Presentation", 
+          "genre_category_id": 12, 
+          "genre_id": 25, 
+          "genre_name": "Isometric"
+        }
+      ], 
+      "moby_score": 3.9, 
+      "moby_url": "http://www.mobygames.com/game/harvest-moon-64", 
+      "num_votes": 16, 
+      "official_url": null, 
+      "platforms": [
+        {
+          "first_release_date": "1999-02-05", 
+          "platform_id": 9, 
+          "platform_name": "Nintendo 64"
+        }, 
+        {
+          "first_release_date": "2017-02-23", 
+          "platform_id": 132, 
+          "platform_name": "Wii U"
+        }
+      ], 
+      "sample_cover": {
+        "height": 548, 
+        "image": "http://www.mobygames.com/images/covers/l/10605-harvest-moon-64-nintendo-64-front-cover.jpg", 
+        "platforms": [
+          "Nintendo 64"
+        ], 
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/10605-harvest-moon-64-nintendo-64-front-cover.jpg", 
+        "width": 800
+      }, 
+      "sample_screenshots": [
+        {
+          "caption": "Title screen", 
+          "height": 240, 
+          "image": "http://www.mobygames.com/images/shots/l/301048-harvest-moon-64-nintendo-64-screenshot-title-screen.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/301048-harvest-moon-64-nintendo-64-screenshot-title-screen.jpg", 
+          "width": 320
+        }, 
+        {
+          "caption": "Tutorial", 
+          "height": 240, 
+          "image": "http://www.mobygames.com/images/shots/l/301049-harvest-moon-64-nintendo-64-screenshot-tutorial.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/301049-harvest-moon-64-nintendo-64-screenshot-tutorial.jpg", 
+          "width": 320
+        }, 
+        {
+          "caption": "The calendar where you can keep track of events", 
+          "height": 240, 
+          "image": "http://www.mobygames.com/images/shots/l/301050-harvest-moon-64-nintendo-64-screenshot-the-calendar-where.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/301050-harvest-moon-64-nintendo-64-screenshot-the-calendar-where.jpg", 
+          "width": 320
+        }, 
+        {
+          "caption": "Breaking rocks", 
+          "height": 240, 
+          "image": "http://www.mobygames.com/images/shots/l/301051-harvest-moon-64-nintendo-64-screenshot-breaking-rocks.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/301051-harvest-moon-64-nintendo-64-screenshot-breaking-rocks.jpg", 
+          "width": 320
+        }
+      ], 
+      "title": "Harvest Moon 64"
+    }, 
+    {
+      "description": "V-Rally was the first Rally game to be published on the PlayStation. This \"Edition 99\" is the Nintendo 64 port of the original game, with slightly improved graphics and menus.\r\n\r\nThis game offers you to race through 8 countries using one of the 12 official cars from the World Rally Championship. Each track has its own course conditions, so you will eventually have to use your skills in snow, mud, rain, gravel...", 
+      "game_id": 7015, 
+      "genres": [
+        {
+          "genre_category": "Basic Genres", 
+          "genre_category_id": 1, 
+          "genre_id": 6, 
+          "genre_name": "Racing / Driving"
+        }, 
+        {
+          "genre_category": "Basic Genres", 
+          "genre_category_id": 1, 
+          "genre_id": 3, 
+          "genre_name": "Simulation"
+        }, 
+        {
+          "genre_category": "Perspective", 
+          "genre_category_id": 2, 
+          "genre_id": 128, 
+          "genre_name": "Behind view"
+        }, 
+        {
+          "genre_category": "Perspective", 
+          "genre_category_id": 2, 
+          "genre_id": 7, 
+          "genre_name": "1st-person"
+        }, 
+        {
+          "genre_category": "Gameplay", 
+          "genre_category_id": 4, 
+          "genre_id": 158, 
+          "genre_name": "Vehicle Simulator"
+        }, 
+        {
+          "genre_category": "Vehicular Themes", 
+          "genre_category_id": 11, 
+          "genre_id": 192, 
+          "genre_name": "Track Racing"
+        }, 
+        {
+          "genre_category": "Vehicular Themes", 
+          "genre_category_id": 11, 
+          "genre_id": 188, 
+          "genre_name": "Automobile"
+        }, 
+        {
+          "genre_category": "Vehicular Themes", 
+          "genre_category_id": 11, 
+          "genre_id": 58, 
+          "genre_name": "Off-roading"
+        }
+      ], 
+      "moby_score": 3.2, 
+      "moby_url": "http://www.mobygames.com/game/v-rally-edition-99", 
+      "num_votes": 15, 
+      "official_url": null, 
+      "platforms": [
+        {
+          "first_release_date": "1998-12-07", 
+          "platform_id": 9, 
+          "platform_name": "Nintendo 64"
+        }, 
+        {
+          "first_release_date": "1999", 
+          "platform_id": 3, 
+          "platform_name": "Windows"
+        }
+      ], 
+      "sample_cover": {
+        "height": 555, 
+        "image": "http://www.mobygames.com/images/covers/l/33348-v-rally-edition-99-nintendo-64-front-cover.jpg", 
+        "platforms": [
+          "Nintendo 64"
+        ], 
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/33348-v-rally-edition-99-nintendo-64-front-cover.jpg", 
+        "width": 800
+      }, 
+      "sample_screenshots": [
+        {
+          "caption": "Single player in time trial mode", 
+          "height": 174, 
+          "image": "http://www.mobygames.com/images/shots/l/29836-v-rally-edition-99-nintendo-64-screenshot-single-player-in.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/29836-v-rally-edition-99-nintendo-64-screenshot-single-player-in.jpg", 
+          "width": 250
+        }, 
+        {
+          "caption": "Sadly only the bumper view let players hear the intoxicating whistling of turbos of 3 AWD cars.", 
+          "height": 480, 
+          "image": "http://www.mobygames.com/images/shots/l/651571-v-rally-edition-99-windows-screenshot-sadly-only-the-bumper.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/651571-v-rally-edition-99-windows-screenshot-sadly-only-the-bumper.jpg", 
+          "width": 640
+        }, 
+        {
+          "caption": "Checking my rear - nope, no-one catching the Evo4.", 
+          "height": 480, 
+          "image": "http://www.mobygames.com/images/shots/l/651572-v-rally-edition-99-windows-screenshot-checking-my-rear-nope.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/651572-v-rally-edition-99-windows-screenshot-checking-my-rear-nope.jpg", 
+          "width": 640
+        }, 
+        {
+          "caption": "Ghost of Rally England.", 
+          "height": 480, 
+          "image": "http://www.mobygames.com/images/shots/l/651573-v-rally-edition-99-windows-screenshot-ghost-of-rally-england.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/651573-v-rally-edition-99-windows-screenshot-ghost-of-rally-england.jpg", 
+          "width": 640
+        }
+      ], 
+      "title": "V-Rally: Edition 99"
+    }, 
+    {
+      "description": "A Formula 1 racing game, officially acknowledged by the FIA F1 World Championship, containing the 16 World championship circuits of the day, ranging from Monza and the old Hockenheim to Monaco and the Hungaroring. \n\nCar setup is highly detailed, reflecting real Formula One and the game's simulation basis. You will have to race in the wet, which means further setup modification to cope with the reduced grip. You can also edit the level of car damage, the pit-car radio, and whether the CPU cars can collide. There are also Battle and Time Trial modes, with your best laptimes recorded.", 
+      "game_id": 9196, 
+      "genres": [
+        {
+          "genre_category": "Basic Genres", 
+          "genre_category_id": 1, 
+          "genre_id": 6, 
+          "genre_name": "Racing / Driving"
+        }, 
+        {
+          "genre_category": "Basic Genres", 
+          "genre_category_id": 1, 
+          "genre_id": 3, 
+          "genre_name": "Simulation"
+        }, 
+        {
+          "genre_category": "Perspective", 
+          "genre_category_id": 2, 
+          "genre_id": 126, 
+          "genre_name": "3rd-person (Other)"
+        }, 
+        {
+          "genre_category": "Perspective", 
+          "genre_category_id": 2, 
+          "genre_id": 7, 
+          "genre_name": "1st-person"
+        }, 
+        {
+          "genre_category": "Gameplay", 
+          "genre_category_id": 4, 
+          "genre_id": 158, 
+          "genre_name": "Vehicle Simulator"
+        }, 
+        {
+          "genre_category": "Vehicular Themes", 
+          "genre_category_id": 11, 
+          "genre_id": 192, 
+          "genre_name": "Track Racing"
+        }, 
+        {
+          "genre_category": "Vehicular Themes", 
+          "genre_category_id": 11, 
+          "genre_id": 188, 
+          "genre_name": "Automobile"
+        }, 
+        {
+          "genre_category": "Other Attributes", 
+          "genre_category_id": 6, 
+          "genre_id": 82, 
+          "genre_name": "Licensed"
+        }
+      ], 
+      "moby_score": 2.3, 
+      "moby_url": "http://www.mobygames.com/game/f1-pole-position-64", 
+      "num_votes": 8, 
+      "official_url": null, 
+      "platforms": [
+        {
+          "first_release_date": "1997-03-28", 
+          "platform_id": 9, 
+          "platform_name": "Nintendo 64"
+        }
+      ], 
+      "sample_cover": {
+        "height": 556, 
+        "image": "http://www.mobygames.com/images/covers/l/130059-f1-pole-position-64-nintendo-64-front-cover.png", 
+        "platforms": [
+          "Nintendo 64"
+        ], 
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/130059-f1-pole-position-64-nintendo-64-front-cover.jpg", 
+        "width": 800
+      }, 
+      "sample_screenshots": [], 
+      "title": "F1 Pole Position 64"
+    }, 
+    {
+      "description": "Futuristic space bowling simulation, with nuclear balls, lots of power-ups and wacky characters. Robots, aliens and funky courses, and a multiplayer mode where you can ruin your friends' opportunities with different special weapons.", 
+      "game_id": 9199, 
+      "genres": [
+        {
+          "genre_category": "Basic Genres", 
+          "genre_category_id": 1, 
+          "genre_id": 5, 
+          "genre_name": "Sports"
+        }, 
+        {
+          "genre_category": "Basic Genres", 
+          "genre_category_id": 1, 
+          "genre_id": 3, 
+          "genre_name": "Simulation"
+        }, 
+        {
+          "genre_category": "Perspective", 
+          "genre_category_id": 2, 
+          "genre_id": 128, 
+          "genre_name": "Behind view"
+        }, 
+        {
+          "genre_category": "Perspective", 
+          "genre_category_id": 2, 
+          "genre_id": 7, 
+          "genre_name": "1st-person"
+        }, 
+        {
+          "genre_category": "Sports Themes", 
+          "genre_category_id": 3, 
+          "genre_id": 88, 
+          "genre_name": "Bowling"
+        }, 
+        {
+          "genre_category": "Setting", 
+          "genre_category_id": 10, 
+          "genre_id": 8, 
+          "genre_name": "Sci-Fi / Futuristic"
+        }
+      ], 
+      "moby_score": 2.5, 
+      "moby_url": "http://www.mobygames.com/game/milos-astro-lanes", 
+      "num_votes": 4, 
+      "official_url": null, 
+      "platforms": [
+        {
+          "first_release_date": "1998-11-11", 
+          "platform_id": 9, 
+          "platform_name": "Nintendo 64"
+        }
+      ], 
+      "sample_cover": {
+        "height": 556, 
+        "image": "http://www.mobygames.com/images/covers/l/455879-milo-s-astro-lanes-nintendo-64-front-cover.jpg", 
+        "platforms": [
+          "Nintendo 64"
+        ], 
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/455879-milo-s-astro-lanes-nintendo-64-front-cover.jpg", 
+        "width": 800
+      }, 
+      "sample_screenshots": [
+        {
+          "caption": "Title screen.", 
+          "height": 480, 
+          "image": "http://www.mobygames.com/images/shots/l/166861-milo-s-astro-lanes-nintendo-64-screenshot-title-screen.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/166861-milo-s-astro-lanes-nintendo-64-screenshot-title-screen.jpg", 
+          "width": 640
+        }, 
+        {
+          "caption": "Main menu.", 
+          "height": 480, 
+          "image": "http://www.mobygames.com/images/shots/l/898241-milo-s-astro-lanes-nintendo-64-screenshot-main-menu.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/898241-milo-s-astro-lanes-nintendo-64-screenshot-main-menu.jpg", 
+          "width": 640
+        }, 
+        {
+          "caption": "Select Ball.", 
+          "height": 480, 
+          "image": "http://www.mobygames.com/images/shots/l/898242-milo-s-astro-lanes-nintendo-64-screenshot-select-ball.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/898242-milo-s-astro-lanes-nintendo-64-screenshot-select-ball.jpg", 
+          "width": 640
+        }, 
+        {
+          "caption": "The only female character, I guess.", 
+          "height": 480, 
+          "image": "http://www.mobygames.com/images/shots/l/898243-milo-s-astro-lanes-nintendo-64-screenshot-the-only-female.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/898243-milo-s-astro-lanes-nintendo-64-screenshot-the-only-female.jpg", 
+          "width": 640
+        }
+      ], 
+      "title": "Milo's Astro Lanes"
+    }, 
+    {
+      "description": "<i>Indy Racing 2000</i> is an officially licensed product of that year's Indy Racing League. At this point it purely raced on oval tracks, and featuring Indianapolis-style race cars - open wheel, open cockpit.\n\nAll 20 drivers and their cars and teams are authentic with fully licensed IRL tracks including night time tracks at Texas and Charlotte. Two player mode is supported and there is a unique draft meter to aid in making sling-shot moves for passing.\n\nTop drivers are represented with detailed replicas of their cars. It is a racing simulation rather than a pure action game, letting you choose the angles of the front wing, rear wing, set the tire pressure, gear ratios and transmission type.", 
+      "game_id": 14071, 
+      "genres": [
+        {
+          "genre_category": "Basic Genres", 
+          "genre_category_id": 1, 
+          "genre_id": 6, 
+          "genre_name": "Racing / Driving"
+        }, 
+        {
+          "genre_category": "Basic Genres", 
+          "genre_category_id": 1, 
+          "genre_id": 3, 
+          "genre_name": "Simulation"
+        }, 
+        {
+          "genre_category": "Perspective", 
+          "genre_category_id": 2, 
+          "genre_id": 126, 
+          "genre_name": "3rd-person (Other)"
+        }, 
+        {
+          "genre_category": "Perspective", 
+          "genre_category_id": 2, 
+          "genre_id": 7, 
+          "genre_name": "1st-person"
+        }, 
+        {
+          "genre_category": "Gameplay", 
+          "genre_category_id": 4, 
+          "genre_id": 158, 
+          "genre_name": "Vehicle Simulator"
+        }, 
+        {
+          "genre_category": "Vehicular Themes", 
+          "genre_category_id": 11, 
+          "genre_id": 192, 
+          "genre_name": "Track Racing"
+        }, 
+        {
+          "genre_category": "Vehicular Themes", 
+          "genre_category_id": 11, 
+          "genre_id": 188, 
+          "genre_name": "Automobile"
+        }, 
+        {
+          "genre_category": "Other Attributes", 
+          "genre_category_id": 6, 
+          "genre_id": 82, 
+          "genre_name": "Licensed"
+        }
+      ], 
+      "moby_score": 3.6, 
+      "moby_url": "http://www.mobygames.com/game/indy-racing-2000", 
+      "num_votes": 2, 
+      "official_url": null, 
+      "platforms": [
+        {
+          "first_release_date": "2000-06", 
+          "platform_id": 9, 
+          "platform_name": "Nintendo 64"
+        }
+      ], 
+      "sample_cover": null, 
+      "sample_screenshots": [], 
+      "title": "Indy Racing 2000"
+    }, 
+    {
+      "description": "The second F1 experience from Paradigm, the direct sequel to F-1 World Grand Prix, has more of the same high speed antics around the Formula 1 circuit.\n\nFollowing the 1998 season, you'll experience all the drivers, tracks and teams and compete in a number of different racing modes, from the usual Grand Prix and Training to Challenge mode, where you'll attempt to complete a range of critical events based on the deal.", 
+      "game_id": 21495, 
+      "genres": [
+        {
+          "genre_category": "Basic Genres", 
+          "genre_category_id": 1, 
+          "genre_id": 6, 
+          "genre_name": "Racing / Driving"
+        }, 
+        {
+          "genre_category": "Basic Genres", 
+          "genre_category_id": 1, 
+          "genre_id": 3, 
+          "genre_name": "Simulation"
+        }, 
+        {
+          "genre_category": "Perspective", 
+          "genre_category_id": 2, 
+          "genre_id": 126, 
+          "genre_name": "3rd-person (Other)"
+        }, 
+        {
+          "genre_category": "Perspective", 
+          "genre_category_id": 2, 
+          "genre_id": 7, 
+          "genre_name": "1st-person"
+        }, 
+        {
+          "genre_category": "Gameplay", 
+          "genre_category_id": 4, 
+          "genre_id": 158, 
+          "genre_name": "Vehicle Simulator"
+        }, 
+        {
+          "genre_category": "Vehicular Themes", 
+          "genre_category_id": 11, 
+          "genre_id": 192, 
+          "genre_name": "Track Racing"
+        }, 
+        {
+          "genre_category": "Vehicular Themes", 
+          "genre_category_id": 11, 
+          "genre_id": 188, 
+          "genre_name": "Automobile"
+        }, 
+        {
+          "genre_category": "Other Attributes", 
+          "genre_category_id": 6, 
+          "genre_id": 82, 
+          "genre_name": "Licensed"
+        }
+      ], 
+      "moby_score": 3.6, 
+      "moby_url": "http://www.mobygames.com/game/f-1-world-grand-prix-ii", 
+      "num_votes": 5, 
+      "official_url": null, 
+      "platforms": [
+        {
+          "first_release_date": "1999", 
+          "platform_id": 9, 
+          "platform_name": "Nintendo 64"
+        }
+      ], 
+      "sample_cover": {
+        "height": 564, 
+        "image": "http://www.mobygames.com/images/covers/l/100681-f-1-world-grand-prix-ii-nintendo-64-front-cover.png", 
+        "platforms": [
+          "Nintendo 64"
+        ], 
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/100681-f-1-world-grand-prix-ii-nintendo-64-front-cover.jpg", 
+        "width": 800
+      }, 
+      "sample_screenshots": [], 
+      "title": "F-1 World Grand Prix II"
+    }, 
+    {
+      "description": "\nReal-time 3D casino play on the Nintendo 64, set inside the famous Golden Nugget casino in Las Vegas.\n\nFeatures include a fast and simple interface, 15 classic games of chance and 4-player simultaneous play. \n\nTry your hand at Black Jack, Craps, 5-Card Draw, 7-Card Stud, Texas Hold 'em, Mini Baccarat, Big Six, Roulette, Video Poker, and an array Slot Machines. \n ", 
+      "game_id": 21598, 
+      "genres": [
+        {
+          "genre_category": "Basic Genres", 
+          "genre_category_id": 1, 
+          "genre_id": 3, 
+          "genre_name": "Simulation"
+        }, 
+        {
+          "genre_category": "Perspective", 
+          "genre_category_id": 2, 
+          "genre_id": 13, 
+          "genre_name": "Top-down"
+        }, 
+        {
+          "genre_category": "Perspective", 
+          "genre_category_id": 2, 
+          "genre_id": 7, 
+          "genre_name": "1st-person"
+        }, 
+        {
+          "genre_category": "Gameplay", 
+          "genre_category_id": 4, 
+          "genre_id": 28, 
+          "genre_name": "Casino / Gambling"
+        }, 
+        {
+          "genre_category": "Gameplay", 
+          "genre_category_id": 4, 
+          "genre_id": 27, 
+          "genre_name": "Cards / Tiles"
+        }, 
+        {
+          "genre_category": "Gameplay", 
+          "genre_category_id": 4, 
+          "genre_id": 26, 
+          "genre_name": "Board Game"
+        }, 
+        {
+          "genre_category": "Pacing", 
+          "genre_category_id": 9, 
+          "genre_id": 15, 
+          "genre_name": "Real-Time"
+        }, 
+        {
+          "genre_category": "Other Attributes", 
+          "genre_category_id": 6, 
+          "genre_id": 82, 
+          "genre_name": "Licensed"
+        }
+      ], 
+      "moby_score": 2.2, 
+      "moby_url": "http://www.mobygames.com/game/golden-nugget-64", 
+      "num_votes": 2, 
+      "official_url": null, 
+      "platforms": [
+        {
+          "first_release_date": "1998-12", 
+          "platform_id": 9, 
+          "platform_name": "Nintendo 64"
+        }
+      ], 
+      "sample_cover": {
+        "height": 560, 
+        "image": "http://www.mobygames.com/images/covers/l/60835-golden-nugget-64-nintendo-64-front-cover.png", 
+        "platforms": [
+          "Nintendo 64"
+        ], 
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/60835-golden-nugget-64-nintendo-64-front-cover.jpg", 
+        "width": 800
+      }, 
+      "sample_screenshots": [
+        {
+          "caption": "Title screen / Main menu.", 
+          "height": 480, 
+          "image": "http://www.mobygames.com/images/shots/l/158032-golden-nugget-64-nintendo-64-screenshot-title-screen-main.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/158032-golden-nugget-64-nintendo-64-screenshot-title-screen-main.jpg", 
+          "width": 640
+        }
+      ], 
+      "title": "Golden Nugget 64"
+    }, 
+    {
+      "description": "The 1997 Formula One World Championship, won by Canadian Jacques Villeneuve in dramatic fashion after a final-race collision with Germany's Michael Schumacher, is recreated in this racing simulation. You have the chance to set up the car to perfect the handling for each of the 17 diverse circuits. Wet racing is incorporated, with gradual weather chances, as well as tyre wear requiring pitstops.\n\nIn total there are five distinct gameplay modes. A solo player can play through the entire championship, with practice and qualifying as well as the race against 21 other cars. A Challenge mode including key situations allows you to try to alter the course of history. There is also a 2-player head-to-head mode, Time Attack and one-off races of any length.", 
+      "game_id": 21604, 
+      "genres": [
+        {
+          "genre_category": "Basic Genres", 
+          "genre_category_id": 1, 
+          "genre_id": 6, 
+          "genre_name": "Racing / Driving"
+        }, 
+        {
+          "genre_category": "Basic Genres", 
+          "genre_category_id": 1, 
+          "genre_id": 3, 
+          "genre_name": "Simulation"
+        }, 
+        {
+          "genre_category": "Perspective", 
+          "genre_category_id": 2, 
+          "genre_id": 128, 
+          "genre_name": "Behind view"
+        }, 
+        {
+          "genre_category": "Perspective", 
+          "genre_category_id": 2, 
+          "genre_id": 7, 
+          "genre_name": "1st-person"
+        }, 
+        {
+          "genre_category": "Gameplay", 
+          "genre_category_id": 4, 
+          "genre_id": 158, 
+          "genre_name": "Vehicle Simulator"
+        }, 
+        {
+          "genre_category": "Vehicular Themes", 
+          "genre_category_id": 11, 
+          "genre_id": 192, 
+          "genre_name": "Track Racing"
+        }, 
+        {
+          "genre_category": "Vehicular Themes", 
+          "genre_category_id": 11, 
+          "genre_id": 188, 
+          "genre_name": "Automobile"
+        }, 
+        {
+          "genre_category": "Other Attributes", 
+          "genre_category_id": 6, 
+          "genre_id": 82, 
+          "genre_name": "Licensed"
+        }
+      ], 
+      "moby_score": 4.0, 
+      "moby_url": "http://www.mobygames.com/game/f-1-world-grand-prix", 
+      "num_votes": 10, 
+      "official_url": null, 
+      "platforms": [
+        {
+          "first_release_date": "1998", 
+          "platform_id": 9, 
+          "platform_name": "Nintendo 64"
+        }
+      ], 
+      "sample_cover": {
+        "height": 568, 
+        "image": "http://www.mobygames.com/images/covers/l/167319-f-1-world-grand-prix-nintendo-64-front-cover.jpg", 
+        "platforms": [
+          "Nintendo 64"
+        ], 
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/167319-f-1-world-grand-prix-nintendo-64-front-cover.jpg", 
+        "width": 800
+      }, 
+      "sample_screenshots": [
+        {
+          "caption": "Title Screen", 
+          "height": 480, 
+          "image": "http://www.mobygames.com/images/shots/l/155496-f-1-world-grand-prix-nintendo-64-screenshot-title-screen.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/155496-f-1-world-grand-prix-nintendo-64-screenshot-title-screen.jpg", 
+          "width": 640
+        }, 
+        {
+          "caption": "Main Menu", 
+          "height": 480, 
+          "image": "http://www.mobygames.com/images/shots/l/155497-f-1-world-grand-prix-nintendo-64-screenshot-main-menu.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/155497-f-1-world-grand-prix-nintendo-64-screenshot-main-menu.jpg", 
+          "width": 640
+        }
+      ], 
+      "title": "F-1 World Grand Prix"
+    }, 
+    {
+      "description": "<i>Kyojin no Doshin 1</i> is a game where you are god. You wander an island of sun worshippers as nothing less than an avatar of the sun, Doshin the Giant. As Doshin you may wander the Island helping native worshippers by bringing them trees altering land, fending off disasters and repulsing marauding monsters. The more you help the larger you grow... However it's not easy always being so nice.\n\nWith the touch of a button you become the feared Jyashin! A red winged demon whose only wish is to destroy. Using fireballs and his great strength you'll level whole civilizations to feed of the islanders hate and grow larger. By no means is the object of the game just to grow, you know that the villagers must build 16 monuments in your honor... However you possess a knowledge, an almost instinctual one, that when this happens a horrible fate will meet the island. Will you chose to forever serve and torment the populace or will you help build the monuments that you know must be built?\n\nThe game allows you to do whatever you like within the limits of Doshin's abilities. Want to build a mountain, go for it. Want to be genocidal, the world is your oyster. After half an hour of gameplay the sun will set and Doshin will \"die\" for the night, and when you start the next day you will have shrunk to your starting size. The only goal is to influence the villagers to build monuments in your name, whether they build out of devotion or fear is up to you.", 
+      "game_id": 31053, 
+      "genres": [
+        {
+          "genre_category": "Basic Genres", 
+          "genre_category_id": 1, 
+          "genre_id": 4, 
+          "genre_name": "Strategy/Tactics"
+        }, 
+        {
+          "genre_category": "Basic Genres", 
+          "genre_category_id": 1, 
+          "genre_id": 3, 
+          "genre_name": "Simulation"
+        }, 
+        {
+          "genre_category": "Perspective", 
+          "genre_category_id": 2, 
+          "genre_id": 126, 
+          "genre_name": "3rd-person (Other)"
+        }, 
+        {
+          "genre_category": "Perspective", 
+          "genre_category_id": 2, 
+          "genre_id": 7, 
+          "genre_name": "1st-person"
+        }, 
+        {
+          "genre_category": "Gameplay", 
+          "genre_category_id": 4, 
+          "genre_id": 40, 
+          "genre_name": "Managerial / Business Simulation"
+        }, 
+        {
+          "genre_category": "Pacing", 
+          "genre_category_id": 9, 
+          "genre_id": 69, 
+          "genre_name": "Meditative / Zen"
+        }
+      ], 
+      "moby_score": 3.4, 
+      "moby_url": "http://www.mobygames.com/game/kyojin-no-doshin-1", 
+      "num_votes": 3, 
+      "official_url": null, 
+      "platforms": [
+        {
+          "first_release_date": "1999-12-01", 
+          "platform_id": 9, 
+          "platform_name": "Nintendo 64"
+        }
+      ], 
+      "sample_cover": {
+        "height": 701, 
+        "image": "http://www.mobygames.com/images/covers/l/96805-kyojin-no-doshin-1-nintendo-64-front-cover.jpg", 
+        "platforms": [
+          "Nintendo 64"
+        ], 
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/96805-kyojin-no-doshin-1-nintendo-64-front-cover.jpg", 
+        "width": 800
+      }, 
+      "sample_screenshots": [], 
+      "title": "Kyojin no Doshin 1"
+    }, 
+    {
+      "description": "<i>Getter Love!!</i> is a dating sim where a high school student and his friends are having a competition to see who will get a girlfriend first. Because of that and unlike other dating sim games you will have to face up to three human or CPU players to win the heart of the girl (or girls) you set your eyes on.\n\nGame Start, Battle, Ranking and Memories are what the menu options include. \n<ul><li><b>Game Start</b> is the option from where you can access all the major  single and multiplayer modes.</li><ul><li>\"N\" - the main story mode of the game where you play against 3 CPU players. </li><br>\n<li>\"VS\" - same as the previous mode but opponents can be either human or CPU players.</li><br>\n<li>\"VS\" - players will only be able to go for a certain girl that is decided at the beginning of each game</li><br>\n<li>\"VS\" - players can go for any girl but there is a set time limit</li></ul><li><b>Battle</b> is where you can practice mini-games found in the main story and compete against other players.</li><br>\n<li><b>Ranking</b> allows you to see statistics like how many times you have beaten the game with each girl, the fastest time you took to beat the game, etc.</li><br>\n<li><b>Memories</b> is the place where you can view all the special events and endings you have seen during the game.</ul><b>Gameplay:</b> After selecting a name and a character, from the 8 available, you'll be given a \"relationship head-start\" for a random girl. The game will then take you to a screen where each of the 4 players can select an action before a turn starts. An action can be viewing the dates you have, finding out each girl's interests or selecting a destination and initiating the turn. By doing that you will be transported to a 3D depiction of the map where you will view random events for all 4 players. Events are usually triggered when you find a girl at the location that you visited the given time and from there you can talk with that girl and if your relationship experience with that girl is high you can give her gifts and ask her for dates. When all players' events are over the turn ends (1 day passes) and the same procedure is repeated until the girl's love meter is high enough for you to express your feelings for her.", 
+      "game_id": 34281, 
+      "genres": [
+        {
+          "genre_category": "Basic Genres", 
+          "genre_category_id": 1, 
+          "genre_id": 3, 
+          "genre_name": "Simulation"
+        }, 
+        {
+          "genre_category": "Gameplay", 
+          "genre_category_id": 4, 
+          "genre_id": 26, 
+          "genre_name": "Board Game"
+        }, 
+        {
+          "genre_category": "Visual Presentation", 
+          "genre_category_id": 12, 
+          "genre_id": 25, 
+          "genre_name": "Isometric"
+        }, 
+        {
+          "genre_category": "Art Style", 
+          "genre_category_id": 13, 
+          "genre_id": 57, 
+          "genre_name": "Anime / Manga"
+        }
+      ], 
+      "moby_score": 2.0, 
+      "moby_url": "http://www.mobygames.com/game/getter-love-panda-love-unit", 
+      "num_votes": 2, 
+      "official_url": null, 
+      "platforms": [
+        {
+          "first_release_date": "1998-12-04", 
+          "platform_id": 9, 
+          "platform_name": "Nintendo 64"
+        }
+      ], 
+      "sample_cover": null, 
+      "sample_screenshots": [
+        {
+          "caption": "Title screen", 
+          "height": 240, 
+          "image": "http://www.mobygames.com/images/shots/l/299918-getter-love-panda-love-unit-nintendo-64-screenshot-title-screen.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/299918-getter-love-panda-love-unit-nintendo-64-screenshot-title-screen.jpg", 
+          "width": 320
+        }, 
+        {
+          "caption": "Your friends", 
+          "height": 240, 
+          "image": "http://www.mobygames.com/images/shots/l/299919-getter-love-panda-love-unit-nintendo-64-screenshot-your-friends.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/299919-getter-love-panda-love-unit-nintendo-64-screenshot-your-friends.jpg", 
+          "width": 320
+        }, 
+        {
+          "caption": "Menu", 
+          "height": 240, 
+          "image": "http://www.mobygames.com/images/shots/l/299920-getter-love-panda-love-unit-nintendo-64-screenshot-menu.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/299920-getter-love-panda-love-unit-nintendo-64-screenshot-menu.jpg", 
+          "width": 320
+        }, 
+        {
+          "caption": "The available characters you can select from", 
+          "height": 240, 
+          "image": "http://www.mobygames.com/images/shots/l/299921-getter-love-panda-love-unit-nintendo-64-screenshot-the-available.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/299921-getter-love-panda-love-unit-nintendo-64-screenshot-the-available.jpg", 
+          "width": 320
+        }
+      ], 
+      "title": "Getter Love!! Panda Love Unit"
+    }, 
+    {
+      "description": "<i>GT 64</i>, short for Grand Tour 64, is a 3D racing game for the Nintendo 64. It features cars and drivers from the All-Japan GT Championship season of 1997 as it is an officially licensed game.\n\nThere are three stages with each a long and a short version counting six tracks in total situated in Japan, the USA and Europe, all located in urban settings. You can opt to race three, six, twelve or 24 laps on each track. There are fourteen cars available to race in and they can be manually tweaked to improve performance.\n\nThe Japanese re-release of the game includes two new tracks based on the 1998 season.", 
+      "game_id": 35832, 
+      "genres": [
+        {
+          "genre_category": "Basic Genres", 
+          "genre_category_id": 1, 
+          "genre_id": 6, 
+          "genre_name": "Racing / Driving"
+        }, 
+        {
+          "genre_category": "Basic Genres", 
+          "genre_category_id": 1, 
+          "genre_id": 3, 
+          "genre_name": "Simulation"
+        }, 
+        {
+          "genre_category": "Perspective", 
+          "genre_category_id": 2, 
+          "genre_id": 128, 
+          "genre_name": "Behind view"
+        }, 
+        {
+          "genre_category": "Perspective", 
+          "genre_category_id": 2, 
+          "genre_id": 7, 
+          "genre_name": "1st-person"
+        }, 
+        {
+          "genre_category": "Interface/Control", 
+          "genre_category_id": 7, 
+          "genre_id": 168, 
+          "genre_name": "Direct Control"
+        }, 
+        {
+          "genre_category": "Vehicular Themes", 
+          "genre_category_id": 11, 
+          "genre_id": 188, 
+          "genre_name": "Automobile"
+        }, 
+        {
+          "genre_category": "Other Attributes", 
+          "genre_category_id": 6, 
+          "genre_id": 82, 
+          "genre_name": "Licensed"
+        }
+      ], 
+      "moby_score": 2.9, 
+      "moby_url": "http://www.mobygames.com/game/gt-64-championship-edition", 
+      "num_votes": 5, 
+      "official_url": null, 
+      "platforms": [
+        {
+          "first_release_date": "1998-04", 
+          "platform_id": 9, 
+          "platform_name": "Nintendo 64"
+        }
+      ], 
+      "sample_cover": {
+        "height": 565, 
+        "image": "http://www.mobygames.com/images/covers/l/444486-gt-64-championship-edition-nintendo-64-front-cover.jpg", 
+        "platforms": [
+          "Nintendo 64"
+        ], 
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/444486-gt-64-championship-edition-nintendo-64-front-cover.jpg", 
+        "width": 800
+      }, 
+      "sample_screenshots": [], 
+      "title": "GT 64: Championship Edition"
+    }, 
+    {
+      "description": "<i>BassMasters 2000</i> is a fishing simulation game which counts a total of  4 modes and has a variety of customizable options. You can create and save up to 7 anglers through the \u201cCreate Angler\u201d option, customising characteristics such as sex, hair, face, clothes, etc. Other customisable options include \u201cLake Conditions\u201d (lake location, season, weather, time, etc.), \u201cBoat\u201d (boat model, engine, etc.) and \u201cTackle\u201d (rod/reel, line, lure, etc.). These following are the modes of play:<ul><li>Exhibition \u2014the only mode where every customisation option is available. The objective is to catch up to a certain number of fish and the sum of their weight to equal or surpass the weight that is mentioned in the beginning of the game.</li><br>\n<li>Tournament \u2014there are 6 tournaments you must compete in and each tournament lasts for 3 days. Fishing lasts until the day is over, when the total weight of fish caught is counted and depending on how well you did you get the equivalent rank. If at the end of the last tournament you manage to rank 5th or better new equipment or boats are unlocked. </li><br>\n<li>Speed Fishing \u2014in this mode you\u2019re given a time limit of 3 minutes and must catch as more of the fish mentioned in the overview as possible. Time is extended by one or more seconds depending on how much the fish weighs and the objective is to fish for as long as you can.</li><br>\n<li>Casting Game \u2014you must cast the line at certain spots on the lake which are specified by coloured circles, within the time limit. For each target you manage to hit you receive points and if the earned score is high enough you get additional time and the patterns in which the targets appear change.</li></ul>", 
+      "game_id": 36512, 
+      "genres": [
+        {
+          "genre_category": "Basic Genres", 
+          "genre_category_id": 1, 
+          "genre_id": 3, 
+          "genre_name": "Simulation"
+        }, 
+        {
+          "genre_category": "Perspective", 
+          "genre_category_id": 2, 
+          "genre_id": 126, 
+          "genre_name": "3rd-person (Other)"
+        }, 
+        {
+          "genre_category": "Perspective", 
+          "genre_category_id": 2, 
+          "genre_id": 7, 
+          "genre_name": "1st-person"
+        }, 
+        {
+          "genre_category": "Other Attributes", 
+          "genre_category_id": 6, 
+          "genre_id": 82, 
+          "genre_name": "Licensed"
+        }
+      ], 
+      "moby_score": 2.7, 
+      "moby_url": "http://www.mobygames.com/game/bassmasters-2000", 
+      "num_votes": 6, 
+      "official_url": "https://web.archive.org/web/20000310193644/http://www.bassmasters2k.com/", 
+      "platforms": [
+        {
+          "first_release_date": "1999-12-16", 
+          "platform_id": 9, 
+          "platform_name": "Nintendo 64"
+        }
+      ], 
+      "sample_cover": {
+        "height": 582, 
+        "image": "http://www.mobygames.com/images/covers/l/236862-bassmasters-2000-nintendo-64-front-cover.jpg", 
+        "platforms": [
+          "Nintendo 64"
+        ], 
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/236862-bassmasters-2000-nintendo-64-front-cover.jpg", 
+        "width": 800
+      }, 
+      "sample_screenshots": [
+        {
+          "caption": "Title screen", 
+          "height": 240, 
+          "image": "http://www.mobygames.com/images/shots/l/329761-bassmasters-2000-nintendo-64-screenshot-title-screen.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/329761-bassmasters-2000-nintendo-64-screenshot-title-screen.jpg", 
+          "width": 320
+        }, 
+        {
+          "caption": "Main menu", 
+          "height": 240, 
+          "image": "http://www.mobygames.com/images/shots/l/329762-bassmasters-2000-nintendo-64-screenshot-main-menu.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/329762-bassmasters-2000-nintendo-64-screenshot-main-menu.jpg", 
+          "width": 320
+        }, 
+        {
+          "caption": "Customizing your angler.", 
+          "height": 240, 
+          "image": "http://www.mobygames.com/images/shots/l/329763-bassmasters-2000-nintendo-64-screenshot-customizing-your-angler.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/329763-bassmasters-2000-nintendo-64-screenshot-customizing-your-angler.jpg", 
+          "width": 320
+        }, 
+        {
+          "caption": "Customizable options in Lake Conditions", 
+          "height": 240, 
+          "image": "http://www.mobygames.com/images/shots/l/329764-bassmasters-2000-nintendo-64-screenshot-customizable-options.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/329764-bassmasters-2000-nintendo-64-screenshot-customizable-options.jpg", 
+          "width": 320
+        }
+      ], 
+      "title": "BassMasters 2000"
+    }, 
+    {
+      "description": "<i>Nushi Tsuri 64</i> is a fishing-themed role-playing game. It was the first installment of the series for the N64 console and received a Japanese-only release.\n\nThere are 6 characters from which you can choose from before you start the game. Just like most RPGs you can freely roam the town, visit other towns as well, talk to NPCs and buy stuff which are mostly fishing-related. To fish you need to find a suitable spot and after catching a fish you can keep it to a water tank and feed it.\n\nWhile walking random encounters can occur at any time in which you are transferred at a different screen and have the choice of either throwing stuff like rocks at the enemy to chase them away or run across a path-like bar to reach to safety and end the battle. If you choose to do the latter you are vulnerable as the enemy is able to attack you and have your health depleted.", 
+      "game_id": 38772, 
+      "genres": [
+        {
+          "genre_category": "Basic Genres", 
+          "genre_category_id": 1, 
+          "genre_id": 50, 
+          "genre_name": "Role-Playing (RPG)"
+        }, 
+        {
+          "genre_category": "Basic Genres", 
+          "genre_category_id": 1, 
+          "genre_id": 3, 
+          "genre_name": "Simulation"
+        }, 
+        {
+          "genre_category": "Perspective", 
+          "genre_category_id": 2, 
+          "genre_id": 13, 
+          "genre_name": "Top-down"
+        }, 
+        {
+          "genre_category": "Art Style", 
+          "genre_category_id": 13, 
+          "genre_id": 57, 
+          "genre_name": "Anime / Manga"
+        }
+      ], 
+      "moby_score": 2.7, 
+      "moby_url": "http://www.mobygames.com/game/nushi-tsuri-64", 
+      "num_votes": 2, 
+      "official_url": null, 
+      "platforms": [
+        {
+          "first_release_date": "1998-11-27", 
+          "platform_id": 9, 
+          "platform_name": "Nintendo 64"
+        }
+      ], 
+      "sample_cover": {
+        "height": 1086, 
+        "image": "http://www.mobygames.com/images/covers/l/272145-nushi-tsuri-64-nintendo-64-front-cover.jpg", 
+        "platforms": [
+          "Nintendo 64"
+        ], 
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/272145-nushi-tsuri-64-nintendo-64-front-cover.jpg", 
+        "width": 800
+      }, 
+      "sample_screenshots": [
+        {
+          "caption": "Title screen", 
+          "height": 240, 
+          "image": "http://www.mobygames.com/images/shots/l/350556-nushi-tsuri-64-nintendo-64-screenshot-title-screen.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/350556-nushi-tsuri-64-nintendo-64-screenshot-title-screen.jpg", 
+          "width": 320
+        }, 
+        {
+          "caption": "Outside your house", 
+          "height": 240, 
+          "image": "http://www.mobygames.com/images/shots/l/350557-nushi-tsuri-64-nintendo-64-screenshot-outside-your-house.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/350557-nushi-tsuri-64-nintendo-64-screenshot-outside-your-house.jpg", 
+          "width": 320
+        }, 
+        {
+          "caption": "Menu", 
+          "height": 240, 
+          "image": "http://www.mobygames.com/images/shots/l/350558-nushi-tsuri-64-nintendo-64-screenshot-menu.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/350558-nushi-tsuri-64-nintendo-64-screenshot-menu.jpg", 
+          "width": 320
+        }, 
+        {
+          "caption": "Fishing", 
+          "height": 240, 
+          "image": "http://www.mobygames.com/images/shots/l/350559-nushi-tsuri-64-nintendo-64-screenshot-fishing.jpg", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/350559-nushi-tsuri-64-nintendo-64-screenshot-fishing.jpg", 
+          "width": 320
+        }
+      ], 
+      "title": "Nushi Tsuri 64"
+    }, 
+    {
+      "description": "<i>Virtual Pool 64</i> is a pool simulation game and is a continuation of the <i>Virtual Pool</i> series.  It has nine different pool games to play.  They are eight-ball, nine-ball, three-ball, six-ball, ten-ball, straight pool, one-pocket, bank pool and rotation.  In addition, eight ball has three separate rules you can play under, American bar rules, British rules and APA league rules.\n\nYou can choose to play in a standard match, a tournament of up to 16 players, freestyle, which allows you to play without rules or Shark Skins, which is a combination of three-ball, six-ball and nine-ball.", 
+      "game_id": 61712, 
+      "genres": [
+        {
+          "genre_category": "Basic Genres", 
+          "genre_category_id": 1, 
+          "genre_id": 5, 
+          "genre_name": "Sports"
+        }, 
+        {
+          "genre_category": "Basic Genres", 
+          "genre_category_id": 1, 
+          "genre_id": 3, 
+          "genre_name": "Simulation"
+        }, 
+        {
+          "genre_category": "Perspective", 
+          "genre_category_id": 2, 
+          "genre_id": 7, 
+          "genre_name": "1st-person"
+        }, 
+        {
+          "genre_category": "Sports Themes", 
+          "genre_category_id": 3, 
+          "genre_id": 89, 
+          "genre_name": "Pool / Snooker"
+        }
+      ], 
+      "moby_score": 2.7, 
+      "moby_url": "http://www.mobygames.com/game/virtual-pool-64", 
+      "num_votes": 4, 
+      "official_url": null, 
+      "platforms": [
+        {
+          "first_release_date": "1998-12-17", 
+          "platform_id": 9, 
+          "platform_name": "Nintendo 64"
+        }
+      ], 
+      "sample_cover": {
+        "height": 557, 
+        "image": "http://www.mobygames.com/images/covers/l/301959-virtual-pool-64-nintendo-64-front-cover.jpg", 
+        "platforms": [
+          "Nintendo 64"
+        ], 
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/301959-virtual-pool-64-nintendo-64-front-cover.jpg", 
+        "width": 800
+      }, 
+      "sample_screenshots": [], 
+      "title": "Virtual Pool 64"
+    }, 
+    {
+      "description": "<i>SimCity 64</i> continues Nintendo's use of the general SimCity game with their own addition of more cartoonish and Nintendo related elements. The relationship between <i>SimCity 64</i> and the SNES version can be seen by the reappearance of the earlier game's green haired tutorialmonger <a href=\"http://www.mobygames.com/game/snes/simcity/screenshots/gameShotId,277038/\">Doctor Wright</a> [Dr.\u30e9\u30a4\u30c8]. \n\nThe gameplay is similar to <i>SimCity</i>, where the player zones certain areas for commercial, residential or industrial use, and then builds the civic infrastructure to support their growth. The city will develop in accordance with the roads, power structures, police stations, etc. that the player builds. However, in a twist, the player can then shrink their nigh omniscient overhead perspective into a first-person, citizen-on-the-streets view. While in this perspective, other Sims can be interacted with. They will tell the player about their lives and neighborhoods. Sighting a gun toting criminal on the sidewalk is a good indicator that more police stations need to be constructed. These city dwellers are rendered as cartoon sprites.\n\nApart from the ability to walk the streets there is some additional city interactivity available in the first-person perspective.\n<ul><li> At airports, the player can now access a helicopter. The vehicles' horizontal movement is controlled via the control stick and vertical movement with the up and down c-buttons.</li>\n<li>In a hide-and-seek mini-game Dr. Wright assigns you a person to find on the streets of your city. A bar on the bottom of the screen shows if you are drawing near to the quested person. There are some rewards to be had from listening to these persons' stories.</li>\n<li>If a rail system is in play players can board it; it can also be ridden, and the player may look out of the window of their car.</li></ul>\nUsing Mario Artist: Paint Studio players can create a character, animated with two frames of animation, and import him or her into <i>SimCity 64</i>. This character can roam the streets until the player decides to make a new one.", 
+      "game_id": 62465, 
+      "genres": [
+        {
+          "genre_category": "Basic Genres", 
+          "genre_category_id": 1, 
+          "genre_id": 3, 
+          "genre_name": "Simulation"
+        }, 
+        {
+          "genre_category": "Perspective", 
+          "genre_category_id": 2, 
+          "genre_id": 129, 
+          "genre_name": "Bird's-eye view"
+        }, 
+        {
+          "genre_category": "Perspective", 
+          "genre_category_id": 2, 
+          "genre_id": 7, 
+          "genre_name": "1st-person"
+        }, 
+        {
+          "genre_category": "Gameplay", 
+          "genre_category_id": 4, 
+          "genre_id": 137, 
+          "genre_name": "City Building / Construction Simulation"
+        }, 
+        {
+          "genre_category": "Gameplay", 
+          "genre_category_id": 4, 
+          "genre_id": 40, 
+          "genre_name": "Managerial / Business Simulation"
+        }, 
+        {
+          "genre_category": "Vehicular Themes", 
+          "genre_category_id": 11, 
+          "genre_id": 108, 
+          "genre_name": "Train"
+        }, 
+        {
+          "genre_category": "Vehicular Themes", 
+          "genre_category_id": 11, 
+          "genre_id": 56, 
+          "genre_name": "Helicopter"
+        }, 
+        {
+          "genre_category": "Visual Presentation", 
+          "genre_category_id": 12, 
+          "genre_id": 134, 
+          "genre_name": "Free-roaming camera"
+        }, 
+        {
+          "genre_category": "Art Style", 
+          "genre_category_id": 13, 
+          "genre_id": 57, 
+          "genre_name": "Anime / Manga"
+        }
+      ], 
+      "moby_score": 1.4, 
+      "moby_url": "http://www.mobygames.com/game/simcity-64", 
+      "num_votes": 1, 
+      "official_url": null, 
+      "platforms": [
+        {
+          "first_release_date": "2000-02-23", 
+          "platform_id": 9, 
+          "platform_name": "Nintendo 64"
+        }
+      ], 
+      "sample_cover": null, 
+      "sample_screenshots": [], 
+      "title": "SimCity 64"
+    }, 
+    {
+      "description": "<i>Mario Artist: Communication Kit</i> serves as an add-on and accessory to the other <i>Mario Artist</i> games. It allowed players to connect to the Internet via RandNetDD and show off their creations to other players. While connected, players can use their characters to explore a virtual 3D community. There is also exclusive content on the disk that can be imported to the other <i>Mario Artist</i> titles.", 
+      "game_id": 69487, 
+      "genres": [
+        {
+          "genre_category": "Basic Genres", 
+          "genre_category_id": 1, 
+          "genre_id": 62, 
+          "genre_name": "DLC / Add-on"
+        }, 
+        {
+          "genre_category": "Basic Genres", 
+          "genre_category_id": 1, 
+          "genre_id": 12, 
+          "genre_name": "Educational"
+        }, 
+        {
+          "genre_category": "Basic Genres", 
+          "genre_category_id": 1, 
+          "genre_id": 3, 
+          "genre_name": "Simulation"
+        }, 
+        {
+          "genre_category": "Educational Categories", 
+          "genre_category_id": 5, 
+          "genre_id": 79, 
+          "genre_name": "Graphics / Art"
+        }
+      ], 
+      "moby_score": 1.0, 
+      "moby_url": "http://www.mobygames.com/game/mario-artist-communication-kit", 
+      "num_votes": 1, 
+      "official_url": "http://www.nintendo.co.jp/nom/9911/02/6title/", 
+      "platforms": [
+        {
+          "first_release_date": "2000-06-29", 
+          "platform_id": 9, 
+          "platform_name": "Nintendo 64"
+        }
+      ], 
+      "sample_cover": null, 
+      "sample_screenshots": [], 
+      "title": "Mario Artist: Communication Kit"
+    }, 
+    {
+      "description": "In <i>D\u014dbutsu no Mori</i>, the player arrives at a new town, which they name, and play as a singular character whose name they also choose. The game has no set goal; instead, it is more of a The Sims type of game, in which the player can do what they want, when they want, without rules, goals or time limit.\n\nWhen the player first arrives, they will be given a house to live in. Unfortunately, they have no money, so they must pay off their home loan by earning \"bells\", the game's form of currency. Bells can be earned by performing various tasks for the other citizens of the town, catching and selling fish and insects, selling items, finding money in trees, and more. In addition to paying off the loan, money can be used to buy furniture and clothing. The player's home can see further expansions once the loan is paid.\n\nOne of the other main features of the game is the multitude of literally colorful characters that populate the town, all of whom are anthropomorphic animals; the player is the only human in sight. The town starts with a randomized selection of animal villagers, and more can move in and out as the game progresses. The player is able to talk to and befriend their animal neighbors.\n\nThe game uses an internal clock in the game pak to keep track of the date and time. Season changes and special holidays will occur in the town as time passes.", 
+      "game_id": 73768, 
+      "genres": [
+        {
+          "genre_category": "Basic Genres", 
+          "genre_category_id": 1, 
+          "genre_id": 3, 
+          "genre_name": "Simulation"
+        }, 
+        {
+          "genre_category": "Perspective", 
+          "genre_category_id": 2, 
+          "genre_id": 129, 
+          "genre_name": "Bird's-eye view"
+        }, 
+        {
+          "genre_category": "Gameplay", 
+          "genre_category_id": 4, 
+          "genre_id": 139, 
+          "genre_name": "Life / Social Simulation"
+        }, 
+        {
+          "genre_category": "Pacing", 
+          "genre_category_id": 9, 
+          "genre_id": 94, 
+          "genre_name": "Persistent"
+        }
+      ], 
+      "moby_score": 3.9, 
+      "moby_url": "http://www.mobygames.com/game/dbutsu-no-mori", 
+      "num_votes": 9, 
+      "official_url": null, 
+      "platforms": [
+        {
+          "first_release_date": "2001-04-14", 
+          "platform_id": 9, 
+          "platform_name": "Nintendo 64"
+        }
+      ], 
+      "sample_cover": {
+        "height": 1094, 
+        "image": "http://www.mobygames.com/images/covers/l/269062-dobutsu-no-mori-nintendo-64-front-cover.jpg", 
+        "platforms": [
+          "Nintendo 64"
+        ], 
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/269062-dobutsu-no-mori-nintendo-64-front-cover.jpg", 
+        "width": 800
+      }, 
+      "sample_screenshots": [
+        {
+          "caption": "Title Screen", 
+          "height": 480, 
+          "image": "http://www.mobygames.com/images/shots/l/379141-dobutsu-no-mori-nintendo-64-screenshot-title-screen.png", 
+          "thumbnail_image": "http://www.mobygames.com/images/shots/s/379141-dobutsu-no-mori-nintendo-64-screenshot-title-screen.jpg", 
+          "width": 638
+        }
+      ], 
+      "title": "D\u014dbutsu no Mori"
+    }, 
+    {
+      "description": "Wonder Project J2 is a Japanese exclusive Nintendo 64 game released in 1996 as a sequel to the 1994 Super Famicon game Wonder Project J. Wonder Project J2 was developed by Givro and published by Enix.\n\nThe game takes place 15 years after the events of the first game and focuses on the protagonist Josette - a female robot built by Doctor Geppetto who built the main character of the previous game as well. The game plays as a raising simulator, with the player guiding Josette through the text driven game through yes or no questions in a branching but limited story line. Choices made in the early game effect the outcome of the second half as Josette and by proxy the player come into conflict with the Silliconian Army.", 
+      "game_id": 97845, 
+      "genres": [
+        {
+          "genre_category": "Basic Genres", 
+          "genre_category_id": 1, 
+          "genre_id": 3, 
+          "genre_name": "Simulation"
+        }, 
+        {
+          "genre_category": "Perspective", 
+          "genre_category_id": 2, 
+          "genre_id": 130, 
+          "genre_name": "Text-based / Spreadsheet"
+        }, 
+        {
+          "genre_category": "Gameplay", 
+          "genre_category_id": 4, 
+          "genre_id": 165, 
+          "genre_name": "RPG elements"
+        }, 
+        {
+          "genre_category": "Gameplay", 
+          "genre_category_id": 4, 
+          "genre_id": 147, 
+          "genre_name": "Japanese-style RPG (JRPG)"
+        }, 
+        {
+          "genre_category": "Gameplay", 
+          "genre_category_id": 4, 
+          "genre_id": 23, 
+          "genre_name": "Interactive Fiction / Text Adventure"
+        }, 
+        {
+          "genre_category": "Interface/Control", 
+          "genre_category_id": 7, 
+          "genre_id": 171, 
+          "genre_name": "Text Parser"
+        }, 
+        {
+          "genre_category": "Pacing", 
+          "genre_category_id": 9, 
+          "genre_id": 69, 
+          "genre_name": "Meditative / Zen"
+        }, 
+        {
+          "genre_category": "Setting", 
+          "genre_category_id": 10, 
+          "genre_id": 78, 
+          "genre_name": "Fantasy"
+        }, 
+        {
+          "genre_category": "Setting", 
+          "genre_category_id": 10, 
+          "genre_id": 66, 
+          "genre_name": "Cyberpunk / Dark Sci-Fi"
+        }, 
+        {
+          "genre_category": "Vehicular Themes", 
+          "genre_category_id": 11, 
+          "genre_id": 41, 
+          "genre_name": "Naval / Watercraft"
+        }, 
+        {
+          "genre_category": "Visual Presentation", 
+          "genre_category_id": 12, 
+          "genre_id": 133, 
+          "genre_name": "Fixed / Flip-screen"
+        }, 
+        {
+          "genre_category": "Art Style", 
+          "genre_category_id": 13, 
+          "genre_id": 57, 
+          "genre_name": "Anime / Manga"
+        }
+      ], 
+      "moby_score": 3.7, 
+      "moby_url": "http://www.mobygames.com/game/wonder-project-j2", 
+      "num_votes": 2, 
+      "official_url": null, 
+      "platforms": [
+        {
+          "first_release_date": "1996-11-22", 
+          "platform_id": 9, 
+          "platform_name": "Nintendo 64"
+        }
+      ], 
+      "sample_cover": {
+        "height": 1103, 
+        "image": "http://www.mobygames.com/images/covers/l/452925-wonder-project-j2-nintendo-64-front-cover.jpg", 
+        "platforms": [
+          "Nintendo 64"
+        ], 
+        "thumbnail_image": "http://www.mobygames.com/images/covers/s/452925-wonder-project-j2-nintendo-64-front-cover.jpg", 
+        "width": 800
+      }, 
+      "sample_screenshots": [], 
+      "title": "Wonder Project J2"
+    }, 
+    {
+      "description": "The 2nd Pachinko game on N64, also uses 5 recreated real machines from Pachinko company Heiwa (Peace Corporation). It has 3 modes: Battle Simulation where players play 365 days a year starting January 1st trying to earn as much money as possible, Pachinko Research mode where players can play freely while measuring machine configurations, stats over playtime, and individually adjust the tightness of each pin, and battle mode where 2 players (or 1 vs a cpu) try to get the most balls within the time limit on a old fashioned less graphically taxing machine.", 
+      "game_id": 108588, 
+      "genres": [
+        {
+          "genre_category": "Basic Genres", 
+          "genre_category_id": 1, 
+          "genre_id": 3, 
+          "genre_name": "Simulation"
+        }, 
+        {
+          "genre_category": "Perspective", 
+          "genre_category_id": 2, 
+          "genre_id": 7, 
+          "genre_name": "1st-person"
+        }, 
+        {
+          "genre_category": "Gameplay", 
+          "genre_category_id": 4, 
+          "genre_id": 53, 
+          "genre_name": "Pinball"
+        }, 
+        {
+          "genre_category": "Gameplay", 
+          "genre_category_id": 4, 
+          "genre_id": 28, 
+          "genre_name": "Casino / Gambling"
+        }
+      ], 
+      "moby_score": 0.0, 
+      "moby_url": "http://www.mobygames.com/game/pachinko-365-nichi", 
+      "num_votes": 0, 
+      "official_url": "http://web.archive.org/web/20010616203532/http://www.seta.co.jp:80/game/pati365/365.htm", 
+      "platforms": [
+        {
+          "first_release_date": "1998-05-29", 
+          "platform_id": 9, 
+          "platform_name": "Nintendo 64"
+        }
+      ], 
+      "sample_cover": null, 
+      "sample_screenshots": [], 
+      "title": "Pachinko 365 Nichi"
+    }
+  ]
